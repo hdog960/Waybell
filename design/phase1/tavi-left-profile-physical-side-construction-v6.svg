@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 1120" width="840" height="1120" role="img" aria-labelledby="name description">
+<title id="name">Tavi — original physical left side construction reference</title><desc id="description">Single left-facing profile. Visible map satchel at near physical left hip; glowing Echo Lantern held on far physical right arm mostly behind torso. This is a vector design aid, not a premium finished painted profile.</desc>
+<defs>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e8d0"/><stop offset="1" stop-color="#e0c9a4"/></linearGradient>
+ <linearGradient id="cloak" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2e818c"/><stop offset=".52" stop-color="#116073"/><stop offset="1" stop-color="#153c54"/></linearGradient>
+ <linearGradient id="boot" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#92683f"/><stop offset="1" stop-color="#513527"/></linearGradient>
+ <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe2a3"/><stop offset=".5" stop-color="#cb9350"/><stop offset="1" stop-color="#765031"/></linearGradient>
+ <radialGradient id="lantern"><stop stop-color="#fff7cc" stop-opacity=".85"/><stop offset=".46" stop-color="#ffd068" stop-opacity=".42"/><stop offset="1" stop-color="#e9a33b" stop-opacity="0"/></radialGradient>
+ </defs><rect width="840" height="1120" fill="url(#paper)"/>
+<ellipse cx="420" cy="1022" rx="181" ry="28" fill="#c0a785" opacity=".35"/>
+<path d="M372 771L356 944L405 949L434 777M448 773L450 952L504 955L506 770" fill="#574e4a" stroke="#453b35" stroke-width="12"/>
+<g fill="url(#boot)" stroke="#563a2e" stroke-width="9"><path d="M355 930L410 932L422 1015L304 1018L305 984Z"/><path d="M451 931L506 932L547 1009L450 1015Z"/></g>
+<path d="M305 984L409 984M454 982L518 980" stroke="#d5a66b" stroke-width="8"/>
+<!-- far/right arm and lantern behind torso, only portion should appear -->
+<path d="M463 439Q519 515 552 657L566 737" stroke="#dbb895" stroke-width="37" fill="none" stroke-linecap="round"/>
+<g transform="translate(574 752)"><circle r="84" fill="url(#lantern)"/><path d="M-29 -18Q-21 -51 0 -51Q25 -50 29 -18" stroke="#b48c50" stroke-width="9" fill="none"/><rect x="-34" y="-18" width="70" height="110" rx="10" fill="url(#brass)" stroke="#997145" stroke-width="7"/><rect x="-20" y="-4" width="41" height="73" fill="#fff1b8"/><path d="M0 -4V68" stroke="#ad8248" stroke-width="5"/></g>
+<!-- side torso and cloak -->
+<path d="M362 363Q445 333 506 403L502 783Q405 912 299 890L327 618Z" fill="url(#cloak)" stroke="#e2b879" stroke-width="11"/>
+<path d="M345 438Q300 572 298 756L267 875L346 834L391 411" fill="#17667a" stroke="#ddaa68" stroke-width="8"/>
+<path d="M338 520Q364 583 340 640Q312 703 315 773" fill="none" stroke="#e8bb72" stroke-width="8"/>
+<g transform="translate(400 640)" fill="none" stroke="#e9bf79"><circle r="39" stroke-width="6"/><path d="M-61 0H61M0 -61V61M-42 -42L42 42M42 -42L-42 42" stroke-width="4"/></g>
+<path d="M359 408Q401 393 480 419L458 720L365 729Z" fill="#dfc9a8" stroke="#9e7e5d" stroke-width="8"/>
+<path d="M359 443L431 438L441 720L356 727" fill="#936644" stroke="#6e4b34" stroke-width="7"/>
+<path d="M369 468L435 482M365 555L442 564" stroke="#d0a476" stroke-width="7"/>
+<!-- Near/left arm -->
+<path d="M368 454Q334 569 326 686L326 744" fill="none" stroke="#e5c19c" stroke-width="38" stroke-linecap="round"/>
+<path d="M320 650L350 651L350 729L320 729Z" fill="url(#boot)" stroke="#774f37" stroke-width="7"/>
+<!-- Satchel on visible physical left hip -->
+<path d="M389 418L324 696" fill="none" stroke="#73503a" stroke-width="18"/>
+<path d="M294 664L378 664L382 803L284 805Z" fill="#865839" stroke="#d1a46c" stroke-width="9"/>
+<path d="M289 711L375 708" stroke="#c4945b" stroke-width="8"/>
+<rect x="325" y="724" width="20" height="30" rx="3" fill="url(#brass)"/>
+<g><path d="M373 418Q344 382 369 327L441 309L476 354L472 428" fill="#176274" stroke="#d0a465" stroke-width="8"/>
+<ellipse cx="400" cy="273" rx="59" ry="78" fill="#edc49c" stroke="#af8462" stroke-width="6"/>
+<path d="M364 263Q316 267 333 220Q340 177 394 166Q472 149 469 230L446 224L415 187L397 216L360 217Z" fill="#553b2d" stroke="#3e3027" stroke-width="7"/>
+<path d="M358 191Q346 159 382 157M411 167Q411 145 434 149" fill="none" stroke="#71503a" stroke-width="15" stroke-linecap="round"/>
+<path d="M339 292Q312 279 326 265" fill="#e9bc91"/>
+<circle cx="362" cy="272" r="5" fill="#4a3327"/>
+<path d="M338 313q14 8 24 1" fill="none" stroke="#a3715d" stroke-width="3"/></g>
+<!-- clasp seen side -->
+<circle cx="440" cy="394" r="22" fill="url(#brass)" stroke="#8b663f" stroke-width="5"/>
+<path d="M440 380V410M426 394H454" stroke="#fff1b2" stroke-width="3"/>
+</svg>
