@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Tavi — consistent exploration and combat action poses v3</title>
+<desc id="desc">Original Phase 1 two-dimensional costume and equipment continuity study with four Tavi poses: lantern carry, guard, sword strike and dodge. Shared scale and physical map satchel maintained, not game animation or final rig.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#153847"/><stop offset="1" stop-color="#203644"/></linearGradient></defs>
+<rect width="1600" height="760" fill="url(#bg)"/>
+<rect x="18" y="18" width="1564" height="724" rx="15" fill="none" stroke="#d2ad75" stroke-width="3"/>
+<text x="43" y="72" fill="#f6dfad" font-family="Georgia,serif" font-size="40">TAVI — EQUIPMENT CONTINUITY / ACTION SILHOUETTES</text>
+<text x="43" y="108" fill="#b9d9d5" font-family="sans-serif" font-size="18">Same teal cloak and asymmetrical satchel • Lantern carried while exploring, holstered during sword use • Phase 1 reference only</text>
+<path d="M46 518H1555" stroke="#afaa8a" stroke-width="2" stroke-dasharray="8 11" opacity=".62"/>
+<g transform="translate(208 470)">
+<rect x="-175" y="-308" width="350" height="440" rx="17" fill="#e6d4ae" fill-opacity=".045" stroke="#95aea6" stroke-opacity=".46" stroke-width="2"/>
+<ellipse cx="0" cy="17" rx="94" ry="21" fill="#122a30" opacity=".30"/>
+<g transform="translate(0 0) rotate(0)">
+<path d="M-19 -83L-28 -10L-55 11L-40 25L-2 16L12 -72" fill="#53493f" stroke="#3d332b" stroke-width="6"/><path d="M17 -83L25 -5L51 11L43 25L4 18L-5 -70" fill="#55493e" stroke="#3b312b" stroke-width="6"/>
+<path d="M-50 -168Q0 -188 48 -166L40 -75H-46Z" fill="#e9d0a6" stroke="#987c5a" stroke-width="6"/>
+<path d="M-45 -168Q-108 -107 -87 -66L-11 -87L22 -168Z" fill="#1a7283" stroke="#e4bd7d" stroke-width="6"/>
+<path d="M-61 -149L-44 -92M-50 -160L-28 -138" stroke="#f0c783" stroke-width="4" stroke-dasharray="9 7"/>
+<path d="M-36 -162L29 -94" stroke="#875b40" stroke-width="13"/>
+<rect x="-73" y="-103" width="37" height="59" rx="6" fill="#8e5f41" stroke="#dcb27d" stroke-width="5"/>
+<path d="M-49 -149L-60 -62" stroke="#e7c49c" stroke-width="20"/><path d="M46 -150L60 -59" stroke="#e3bf98" stroke-width="20"/>
+<circle cx="0" cy="-218" r="43" fill="#efc8a0" stroke="#aa8160" stroke-width="4"/>
+<path d="M-43 -225Q-51 -285 -10 -273Q23 -283 44 -239L19 -250L2 -251L-21 -234Z" fill="#52372b"/>
+<circle cx="-13" cy="-214" r="3.5" fill="#39271e"/><circle cx="14" cy="-214" r="3.5" fill="#39271e"/>
+<path d="M-7 -195q8 6 16 -1" stroke="#9d6e57" stroke-width="2.5" fill="none"/>
+<path d="M68 -146L107 -41" stroke="#8a6e52" stroke-width="10" opacity=".8"/><g transform="translate(63 -51)"><path d="M-8 -3V-16Q2 -28 13 -16V-3" stroke="#f0c783" fill="none" stroke-width="6"/><path d="M-13 -3H18L14 44H-9Z" fill="#c6924c" stroke="#f6d594" stroke-width="5"/><path d="M-5 4H10V36H-5Z" fill="#fff0a5"/></g>
+</g>
+<text x="0" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#f8dfaf">EXPLORATION</text>
+<text x="0" y="109" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#c8d9d4">Lantern carried, sword sheathed</text>
+</g>
+<g transform="translate(605 470)">
+<rect x="-175" y="-308" width="350" height="440" rx="17" fill="#e6d4ae" fill-opacity=".045" stroke="#95aea6" stroke-opacity=".46" stroke-width="2"/>
+<ellipse cx="0" cy="17" rx="94" ry="21" fill="#122a30" opacity=".30"/>
+<g transform="translate(0 0) rotate(0)">
+<path d="M-19 -83L-28 -10L-55 11L-40 25L-2 16L12 -72" fill="#53493f" stroke="#3d332b" stroke-width="6"/><path d="M17 -83L25 -5L51 11L43 25L4 18L-5 -70" fill="#55493e" stroke="#3b312b" stroke-width="6"/>
+<path d="M-50 -168Q0 -188 48 -166L40 -75H-46Z" fill="#e9d0a6" stroke="#987c5a" stroke-width="6"/>
+<path d="M-45 -168Q-108 -107 -87 -66L-11 -87L22 -168Z" fill="#1a7283" stroke="#e4bd7d" stroke-width="6"/>
+<path d="M-61 -149L-44 -92M-50 -160L-28 -138" stroke="#f0c783" stroke-width="4" stroke-dasharray="9 7"/>
+<path d="M-36 -162L29 -94" stroke="#875b40" stroke-width="13"/>
+<rect x="-73" y="-103" width="37" height="59" rx="6" fill="#8e5f41" stroke="#dcb27d" stroke-width="5"/>
+<path d="M-49 -149L-60 -62" stroke="#e7c49c" stroke-width="20"/><path d="M46 -150L60 -59" stroke="#e3bf98" stroke-width="20"/>
+<circle cx="0" cy="-218" r="43" fill="#efc8a0" stroke="#aa8160" stroke-width="4"/>
+<path d="M-43 -225Q-51 -285 -10 -273Q23 -283 44 -239L19 -250L2 -251L-21 -234Z" fill="#52372b"/>
+<circle cx="-13" cy="-214" r="3.5" fill="#39271e"/><circle cx="14" cy="-214" r="3.5" fill="#39271e"/>
+<path d="M-7 -195q8 6 16 -1" stroke="#9d6e57" stroke-width="2.5" fill="none"/>
+<path d="M60 -156L87 -260" stroke="#a4bbc3" stroke-width="15"/><path d="M81 -255L90 -276L101 -251Z" fill="#c8d9dd"/><path d="M52 -160L75 -159" stroke="#d1a46d" stroke-width="9"/><g transform="translate(41 -121)"><path d="M-7 -5Q2 -20 11 -5" fill="none" stroke="#eac482" stroke-width="4"/><path d="M-11 -1H16L12 30H-8Z" fill="#bf914c" stroke="#f0ce8c" stroke-width="4"/><path d="M-5 5H10V25H-5Z" fill="#ffe6a1"/></g>
+</g>
+<text x="0" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#f8dfaf">GUARD</text>
+<text x="0" y="109" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#c8d9d4">Sword ready, lantern at hip</text>
+</g>
+<g transform="translate(1002 470)">
+<rect x="-175" y="-308" width="350" height="440" rx="17" fill="#e6d4ae" fill-opacity=".045" stroke="#95aea6" stroke-opacity=".46" stroke-width="2"/>
+<ellipse cx="0" cy="17" rx="94" ry="21" fill="#122a30" opacity=".30"/>
+<g transform="translate(8 0) rotate(7)">
+<path d="M-19 -83L-28 -10L-55 11L-40 25L-2 16L12 -72" fill="#53493f" stroke="#3d332b" stroke-width="6"/><path d="M17 -83L25 -5L51 11L43 25L4 18L-5 -70" fill="#55493e" stroke="#3b312b" stroke-width="6"/>
+<path d="M-50 -168Q0 -188 48 -166L40 -75H-46Z" fill="#e9d0a6" stroke="#987c5a" stroke-width="6"/>
+<path d="M-45 -168Q-108 -107 -87 -66L-11 -87L22 -168Z" fill="#1a7283" stroke="#e4bd7d" stroke-width="6"/>
+<path d="M-61 -149L-44 -92M-50 -160L-28 -138" stroke="#f0c783" stroke-width="4" stroke-dasharray="9 7"/>
+<path d="M-36 -162L29 -94" stroke="#875b40" stroke-width="13"/>
+<rect x="-73" y="-103" width="37" height="59" rx="6" fill="#8e5f41" stroke="#dcb27d" stroke-width="5"/>
+<path d="M-55 -151L-93 -94" stroke="#e5c19d" stroke-width="19"/><path d="M49 -153L101 -175" stroke="#dfbb96" stroke-width="20"/>
+<circle cx="0" cy="-218" r="43" fill="#efc8a0" stroke="#aa8160" stroke-width="4"/>
+<path d="M-43 -225Q-51 -285 -10 -273Q23 -283 44 -239L19 -250L2 -251L-21 -234Z" fill="#52372b"/>
+<circle cx="-13" cy="-214" r="3.5" fill="#39271e"/><circle cx="14" cy="-214" r="3.5" fill="#39271e"/>
+<path d="M-7 -195q8 6 16 -1" stroke="#9d6e57" stroke-width="2.5" fill="none"/>
+<path d="M54 -168L178 -230" stroke="#d8e3e8" stroke-width="16"/><path d="M169 -239L197 -245L178 -215Z" fill="#f4f1dc"/><path d="M42 -167L65 -154" stroke="#c9ab82" stroke-width="11"/><g transform="translate(41 -121)"><path d="M-7 -5Q2 -20 11 -5" fill="none" stroke="#eac482" stroke-width="4"/><path d="M-11 -1H16L12 30H-8Z" fill="#bf914c" stroke="#f0ce8c" stroke-width="4"/><path d="M-5 5H10V25H-5Z" fill="#ffe6a1"/></g>
+</g>
+<text x="0" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#f8dfaf">STRIKE WIND-UP</text>
+<text x="0" y="109" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#c8d9d4">Readable arm and blade direction</text>
+</g>
+<g transform="translate(1399 470)">
+<rect x="-175" y="-308" width="350" height="440" rx="17" fill="#e6d4ae" fill-opacity=".045" stroke="#95aea6" stroke-opacity=".46" stroke-width="2"/>
+<ellipse cx="0" cy="17" rx="94" ry="21" fill="#122a30" opacity=".30"/>
+<g transform="translate(-19 0) rotate(-12)">
+<path d="M-12 -75L-65 -23L-104 -1L-93 20L-49 7L11 -54" fill="#4b463e" stroke="#3d3630" stroke-width="8"/><path d="M16 -80L61 -52L96 -21L91 9L60 3L0 -46" fill="#4f463c" stroke="#3b322b" stroke-width="7"/>
+<path d="M-50 -168Q0 -188 48 -166L40 -75H-46Z" fill="#e9d0a6" stroke="#987c5a" stroke-width="6"/>
+<path d="M-45 -168Q-108 -107 -87 -66L-11 -87L22 -168Z" fill="#1a7283" stroke="#e4bd7d" stroke-width="6"/>
+<path d="M-61 -149L-44 -92M-50 -160L-28 -138" stroke="#f0c783" stroke-width="4" stroke-dasharray="9 7"/>
+<path d="M-36 -162L29 -94" stroke="#875b40" stroke-width="13"/>
+<rect x="-73" y="-103" width="37" height="59" rx="6" fill="#8e5f41" stroke="#dcb27d" stroke-width="5"/>
+<path d="M-48 -152L-89 -119" stroke="#e5c19d" stroke-width="20"/><path d="M50 -153L76 -110" stroke="#e5c19d" stroke-width="20"/>
+<circle cx="0" cy="-218" r="43" fill="#efc8a0" stroke="#aa8160" stroke-width="4"/>
+<path d="M-43 -225Q-51 -285 -10 -273Q23 -283 44 -239L19 -250L2 -251L-21 -234Z" fill="#52372b"/>
+<circle cx="-13" cy="-214" r="3.5" fill="#39271e"/><circle cx="14" cy="-214" r="3.5" fill="#39271e"/>
+<path d="M-7 -195q8 6 16 -1" stroke="#9d6e57" stroke-width="2.5" fill="none"/>
+<path d="M58 -150L100 -197" stroke="#afbdc3" stroke-width="13"/><path d="M97 -199L110 -216L113 -188Z" fill="#e9ebdc"/><g transform="translate(41 -121)"><path d="M-7 -5Q2 -20 11 -5" fill="none" stroke="#eac482" stroke-width="4"/><path d="M-11 -1H16L12 30H-8Z" fill="#bf914c" stroke="#f0ce8c" stroke-width="4"/><path d="M-5 5H10V25H-5Z" fill="#ffe6a1"/></g>
+</g>
+<text x="0" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#f8dfaf">DODGE</text>
+<text x="0" y="109" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#c8d9d4">Feet grounded, cape trails motion</text>
+</g>
+<g fill="#d5e7de" font-family="sans-serif" font-size="17">
+<text x="52" y="659">ART-DIRECTION TEST: head, hairline, boot scale, cape hem, brass clasp and satchel remain physically continuous through every pose.</text>
+<text x="52" y="693">Combat impact and dodge cues must stay clear at landscape-phone scale, without hiding player feet or turning lantern into a second playable character.</text>
+<text x="52" y="722" fill="#a8c9c8" font-size="14">Schematic vector concept only — no skeletal rig, in-engine animation, physical damage or input implementation, nor owner final G1 approval.</text>
+</g>
+</svg>
