@@ -83,7 +83,7 @@ Exit G5: complete Act I, no missing rescue or unexplained plot states.
 Depends G5; independent substreams can be produced in either order but both must be integrated.
 P7.T1 Reedhaven/wetlands, camera and water surfaces.
 P7.T2 Drowned Archive T01–T10, Tideweights and Silt Librarian.
-P7.T3 Blueprint half A, Yaselle [correction: canonical spelling **Yselle**], ferry/world states.
+P7.T3 Blueprint half A, Yselle, ferry/world states.
 P7.A1 Emberhold/cinder passes, machinery and heat/contrast cues.
 P7.A2 Hearth Forge A01–A10, Ironhand and Cinder Regent.
 P7.A3 Blueprint half B, Dorrik arc and cooling tram.
