@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 990" width="1600" height="990" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL — canonical cast three-view and silhouette identity sheet</title>
+<desc id="desc">Original vector concept chart with front, profile and back designs for Nella, Orin and Seren Vale. Stable costume and age/shape identity; not painted model turnarounds, a party combat system or a finished rig.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173947"/><stop offset="1" stop-color="#233847"/></linearGradient></defs>
+<rect width="1600" height="990" fill="url(#bg)"/><rect x="17" y="18" width="1566" height="955" rx="18" stroke="#d2ad76" stroke-width="3" fill="none"/>
+<text x="43" y="70" fill="#ffe0aa" font-family="Georgia,serif" font-size="41">WAYBELL — PRINCIPAL CAST / THREE-VIEW SILHOUETTES</text>
+<text x="46" y="109" fill="#c6d8d4" font-family="sans-serif" font-size="18">Review 12: single groundline within each row • same costume tokens front / profile / back • no invented party classes</text>
+<g fill="#d8e1cf" font-family="sans-serif" font-size="17">
+<text x="347" y="159" text-anchor="middle">FRONT</text>
+<text x="822" y="159" text-anchor="middle">PROFILE</text>
+<text x="1291" y="159" text-anchor="middle">BACK</text></g>
+<rect x="41" y="207" width="1518" height="196" rx="14" fill="#d9b681" fill-opacity=".045" stroke="#90a59c" stroke-opacity=".40" stroke-width="2"/>
+ <text x="56" y="238" fill="#ffe1a5" font-size="24" font-family="Georgia,serif">NELLA</text>
+ <text x="56" y="268" fill="#b9d6d2" font-size="14" font-family="sans-serif">Energetic explorer</text>
+ <g transform="translate(0,332)"><path d="M239 36H1507" stroke="#b6ae90" stroke-opacity=".55" stroke-width="2" stroke-dasharray="9 7"/></g>
+ <g transform="translate(348,347) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#695143" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#6d4834" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-48 -139Q0 -155 45 -138L40 -36H-45Z" fill="#668669" stroke="#e0bc80" stroke-width="5"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#e9bd99" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="0" cy="-205" rx="39" ry="48" fill="#e9bd99" stroke="#a78265" stroke-width="3"/>
+ <circle cx="-14" cy="-210" r="3" fill="#403329"/><circle cx="15" cy="-210" r="3" fill="#403329"/>
+ <path d="M-41 -210Q-42 -262 -3 -266Q33 -275 43 -211L24 -235L0 -230L-21 -232Z" fill="#b85e3d" stroke="#49372f" stroke-width="4"/><path d="M36 -229Q75 -213 54 -159Q45 -154 42 -166" fill="none" stroke="#a55037" stroke-width="20"/><rect x="-54" y="-74" width="31" height="42" rx="6" fill="#9d7653" stroke="#d2ae77" stroke-width="4"/>
+ 
+ </g></g><text x="348" y="405" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">FRONT</text>
+<g transform="translate(822,347) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#695143" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#6d4834" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-48 -139Q0 -155 45 -138L40 -36H-45Z" fill="#668669" stroke="#e0bc80" stroke-width="5"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#e9bd99" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="10" cy="-205" rx="27" ry="48" fill="#e9bd99" stroke="#a78265" stroke-width="3"/>
+ <circle cx="21" cy="-208" r="3" fill="#403329"/>
+ <path d="M-41 -210Q-42 -262 -3 -266Q33 -275 43 -211L24 -235L0 -230L-21 -232Z" fill="#b85e3d" stroke="#49372f" stroke-width="4"/><path d="M36 -229Q75 -213 54 -159Q45 -154 42 -166" fill="none" stroke="#a55037" stroke-width="20"/><rect x="-54" y="-74" width="31" height="42" rx="6" fill="#9d7653" stroke="#d2ae77" stroke-width="4"/>
+ 
+ </g></g><text x="822" y="405" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">RIGHT PROFILE</text>
+<g transform="translate(1290,347) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#695143" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#6d4834" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-48 -139Q0 -155 45 -138L40 -36H-45Z" fill="#668669" stroke="#e0bc80" stroke-width="5"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#e9bd99" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="0" cy="-209" rx="37" ry="47" fill="#b85e3d"/>
+ <path d="M-37 -206Q-48 -260 -2 -270Q44 -263 42 -209L29 -158L-28 -160Z" fill="#b85e3d" stroke="#443a31" stroke-width="3"/><rect x="-54" y="-74" width="31" height="42" rx="6" fill="#9d7653" stroke="#d2ae77" stroke-width="4"/>
+ <path d="M-40 -137L42 -137" stroke="#e0bc80" stroke-width="8"/><path d="M0 -140V-37" stroke="#bca57c" stroke-opacity=".55" stroke-width="4"/>
+ </g></g><text x="1290" y="405" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">BACK</text>
+ <text x="63" y="374" fill="#cccec0" font-size="14" font-family="sans-serif">Copper braid • leaf-green travel vest • field pouch</text>
+<rect x="41" y="413" width="1518" height="196" rx="14" fill="#d9b681" fill-opacity=".045" stroke="#90a59c" stroke-opacity=".40" stroke-width="2"/>
+ <text x="56" y="444" fill="#ffe1a5" font-size="24" font-family="Georgia,serif">ORIN</text>
+ <text x="56" y="474" fill="#b9d6d2" font-size="14" font-family="sans-serif">Elderly human cartographer</text>
+ <g transform="translate(0,538)"><path d="M239 36H1507" stroke="#b6ae90" stroke-opacity=".55" stroke-width="2" stroke-dasharray="9 7"/></g>
+ <g transform="translate(348,553) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#63584c" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#65513e" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-48 -139Q0 -155 45 -138L40 -36H-45Z" fill="#9b8467" stroke="#d7c499" stroke-width="5"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#d9b590" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="0" cy="-205" rx="39" ry="48" fill="#d9b590" stroke="#a78265" stroke-width="3"/>
+ <circle cx="-14" cy="-210" r="3" fill="#403329"/><circle cx="15" cy="-210" r="3" fill="#403329"/>
+ <path d="M-41 -210Q-42 -262 -3 -266Q33 -275 43 -211L24 -235L0 -230L-21 -232Z" fill="#d9d9d0" stroke="#49372f" stroke-width="4"/><g fill="none" stroke="#856745" stroke-width="4"><circle cx="-15" cy="-210" r="15"/><circle cx="14" cy="-210" r="15"/><path d="M-1 -211H1"/></g><path d="M-30 -174Q-37 -120 2 -121Q36 -133 29 -175Q3 -158 -30 -174Z" fill="#dedcd3" stroke="#b9ada2" stroke-width="3"/><g transform="translate(-57 -65)"><rect x="-17" y="-43" width="15" height="83" rx="4" fill="#d4b07c" stroke="#816646" stroke-width="3"/><rect x="4" y="-32" width="17" height="67" rx="4" fill="#d2b07b" stroke="#816646" stroke-width="3"/></g>
+ 
+ </g></g><text x="348" y="611" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">FRONT</text>
+<g transform="translate(822,553) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#63584c" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#65513e" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-48 -139Q0 -155 45 -138L40 -36H-45Z" fill="#9b8467" stroke="#d7c499" stroke-width="5"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#d9b590" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="10" cy="-205" rx="27" ry="48" fill="#d9b590" stroke="#a78265" stroke-width="3"/>
+ <circle cx="21" cy="-208" r="3" fill="#403329"/>
+ <path d="M-41 -210Q-42 -262 -3 -266Q33 -275 43 -211L24 -235L0 -230L-21 -232Z" fill="#d9d9d0" stroke="#49372f" stroke-width="4"/><g fill="none" stroke="#856745" stroke-width="4"><circle cx="-15" cy="-210" r="15"/><circle cx="14" cy="-210" r="15"/><path d="M-1 -211H1"/></g><path d="M-30 -174Q-37 -120 2 -121Q36 -133 29 -175Q3 -158 -30 -174Z" fill="#dedcd3" stroke="#b9ada2" stroke-width="3"/><g transform="translate(-57 -65)"><rect x="-17" y="-43" width="15" height="83" rx="4" fill="#d4b07c" stroke="#816646" stroke-width="3"/><rect x="4" y="-32" width="17" height="67" rx="4" fill="#d2b07b" stroke="#816646" stroke-width="3"/></g>
+ 
+ </g></g><text x="822" y="611" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">RIGHT PROFILE</text>
+<g transform="translate(1290,553) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#63584c" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#65513e" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-48 -139Q0 -155 45 -138L40 -36H-45Z" fill="#9b8467" stroke="#d7c499" stroke-width="5"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#d9b590" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="0" cy="-209" rx="37" ry="47" fill="#d9d9d0"/>
+ <path d="M-37 -206Q-48 -260 -2 -270Q44 -263 42 -209L29 -158L-28 -160Z" fill="#d9d9d0" stroke="#443a31" stroke-width="3"/><g transform="translate(42 -65)"><rect x="-17" y="-43" width="15" height="83" rx="4" fill="#d4b07c" stroke="#816646" stroke-width="3"/><rect x="4" y="-32" width="17" height="67" rx="4" fill="#d2b07b" stroke="#816646" stroke-width="3"/></g>
+ <path d="M-40 -137L42 -137" stroke="#d7c499" stroke-width="8"/><path d="M0 -140V-37" stroke="#bca57c" stroke-opacity=".55" stroke-width="4"/>
+ </g></g><text x="1290" y="611" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">BACK</text>
+ <text x="63" y="580" fill="#cccec0" font-size="14" font-family="sans-serif">Gray hair and beard • round spectacles • map tubes</text>
+<rect x="41" y="619" width="1518" height="196" rx="14" fill="#d9b681" fill-opacity=".045" stroke="#90a59c" stroke-opacity=".40" stroke-width="2"/>
+ <text x="56" y="650" fill="#ffe1a5" font-size="24" font-family="Georgia,serif">SEREN VALE</text>
+ <text x="56" y="680" fill="#b9d6d2" font-size="14" font-family="sans-serif">Dignified High Bellkeeper</text>
+ <g transform="translate(0,744)"><path d="M239 36H1507" stroke="#b6ae90" stroke-opacity=".55" stroke-width="2" stroke-dasharray="9 7"/></g>
+ <g transform="translate(348,759) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#3c3750" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#49394a" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-47 -139Q-79 -40 -66 4H71Q78 -51 44 -140Z" fill="#3f3956" stroke="#c0a16f" stroke-width="6"/>
+ <path d="M-45 -140L-8 -125L-1 -2M42 -140L13 -121L7 -5" stroke="#7b4962" stroke-width="13" fill="none"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#414365" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="0" cy="-205" rx="39" ry="48" fill="#e1ba9b" stroke="#a78265" stroke-width="3"/>
+ <circle cx="-14" cy="-210" r="3" fill="#403329"/><circle cx="15" cy="-210" r="3" fill="#403329"/>
+ <path d="M-41 -210Q-42 -262 -3 -266Q33 -275 43 -211L24 -235L0 -230L-21 -232Z" fill="#4a4752" stroke="#49372f" stroke-width="4"/><path d="M-12 -141L0 -159L12 -141L0 -128Z" fill="#ebce91" stroke="#aa874f" stroke-width="4"/>
+ 
+ </g></g><text x="348" y="817" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">FRONT</text>
+<g transform="translate(822,759) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#3c3750" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#49394a" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-47 -139Q-79 -40 -66 4H71Q78 -51 44 -140Z" fill="#3f3956" stroke="#c0a16f" stroke-width="6"/>
+ <path d="M-45 -140L-8 -125L-1 -2M42 -140L13 -121L7 -5" stroke="#7b4962" stroke-width="13" fill="none"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#414365" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="10" cy="-205" rx="27" ry="48" fill="#e1ba9b" stroke="#a78265" stroke-width="3"/>
+ <circle cx="21" cy="-208" r="3" fill="#403329"/>
+ <path d="M-41 -210Q-42 -262 -3 -266Q33 -275 43 -211L24 -235L0 -230L-21 -232Z" fill="#4a4752" stroke="#49372f" stroke-width="4"/><path d="M-12 -141L0 -159L12 -141L0 -128Z" fill="#ebce91" stroke="#aa874f" stroke-width="4"/>
+ 
+ </g></g><text x="822" y="817" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">RIGHT PROFILE</text>
+<g transform="translate(1290,759) scale(.53)"><g transform="translate(0,0)">
+ <ellipse cx="0" cy="22" rx="70" ry="15" fill="#132a33" opacity=".22"/>
+ <path d="M-32 -45L-34 5H-8L2 -37M14 -45L16 5H45L33 -45" fill="#3c3750" stroke="#443b36" stroke-width="6"/>
+ <path d="M-36 0H-4V27H-46Z M15 0H48L56 27H12Z" fill="#49394a" stroke="#3c302c" stroke-width="5"/>
+ <path d="M-47 -139Q-79 -40 -66 4H71Q78 -51 44 -140Z" fill="#3f3956" stroke="#c0a16f" stroke-width="6"/>
+ <path d="M-45 -140L-8 -125L-1 -2M42 -140L13 -121L7 -5" stroke="#7b4962" stroke-width="13" fill="none"/>
+ <path d="M-43 -125L-63 -52M41 -125L61 -52" fill="none" stroke="#414365" stroke-width="24" stroke-linecap="round"/>
+ <ellipse cx="0" cy="-209" rx="37" ry="47" fill="#4a4752"/>
+ <path d="M-37 -206Q-48 -260 -2 -270Q44 -263 42 -209L29 -158L-28 -160Z" fill="#4a4752" stroke="#443a31" stroke-width="3"/><path d="M-12 -141L0 -159L12 -141L0 -128Z" fill="#ebce91" stroke="#aa874f" stroke-width="4"/>
+ <path d="M-40 -137L42 -137" stroke="#c3a26f" stroke-width="8"/><path d="M0 -140V-37" stroke="#bca57c" stroke-opacity=".55" stroke-width="4"/>
+ </g></g><text x="1290" y="817" fill="#f0dfbe" font-size="17" font-family="sans-serif" text-anchor="middle">BACK</text>
+ <text x="63" y="786" fill="#cccec0" font-size="14" font-family="sans-serif">Navy / burgundy garments • restrained brass • poise</text>
+<rect x="47" y="868" width="1508" height="78" rx="11" fill="#142e3a" stroke="#799a9c" stroke-width="2"/>
+<text x="66" y="898" fill="#f5dbaa" font-size="18" font-family="sans-serif">Canonical identity: Nella = copper traveler • Orin = elderly human cartographer • Seren = compassionate, dignified Bellkeeper.</text>
+<text x="66" y="930" fill="#bed4cd" font-size="16" font-family="sans-serif">This original 2D design schematic is not final premium painted character art, a measured rig, gameplay, or G1 owner approval.</text>
+</svg>
