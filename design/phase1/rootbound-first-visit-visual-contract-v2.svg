@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-label="Rootbound Mill first visit two-room dry visual contract">
+<defs><linearGradient id="wall" x2="1" y2="1"><stop stop-color="#4a584f"/><stop offset=".55" stop-color="#2a3c3b"/><stop offset="1" stop-color="#1e3034"/></linearGradient><linearGradient id="floor" x2="0" y2="1"><stop stop-color="#ccae7f"/><stop offset="1" stop-color="#8d785b"/></linearGradient></defs>
+<rect width="1600" height="980" fill="#152f37"/>
+<path d="M24 22h1552v934H24z" stroke="#d2b377" fill="none" stroke-width="3"/>
+<text x="56" y="80" fill="#f4d8a3" font-family="Georgia,serif" font-size="43">ROOTBOUND MILL — FIRST-VISIT ENVIRONMENT CONTRACT</text>
+<text x="59" y="114" fill="#c4d7ce" font-family="sans-serif" font-size="19">PHASE 1  •  Two distinct elevated, traversable interiors  •  NO OPERATING WHEEL / NO RUNNING WATER</text>
+<g transform="translate(42 145)">
+<rect width="730" height="660" rx="13" fill="url(#wall)" stroke="#d0b17d" stroke-width="3"/>
+<path d="M22 37L708 37" stroke="#86938b" stroke-width="4" opacity=".25"/>
+<path d="M70 10L60 655" stroke="#65736b" stroke-width="2" opacity=".17"/><path d="M165 10L155 655" stroke="#65736b" stroke-width="2" opacity=".17"/><path d="M260 10L250 655" stroke="#65736b" stroke-width="2" opacity=".17"/><path d="M355 10L345 655" stroke="#65736b" stroke-width="2" opacity=".17"/><path d="M450 10L440 655" stroke="#65736b" stroke-width="2" opacity=".17"/><path d="M545 10L535 655" stroke="#65736b" stroke-width="2" opacity=".17"/><path d="M640 10L630 655" stroke="#65736b" stroke-width="2" opacity=".17"/>
+<path d="M40 0Q135 80 80 203M654 0Q605 140 704 230" stroke="#674f3c" stroke-width="34" fill="none"/>
+<g transform="translate(120 100) scale(0.8)"><path d="M-75 -18Q-25 -95 15 -58T80 -100M-10 -37Q16 -7 80 40" stroke="#584432" stroke-width="17" fill="none"/><path d="M-68 -17Q-23 -86 17 -54T78 -95" stroke="#7e7043" stroke-width="6" fill="none"/><ellipse cx="0" cy="-51" rx="60" ry="20" fill="#657e4c" opacity=".48"/></g><g transform="translate(642 75) scale(1)"><path d="M-75 -18Q-25 -95 15 -58T80 -100M-10 -37Q16 -7 80 40" stroke="#584432" stroke-width="17" fill="none"/><path d="M-68 -17Q-23 -86 17 -54T78 -95" stroke="#7e7043" stroke-width="6" fill="none"/><ellipse cx="0" cy="-51" rx="60" ry="20" fill="#657e4c" opacity=".48"/></g>
+<g><circle cx="420" cy="276" r="168" fill="#2f4143" stroke="#805a3d" stroke-width="22"/><circle cx="420" cy="276" r="156" fill="none" stroke="#d4b06e" stroke-width="5" opacity=".75"/><line x1="420" y1="276" x2="573" y2="276" stroke="#805a3d" stroke-width="17"/><line x1="420" y1="276" x2="528.1873375215417" y2="384.18733752154174" stroke="#805a3d" stroke-width="17"/><line x1="420" y1="276" x2="420" y2="429" stroke="#805a3d" stroke-width="17"/><line x1="420" y1="276" x2="311.81266247845826" y2="384.1873375215418" stroke="#805a3d" stroke-width="17"/><line x1="420" y1="276" x2="267" y2="276" stroke="#805a3d" stroke-width="17"/><line x1="420" y1="276" x2="311.8126624784582" y2="167.81266247845824" stroke="#805a3d" stroke-width="17"/><line x1="420" y1="276" x2="420" y2="123" stroke="#805a3d" stroke-width="17"/><line x1="420" y1="276" x2="528.1873375215417" y2="167.8126624784582" stroke="#805a3d" stroke-width="17"/><circle cx="420" cy="276" r="26" fill="#a8844c" stroke="#d5ae7b" stroke-width="6"/><path d="M264 434L576 434" stroke="#805a3d" stroke-width="13"/></g>
+<path d="M72 425L695 425L695 522L72 522Z" fill="#413d36" stroke="#9c987b" stroke-width="11"/>
+<path d="M102 440L674 440L610 493L160 493Z" fill="#605949" stroke="#b9a480" stroke-width="5"/>
+<path d="M142 454L215 489M256 454L300 489M342 454L385 489M430 454L480 489M515 454L570 489" stroke="#827765" stroke-width="6"/>
+<path d="M46 516L720 516L720 575L46 575Z" fill="#715d46" stroke="#b39c7c" stroke-width="5"/>
+<path d="M225 578L473 578L543 633L153 633Z" fill="#2b3434" stroke="#9b8d78" stroke-width="9"/>
+<g stroke="#b8a684" stroke-width="6" opacity=".55"><path d="M226 590L466 592M203 609L500 613"/></g>
+<path d="M520 436L590 356L690 356" fill="none" stroke="#b7a27d" stroke-width="15"/>
+<path d="M517 421L591 341L690 341" fill="none" stroke="#765f45" stroke-width="9"/>
+<g transform="translate(139 513) scale(0.9)"><ellipse cx="0" cy="4" rx="31" ry="9" fill="#14292b" opacity=".45"/><path d="M-12 -36L-14 -6M12 -36L15 -6" stroke="#604734" stroke-width="11"/><path d="M-26 -85L-30 -36L10 -43L21 -87Z" fill="#176e7e" stroke="#daa763" stroke-width="3"/><path d="M-10 -88L10 -39" stroke="#81573c" stroke-width="7"/><ellipse cx="1" cy="-105" rx="24" ry="26" fill="#ebc79a"/><path d="M-24 -110q-10 -38 29 -28q22 -10 24 29L11 -125L-3 -119Z" fill="#553a2a"/><path d="M18 -81L35 -44" stroke="#d5b18b" stroke-width="9"/><rect x="26" y="-45" width="20" height="28" rx="4" fill="#e7b763" stroke="#aa773e" stroke-width="3"/><path d="M32 -37h8v16h-8" fill="#f5de8c"/></g>
+<g fill="#f0c47e"><circle cx="115" cy="367" r="6"/><circle cx="622" cy="395" r="6"/></g>
+<rect x="23" y="23" width="350" height="44" rx="8" fill="#132d34" opacity=".86"/>
+<text x="42" y="54" fill="#ffe1aa" font-family="Georgia,serif" font-size="27">A / LOWER TURBINE HALL</text>
+<text x="38" y="639" fill="#e5dac3" font-size="17" font-family="sans-serif">Dry stone intake trench; hand-operated gate; stationary, jammed wheel</text>
+</g>
+<g transform="translate(816 145)">
+<rect width="740" height="660" rx="13" fill="url(#wall)" stroke="#d0b17d" stroke-width="3"/>
+<g transform="translate(160 70) scale(0.7)"><path d="M-75 -18Q-25 -95 15 -58T80 -100M-10 -37Q16 -7 80 40" stroke="#584432" stroke-width="17" fill="none"/><path d="M-68 -17Q-23 -86 17 -54T78 -95" stroke="#7e7043" stroke-width="6" fill="none"/><ellipse cx="0" cy="-51" rx="60" ry="20" fill="#657e4c" opacity=".48"/></g><g transform="translate(640 76) scale(0.85)"><path d="M-75 -18Q-25 -95 15 -58T80 -100M-10 -37Q16 -7 80 40" stroke="#584432" stroke-width="17" fill="none"/><path d="M-68 -17Q-23 -86 17 -54T78 -95" stroke="#7e7043" stroke-width="6" fill="none"/><ellipse cx="0" cy="-51" rx="60" ry="20" fill="#657e4c" opacity=".48"/></g>
+<g><circle cx="180" cy="302" r="109" fill="#2f4143" stroke="#805a3d" stroke-width="22"/><circle cx="180" cy="302" r="97" fill="none" stroke="#d4b06e" stroke-width="5" opacity=".75"/><line x1="180" y1="302" x2="274" y2="302" stroke="#805a3d" stroke-width="17"/><line x1="180" y1="302" x2="246.4680374315355" y2="368.46803743153544" stroke="#805a3d" stroke-width="17"/><line x1="180" y1="302" x2="180" y2="396" stroke="#805a3d" stroke-width="17"/><line x1="180" y1="302" x2="113.53196256846454" y2="368.4680374315355" stroke="#805a3d" stroke-width="17"/><line x1="180" y1="302" x2="86" y2="302" stroke="#805a3d" stroke-width="17"/><line x1="180" y1="302" x2="113.53196256846452" y2="235.53196256846454" stroke="#805a3d" stroke-width="17"/><line x1="180" y1="302" x2="179.99999999999997" y2="208" stroke="#805a3d" stroke-width="17"/><line x1="180" y1="302" x2="246.46803743153544" y2="235.5319625684645" stroke="#805a3d" stroke-width="17"/><circle cx="180" cy="302" r="26" fill="#a8844c" stroke="#d5ae7b" stroke-width="6"/><path d="M83 401L277 401" stroke="#805a3d" stroke-width="13"/></g>
+<path d="M38 434L270 434L360 398L610 398L720 340" fill="none" stroke="#463c32" stroke-width="49"/>
+<path d="M38 421L270 421L360 385L610 385L720 328" fill="none" stroke="#b59669" stroke-width="15"/>
+<path d="M33 347L276 347L359 319L620 319L724 254" fill="none" stroke="#594638" stroke-width="27"/>
+<path d="M34 335L271 335L359 307L620 307L724 242" fill="none" stroke="#c4a675" stroke-width="13"/>
+<g stroke="#83674d" stroke-width="11"><path d="M64 341v88M244 341v81M365 315v82M611 316v78M710 247v84"/></g>
+<g stroke="#b5a483" stroke-width="6"><path d="M52 346L252 346M355 318L622 318M620 319L729 254"/></g>
+<path d="M39 500L715 500L715 606L39 606Z" fill="#554a3d" stroke="#8c7f65" stroke-width="8"/>
+<path d="M78 505L650 505" stroke="#a28c67" stroke-width="7" stroke-dasharray="17 15"/>
+<g fill="#1f3c40" opacity=".9"><path d="M55 525h170v60H55Z"/><path d="M300 525h200v60H300Z"/></g>
+<path d="M258 503L354 425" stroke="#c5a477" stroke-width="16"/>
+<path d="M270 505L365 427" stroke="#704c32" stroke-width="8"/>
+<g transform="translate(404 238)" stroke="#d8bc77" fill="none"><path d="M0 -31v12" stroke-width="7"/><circle r="22" stroke-width="8"/><circle r="9" stroke="#81c6a0" stroke-width="3"/></g><g transform="translate(625 197)" stroke="#d8bc77" fill="none"><path d="M0 -31v12" stroke-width="7"/><circle r="22" stroke-width="8"/><circle r="9" stroke="#81c6a0" stroke-width="3"/></g><g transform="translate(163 265)" stroke="#d8bc77" fill="none"><path d="M0 -31v12" stroke-width="7"/><circle r="22" stroke-width="8"/><circle r="9" stroke="#81c6a0" stroke-width="3"/></g>
+<g transform="translate(92 425) scale(0.86)"><ellipse cx="0" cy="4" rx="31" ry="9" fill="#14292b" opacity=".45"/><path d="M-12 -36L-14 -6M12 -36L15 -6" stroke="#604734" stroke-width="11"/><path d="M-26 -85L-30 -36L10 -43L21 -87Z" fill="#176e7e" stroke="#daa763" stroke-width="3"/><path d="M-10 -88L10 -39" stroke="#81573c" stroke-width="7"/><ellipse cx="1" cy="-105" rx="24" ry="26" fill="#ebc79a"/><path d="M-24 -110q-10 -38 29 -28q22 -10 24 29L11 -125L-3 -119Z" fill="#553a2a"/><path d="M18 -81L35 -44" stroke="#d5b18b" stroke-width="9"/><rect x="26" y="-45" width="20" height="28" rx="4" fill="#e7b763" stroke="#aa773e" stroke-width="3"/><path d="M32 -37h8v16h-8" fill="#f5de8c"/></g>
+<rect x="22" y="23" width="403" height="44" rx="8" fill="#132d34" opacity=".86"/>
+<text x="42" y="54" fill="#ffe1aa" font-family="Georgia,serif" font-size="27">B / UPPER SPINDLE GALLERIES</text>
+<text x="30" y="637" fill="#e5dac3" font-size="17" font-family="sans-serif">Raised loop and handrail; fixed future Rootspool rings; dry void below</text>
+</g>
+<g fill="#f6dfb3" font-family="sans-serif" font-size="18">
+<text x="58" y="865">LEGEND:</text>
+<text x="58" y="901">Golden rings = authored Rootspool anchors, unavailable until acquired</text>
+<text x="58" y="936">Dark channels = empty / unpowered. No splashes, currents, flowing falls, lit cog rotation, or powered lifts on first visit.</text>
+<text x="1028" y="866">No gameplay geometry, rig or animation exists.</text>
+<text x="1028" y="900">This is a vector visual design study.</text>
+</g>
+</svg>
