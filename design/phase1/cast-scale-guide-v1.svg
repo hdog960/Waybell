@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="860" viewBox="0 0 1440 860" role="img" aria-labelledby="title desc">
+<title id="title">Waybell Phase One — Canonical cast proportion and silhouette guide v1</title>
+<desc id="desc">Schematic, original fixed-baseline costume and silhouette chart showing Tavi, Nella, Orin and Seren in coherent scale, not production rigs or approved 3D characters.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#163746"/><stop offset="1" stop-color="#1c2b38"/></linearGradient></defs>
+<rect width="1440" height="860" fill="url(#bg)"/><rect x="18" y="19" width="1404" height="823" rx="18" fill="none" stroke="#cda775" stroke-width="3"/>
+<text x="45" y="73" fill="#f8d9a3" font-size="37" font-family="Georgia,serif">WAYBELL — MAIN CAST SHARED-SCALE REFERENCE</text>
+<text x="47" y="108" fill="#bad4d2" font-size="18" font-family="sans-serif">Phase 1 / visual shape language only / same groundline • relative sizes provisional • approval pending</text>
+<g opacity=".14" stroke="#bad2c7" stroke-width="2"><path d="M44 183H1396M44 301H1396M44 419H1396M44 537H1396"/></g>
+<g transform="translate(0 52)">
+<g><rect x="44" y="138" width="292" height="625" rx="18" fill="#f4dab1" opacity=".04" stroke="#79928c" stroke-opacity=".6"/>
+<g transform="translate(190 83) scale(0.9)"><g transform="translate(0 0)" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="584" rx="74" ry="13" fill="#1d353c" opacity=".25"/>
+<path d="M-29 402L-35 533L-18 567L0 560L-4 465L12 561L38 563L29 402Z" fill="#4d4a43" stroke="#52443e" stroke-width="4"/>
+<path d="M-43 553H-5L-3 575H-49Z M7 552H42L51 576H7Z" fill="#664a36" stroke="#3b302a" stroke-width="3"/>
+<path d="M-49 299Q0 269 46 302L40 429H-43Z" fill="#e6d0ac" stroke="#957c5e" stroke-width="4"/>
+<path d="M-47 315L-73 400L-55 431L-37 414L-23 338" fill="#dfc4a1" stroke="#957c5e" stroke-width="4"/>
+<path d="M44 318L75 406L58 432L38 419L21 341" fill="#dfc4a1" stroke="#957c5e" stroke-width="4"/>
+<path d="M-47 400L-25 412M36 413L61 398" stroke="#71492e" stroke-width="12"/>
+<ellipse cx="0" cy="244" rx="48" ry="57" fill="#edc9a1" stroke="#a3795c" stroke-width="3"/>
+<path d="M-44 242Q-55 178 -8 186Q30 163 48 219L11 196L-14 206Z" fill="#563b2c"/><path d="M-47 292Q-84 382-67 459L-10 439L31 304" fill="#166f7c" stroke="#e1b872" stroke-width="5"/><path d="M-42 316L-37 413" stroke="#e7be75" stroke-width="4" stroke-dasharray="8 11"/><path d="M-43 351L30 403" stroke="#76543d" stroke-width="11"/><rect x="-85" y="397" width="49" height="57" rx="9" fill="#875d3c" stroke="#d5ae70" stroke-width="4"/><path d="M60 425V443" stroke="#d5b981" stroke-width="6"/><rect x="45" y="440" width="29" height="42" rx="5" fill="#c49a5c" stroke="#714d2f" stroke-width="4"/><path d="M52 449h15v22H52Z" fill="#ffe59b"/><circle cx="4" cy="240" r="3.5" fill="#392f29"/><circle cx="-16" cy="240" r="3.5" fill="#392f29"/></g></g>
+<path d="M82 599H298" stroke="#cdb484" stroke-width="4"/>
+<text x="190" y="639" fill="#f6ddaf" font-family="Georgia,serif" font-size="30" text-anchor="middle">TAVI</text>
+<text x="190" y="669" fill="#c1d2cb" font-family="sans-serif" font-size="15" text-anchor="middle">Young mapmaker / player</text>
+<text x="190" y="698" fill="#d7be99" font-family="sans-serif" font-size="13" text-anchor="middle">Teal • brass • parchment</text></g><g><rect x="399" y="138" width="292" height="625" rx="18" fill="#f4dab1" opacity=".04" stroke="#79928c" stroke-opacity=".6"/>
+<g transform="translate(545 67) scale(0.93)"><g transform="translate(0 0)" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="584" rx="74" ry="13" fill="#1d353c" opacity=".25"/>
+<path d="M-29 402L-35 533L-18 567L0 560L-4 465L12 561L38 563L29 402Z" fill="#5a4c3b" stroke="#52443e" stroke-width="4"/>
+<path d="M-43 553H-5L-3 575H-49Z M7 552H42L51 576H7Z" fill="#664a36" stroke="#3b302a" stroke-width="3"/>
+<path d="M-49 299Q0 269 46 302L40 429H-43Z" fill="#5c8e62" stroke="#72563d" stroke-width="4"/>
+<path d="M-47 315L-73 400L-55 431L-37 414L-23 338" fill="#d9bb8f" stroke="#72563d" stroke-width="4"/>
+<path d="M44 318L75 406L58 432L38 419L21 341" fill="#d9bb8f" stroke="#72563d" stroke-width="4"/>
+<path d="M-47 400L-25 412M36 413L61 398" stroke="#71492e" stroke-width="12"/>
+<ellipse cx="0" cy="244" rx="48" ry="57" fill="#e9ba92" stroke="#a3795c" stroke-width="3"/>
+<path d="M-54 247Q-58 168 0 175Q64 165 51 241L37 209L-26 207Z" fill="#a75435"/><path d="M31 190Q82 198 71 274" stroke="#ac5a3f" stroke-width="26" fill="none"/><path d="M-43 295L45 295" stroke="#5a9b76" stroke-width="21"/><path d="M-33 369L43 399" stroke="#7a5441" stroke-width="9"/><rect x="40" y="390" width="40" height="47" rx="7" fill="#93754f" stroke="#d1ad7e" stroke-width="4"/><path d="M-9 243h1M13 243h1" stroke="#3d2e2a" stroke-width="7" stroke-linecap="round"/></g></g>
+<path d="M437 599H653" stroke="#cdb484" stroke-width="4"/>
+<text x="545" y="639" fill="#f6ddaf" font-family="Georgia,serif" font-size="30" text-anchor="middle">NELLA</text>
+<text x="545" y="669" fill="#c1d2cb" font-family="sans-serif" font-size="15" text-anchor="middle">Agile explorer / childhood friend</text>
+<text x="545" y="698" fill="#d7be99" font-family="sans-serif" font-size="13" text-anchor="middle">Copper • olive • leather</text></g><g><rect x="754" y="138" width="292" height="625" rx="18" fill="#f4dab1" opacity=".04" stroke="#79928c" stroke-opacity=".6"/>
+<g transform="translate(900 83) scale(0.91)"><g transform="translate(0 0)" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="584" rx="74" ry="13" fill="#1d353c" opacity=".25"/>
+<path d="M-29 402L-35 533L-18 567L0 560L-4 465L12 561L38 563L29 402Z" fill="#685c4b" stroke="#52443e" stroke-width="4"/>
+<path d="M-43 553H-5L-3 575H-49Z M7 552H42L51 576H7Z" fill="#664a36" stroke="#3b302a" stroke-width="3"/>
+<path d="M-49 299Q0 269 46 302L40 429H-43Z" fill="#a78a66" stroke="#655744" stroke-width="4"/>
+<path d="M-47 315L-73 400L-55 431L-37 414L-23 338" fill="#b39d81" stroke="#655744" stroke-width="4"/>
+<path d="M44 318L75 406L58 432L38 419L21 341" fill="#b39d81" stroke="#655744" stroke-width="4"/>
+<path d="M-47 400L-25 412M36 413L61 398" stroke="#71492e" stroke-width="12"/>
+<ellipse cx="0" cy="244" rx="51" ry="53" fill="#e1ba96" stroke="#a3795c" stroke-width="3"/>
+<path d="M-49 223Q-48 172 0 177Q48 170 54 225L29 206L-26 212Z" fill="#d9d6cd"/><path d="M-44 269Q-50 343 0 360Q57 332 48 266Q12 287 0 289Q-22 287 -44 269" fill="#ded9d0" stroke="#bcb7ac" stroke-width="2"/><circle cx="-19" cy="247" r="15" fill="none" stroke="#8b6b44" stroke-width="4"/><circle cx="18" cy="247" r="15" fill="none" stroke="#8b6b44" stroke-width="4"/><path d="M-4 248H4" stroke="#8b6b44" stroke-width="4"/><path d="M-45 382H44" stroke="#bfa079" stroke-width="16"/><path d="M-55 312L51 312" stroke="#9b865e" stroke-width="11"/><path d="M71 416L88 560" stroke="#8f6d48" stroke-width="11"/><path d="M73 417q17 -17 29 1" fill="none" stroke="#8f6d48" stroke-width="8"/></g></g>
+<path d="M792 599H1008" stroke="#cdb484" stroke-width="4"/>
+<text x="900" y="639" fill="#f6ddaf" font-family="Georgia,serif" font-size="30" text-anchor="middle">ORIN</text>
+<text x="900" y="669" fill="#c1d2cb" font-family="sans-serif" font-size="15" text-anchor="middle">Older surveyor / caretaker</text>
+<text x="900" y="698" fill="#d7be99" font-family="sans-serif" font-size="13" text-anchor="middle">Warm umber • wool • white hair</text></g><g><rect x="1109" y="138" width="292" height="625" rx="18" fill="#f4dab1" opacity=".04" stroke="#79928c" stroke-opacity=".6"/>
+<g transform="translate(1255 26) scale(1.03)"><g transform="translate(0 0)" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="584" rx="74" ry="13" fill="#1d353c" opacity=".25"/>
+<path d="M-29 402L-35 533L-18 567L0 560L-4 465L12 561L38 563L29 402Z" fill="#292e43" stroke="#52443e" stroke-width="4"/>
+<path d="M-43 553H-5L-3 575H-49Z M7 552H42L51 576H7Z" fill="#664a36" stroke="#3b302a" stroke-width="3"/>
+<path d="M-49 299Q0 269 46 302L40 429H-43Z" fill="#352f50" stroke="#a6806c" stroke-width="4"/>
+<path d="M-47 315L-73 400L-55 431L-37 414L-23 338" fill="#65445b" stroke="#a6806c" stroke-width="4"/>
+<path d="M44 318L75 406L58 432L38 419L21 341" fill="#65445b" stroke="#a6806c" stroke-width="4"/>
+<path d="M-47 400L-25 412M36 413L61 398" stroke="#71492e" stroke-width="12"/>
+<ellipse cx="0" cy="244" rx="45" ry="58" fill="#e2bb9d" stroke="#a3795c" stroke-width="3"/>
+<path d="M-49 233Q-47 166 0 169Q46 170 52 242L40 326L28 294Q45 211 15 198Q-10 221 -41 234L-32 301Z" fill="#454650"/><path d="M-59 307Q-85 385-69 485L-11 455L4 309Z" fill="#343b5e" stroke="#d6ad73" stroke-width="5"/><path d="M45 302Q75 370 63 473L4 449L-4 307" fill="#4b2b49" stroke="#d6ad73" stroke-width="5"/><path d="M-27 312L28 311M-27 343L29 343" stroke="#d0a46b" stroke-width="7"/><circle cx="0" cy="325" r="11" fill="#f1ca78"/><path d="M-11 246h1M14 246h1" stroke="#423139" stroke-width="6" stroke-linecap="round"/></g></g>
+<path d="M1147 599H1363" stroke="#cdb484" stroke-width="4"/>
+<text x="1255" y="639" fill="#f6ddaf" font-family="Georgia,serif" font-size="30" text-anchor="middle">SEREN</text>
+<text x="1255" y="669" fill="#c1d2cb" font-family="sans-serif" font-size="15" text-anchor="middle">High Bellkeeper / antagonist</text>
+<text x="1255" y="698" fill="#d7be99" font-family="sans-serif" font-size="13" text-anchor="middle">Navy • wine • restrained gold</text></g></g>
+<text x="50" y="805" fill="#b9d3d0" font-family="sans-serif" font-size="17">VISUAL QC: preserve capes, gear attachment, hair silhouette and facial age in all turnarounds. No added party gameplay implied.</text>
+<text x="50" y="830" fill="#d6bc93" font-family="sans-serif" font-size="14">Not a 3D model, sprite sheet, completed animation, final approved size chart, or player-option lock.</text>
+</svg>
