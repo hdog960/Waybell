@@ -79,3 +79,21 @@ Using the earlier three painted sources as the fixed design intent, a **new genu
 Further attempts at a diagonal and at Nella returned additional LEFT Tavi paintings instead. Only the **first independently accepted left profile** counts in this release. Do not count alternative poses as diagonal/cast art. The next generated artwork must be one 45-degree **front-right diagonal**, not a profile, montage, or cast lineup; reject subject/facing failure with no ledger advancement. Maintain narrative canon for Nella, Orin and Seren.
 
 No game code, runtime camera, physical iPhone tests or Phase 2 were conducted. G1 remains pending owner approval.
+
+## Review 17 addendum — actual FRONT-RIGHT 45° painting exists; next attempt must be BACK-RIGHT
+
+The one-at-a-time generation method produced a real single-image **1086×1448 premium FRONT-RIGHT 3/4** Tavi candidate, visually distinct from both FRONT and RIGHT cardinal paintings. See [Review 17](../../docs/26-PHASE-1-VISUAL-REVIEW-17.md), [Ledger 17](CHARACTER-ANGLE-ACCEPTANCE-LEDGER-17.md) and [new original four-diagonal gear source](tavi-diagonal-physical-gear-visual-contract-v9.svg). There are now **5/8** preliminary individual painted Tavi views. This count does not grant G1 approval and does not prove a real rig.
+
+A subsequent BACK-RIGHT request produced a multi-character promotional board containing small angle panels and cast members; a Nella request produced a Tavi report board. **Both rejected.** Their role labels, extra character artwork and on-image status are not verified source.
+
+**Next standalone direction contract — BACK-RIGHT / NE:**
+- Single Tavi only, neutral warm studio parchment; entirely full-body visible, one uninterrupted native portrait; absolutely no decorative board, collage, text, inset, cast lineup or UI.
+- Figure rotates **away** from viewer approximately 45 degrees, showing clearly the dorsal teal cape compass map, the back of the head and a partial physical-right facial cheek/profile. Do not show both eyes or a front chest panel prominently.
+- Physical RIGHT hand holds brass Echo Lantern on the nearer right side; physical LEFT hip map satchel stays left, possibly more occluded. Head/body, boots and clasp all match previous independent source portraits.
+- Reject any right-profile, front-right, or generic rear pose. Require a distinct three-quarter back silhouette.
+- Once independently accepted, proceed to BACK-LEFT (bag nearer, lantern farther) and then FRONT-LEFT (chest + physical left nearer), each separate call and full-size source.
+- Inspect normalized *painted person height*, braid/compass embroidery and gold road-node topology before assemblage. Never infer true 3D geometric continuity from image similarity.
+
+**Supporting cast:** Nella must be her own one-person studio FRONT portrait: Tavi's quick-witted human childhood friend with copper-red hair and a practical explorer wardrobe, not an automatically equipped party-class. Orin must appear as Tavi's elderly human grandfather, and Seren as the human last High Bellkeeper. Never let an image generator override docs/02.
+
+No game code, animation, tested PWA or iPhone hardware work is authorized. G1 stays owner-pending and Phase 2 locked.
