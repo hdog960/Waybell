@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1110" viewBox="0 0 1700 1110" role="img" aria-labelledby="t d">
+<title id="t">WAYBELL — Tavi back-right visual continuity and Wayline cloak registration v10</title>
+<desc id="d">Original vector art construction illustration for the independent painted BACK-RIGHT Tavi portrait produced in Review 18. The physical right-hand lantern is picture-right; left-hip map satchel is picture-left. A separate rear cloak motif overlay fixes proposed compass-center and asymmetrical hem landmarks. Diagram only, not a 3D rig or G1 approval.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#173442"/><stop offset="1" stop-color="#283d45"/></linearGradient>
+ <linearGradient id="cloak" x2="1" y2="1"><stop stop-color="#2d8992"/><stop offset=".55" stop-color="#15596d"/><stop offset="1" stop-color="#153f56"/></linearGradient>
+ <linearGradient id="leather" x2="1" y2="1"><stop stop-color="#ba8654"/><stop offset="1" stop-color="#62422e"/></linearGradient>
+ <linearGradient id="brass" x2="1" y2="1"><stop stop-color="#fff1b8"/><stop offset=".5" stop-color="#d7a453"/><stop offset="1" stop-color="#856033"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#ffeab0" stop-opacity=".65"/><stop offset=".6" stop-color="#ffcb65" stop-opacity=".25"/><stop offset="1" stop-color="#ffd78a" stop-opacity="0"/></radialGradient>
+ <pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M0 17L17 0" stroke="#d2b86d" stroke-width=".5" opacity=".1"/></pattern>
+</defs>
+<rect width="1700" height="1110" fill="url(#bg)"/><rect x="20" y="21" width="1660" height="1069" rx="18" fill="none" stroke="#ceac7d" stroke-width="3"/>
+<text x="49" y="73" fill="#ffe3b1" font-family="Georgia,serif" font-size="42">BACK-RIGHT ¾ — TAVI CLOAK AND EQUIPMENT REGISTRATION</text>
+<text x="51" y="110" fill="#bcd8d2" font-family="sans-serif" font-size="19">REVIEW 18 • original construction artwork • accepted visual candidate, not approved final production geometry</text>
+<!-- character design canvas -->
+<rect x="58" y="149" width="932" height="829" rx="18" fill="#e4d4ae" stroke="#e7c288" stroke-width="3"/>
+<g transform="translate(505 795)">
+<ellipse cx="0" cy="182" rx="220" ry="32" fill="#786d59" opacity=".18"/>
+<!-- legs and boot silhouettes -->
+<path d="M-88 -180L-91 78L-43 83L-17 -170M9 -173L41 74L100 76L79 -185" fill="#5f5045" stroke="#44392e" stroke-width="13"/>
+<path d="M-91 65L-105 159L-25 172L-28 80M39 75L31 164L128 167L98 74" fill="url(#leather)" stroke="#55372b" stroke-width="12"/>
+<path d="M-99 115H-31M-92 141H-27M39 114H100M37 143H113" stroke="#cf9d5a" stroke-width="8"/>
+<!-- body and far left arm -->
+<path d="M-106 -419Q0 -450 103 -411L104 -174H-109Z" fill="#d2b58f" stroke="#876b52" stroke-width="9"/>
+<path d="M-98 -400L-155 -258" stroke="#e2ba97" stroke-width="41" stroke-linecap="round"/>
+<!-- outer cloak with broad rear compass panel -->
+<path d="M-114 -422Q-4 -463 125 -405L202 52L63 105L-153 144L-199 67L-152 -177Z" fill="url(#cloak)" stroke="#edbe75" stroke-width="13"/>
+<path d="M-114 -422Q-4 -463 125 -405L202 52L63 105L-153 144L-199 67L-152 -177Z" fill="url(#grain)"/>
+<path d="M-125 -412Q-148 -286 -174 -156L-193 50M130 -393L166 -183L191 32M-180 72Q-71 114 59 81L195 38" stroke="#f7cf89" stroke-width="7" fill="none"/>
+<path d="M-72 -319Q-20 -253 -67 -196Q-110 -131 -2 -90T83 18" stroke="#e4b76f" stroke-width="7" fill="none"/>
+<path d="M117 -307Q91 -248 129 -181Q153 -125 92 -72" stroke="#dab06e" stroke-width="6" fill="none"/>
+<!-- compass star target -->
+<g transform="translate(10 -115)" fill="none" stroke="#f5cd82">
+<circle r="107" stroke-width="8"/><circle r="77" stroke-width="5"/><path d="M0 -126V126M-126 0H126M-89 -89L89 89M-89 89L89 -89" stroke-width="6"/>
+<path d="M0 -97L18 -20L0 0L-18 -20ZM0 97L18 20L0 0L-18 20ZM97 0L20 18L0 0L20 -18ZM-97 0L-20 18L0 0L-20 -18Z" fill="url(#brass)" stroke="#885e32" stroke-width="4"/>
+<circle r="15" fill="#f4d58a" stroke="#997140" stroke-width="5"/>
+</g>
+<!-- hood and rear hair in 3/4 facing right -->
+<path d="M-114 -428Q-64 -504 59 -493L120 -420L43 -365L-82 -383Z" fill="#21576c" stroke="#e3b47a" stroke-width="10"/>
+<ellipse cx="49" cy="-533" rx="74" ry="91" fill="#e8bd96" stroke="#78533d" stroke-width="7"/>
+<path d="M-33 -534Q-59 -618 15 -623Q68 -652 106 -588L93 -549L73 -573L40 -564L12 -567L-6 -540Z" fill="#57392b" stroke="#382b25" stroke-width="7"/>
+<path d="M53 -546Q84 -541 96 -512Q75 -496 68 -507" fill="#e6b58e" stroke="#9b704f" stroke-width="3"/>
+<circle cx="89" cy="-533" r="4.5" fill="#3d2d25"/>
+<!-- leather strap diagonal to bag at physical left / picture-left -->
+<path d="M-23 -411Q-95 -315 -153 -155" stroke="#774d32" stroke-width="23" fill="none"/>
+<path d="M-23 -411Q-95 -315 -153 -155" stroke="#c28c52" stroke-width="5" fill="none"/>
+<g transform="translate(-189 -192)"><rect x="-48" y="-17" width="96" height="133" rx="12" fill="url(#leather)" stroke="#e1b67f" stroke-width="9"/><path d="M-42 15H43M-22 45H22" stroke="#cba26b" stroke-width="8"/><rect x="-12" y="42" width="26" height="33" rx="4" fill="url(#brass)"/><path d="M-24 -18V-66M14 -18V-76" stroke="#9b7248" stroke-width="18"/></g>
+<!-- near physical right arm and lantern -->
+<path d="M107 -404Q155 -279 182 -156L209 -107" fill="none" stroke="#e2ba91" stroke-width="48" stroke-linecap="round"/>
+<path d="M161 -204L202 -214L227 -127L186 -122Z" fill="url(#leather)" stroke="#795239" stroke-width="8"/>
+<g transform="translate(229 -93)"><circle cx="0" cy="45" r="123" fill="url(#light)"/><path d="M-30 -6Q-24 -47 0 -49Q27 -48 30 -6" stroke="#c08d49" stroke-width="11" fill="none"/><path d="M-47 0H48L37 137H-36Z" fill="url(#brass)" stroke="#805934" stroke-width="10"/><rect x="-27" y="18" width="55" height="90" rx="5" fill="#fff1b2"/><path d="M0 17V110M-27 63H28" stroke="#b07d42" stroke-width="6"/></g>
+</g>
+<!-- legend -->
+<rect x="1032" y="159" width="602" height="746" rx="14" fill="#12313f" stroke="#8ca5a8" stroke-width="3"/>
+<text x="1053" y="212" fill="#ffe0ab" font-family="Georgia,serif" font-size="31">REGISTER THESE PHYSICAL SIDES</text>
+<g fill="#d2e5dc" font-family="sans-serif" font-size="22">
+<text x="1054" y="268">1. Camera sees back + RIGHT cheek.</text>
+<text x="1054" y="313">2. Physical RIGHT lantern is near.</text>
+<text x="1054" y="358">3. Physical LEFT satchel is far.</text>
+<text x="1054" y="403">4. Compass disk stays on rear panel.</text>
+<text x="1054" y="448">5. Map paths branch outward.</text>
+<text x="1054" y="493">6. Unequal cape hem remains one cut.</text>
+<text x="1054" y="538">7. Boots / cuff heights match.</text>
+</g>
+<path d="M1055 578H1605" stroke="#b6b5a0" stroke-width="2" stroke-dasharray="10 9"/>
+<text x="1054" y="627" fill="#ffd5a0" font-size="25" font-family="Georgia,serif">Observed drift in painted images</text>
+<g font-family="sans-serif" font-size="19" fill="#e2d4bc">
+<text x="1055" y="666">• Compass spoke shape and size vary</text>
+<text x="1055" y="700">• Gold route-map branches vary</text>
+<text x="1055" y="734">• Cloak hem length differs</text>
+<text x="1055" y="768">• Boot buckle counts differ</text>
+<text x="1055" y="802">• Actual 3D attachments unproven</text>
+</g>
+<rect x="51" y="989" width="1582" height="75" rx="10" fill="#102a35" stroke="#a3aea4" stroke-width="2"/>
+<text x="72" y="1019" font-size="19" font-family="sans-serif" fill="#ffe0ab">Review 18: Tavi BACK-RIGHT has a genuine premium standalone painted candidate, but BACK-LEFT and FRONT-LEFT remain missing.</text>
+<text x="72" y="1047" font-size="16" font-family="sans-serif" fill="#b9d1ce">This original editable SVG is a construction study only, not the accepted painting, a textured 3D model, game code, G1 approval or iPhone hardware proof.</text>
+</svg>
