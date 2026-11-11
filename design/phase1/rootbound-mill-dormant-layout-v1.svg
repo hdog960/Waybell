@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-labelledby="t d">
+<title id="t">WAYBELL Rootbound Mill first-entry dormant layout — two elevations</title>
+<desc id="d">Two schematic 2.5D level compositions, lower dry turbine chamber and upper spindle galleries, with nonmoving wheel, fixed Rootspool anchors and explicit playable routes; concept only.</desc>
+<defs><linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4c6055"/><stop offset=".58" stop-color="#243b3a"/><stop offset="1" stop-color="#1b3238"/></linearGradient><linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c1a57b"/><stop offset="1" stop-color="#806b54"/></linearGradient></defs><rect width="1600" height="1120" fill="#112931"/>
+<text x="70" y="69" font-family="Georgia,serif" font-size="43" fill="#ffe4ac">ROOTBOUND MILL — FIRST VISIT, DORMANT</text>
+<text x="72" y="105" fill="#c0dad4" font-family="sans-serif" font-size="21">Design elevation studies / motion intentionally absent / clear route boundaries / no finished environment or gameplay</text>
+<g transform="translate(0 141)"><rect x="55" y="0" width="1490" height="400" rx="20" fill="url(#wall)" stroke="#d7b681" stroke-width="4"/>
+<path d="M92 52L1402 52M93 99L1402 99" stroke="#657465" stroke-width="5" opacity=".45"/>
+<path d="M170 15Q222 88 190 189Q185 251 152 350M1410 18Q1371 73 1400 164L1382 355" fill="none" stroke="#70674a" stroke-width="31"/>
+<path d="M170 14Q223 88 190 189M1409 19Q1371 73 1400 164" fill="none" stroke="#51724f" stroke-width="8"/>
+<path d="M105 319Q400 292 688 327T1500 278V397H105Z" fill="#3d504c"/>
+<path d="M80 352L1550 352" stroke="#c2a67d" stroke-width="7"/>
+<path d="M95 370L1496 370" stroke="#695643" stroke-width="22"/>
+<g><circle cx="420" cy="201" r="127" fill="#654a37" stroke="#d2ae77" stroke-width="11"/><circle cx="420" cy="201" r="107" fill="#394b45" stroke="#b18e61" stroke-width="7"/><path d="M420 201L531 201" stroke="#ad8859" stroke-width="12"/><path d="M420 201L498.4888527117068 279.4888527117068" stroke="#ad8859" stroke-width="12"/><path d="M420 201L420 312" stroke="#ad8859" stroke-width="12"/><path d="M420 201L341.5111472882932 279.4888527117068" stroke="#ad8859" stroke-width="12"/><path d="M420 201L309 201" stroke="#ad8859" stroke-width="12"/><path d="M420 201L341.5111472882932 122.51114728829323" stroke="#ad8859" stroke-width="12"/><path d="M420 201L420 90" stroke="#ad8859" stroke-width="12"/><path d="M420 201L498.4888527117067 122.5111472882932" stroke="#ad8859" stroke-width="12"/><circle cx="420" cy="201" r="26" fill="#a78c69" stroke="#5f4a34" stroke-width="9"/><path d="M277 335L557 335" stroke="#715641" stroke-width="9"/></g>
+<path d="M70 330L1530 330V384H70Z" fill="#8e7456" stroke="#d6bc88" stroke-width="8"/>
+<path d="M715 334L1115 318L1212 347L811 374Z" fill="#393f3b" stroke="#aa9373" stroke-width="8"/>
+<path d="M746 337L811 374M816 335L877 373M885 333L944 367M969 331L1020 364M1040 327L1092 357" stroke="#7a5d4d" stroke-width="7"/>
+<path d="M1198 287L1410 240" stroke="#be9d69" stroke-width="14"/>
+<path d="M1205 274v-95M1405 236v-95" stroke="#ab8a63" stroke-width="13"/>
+<path d="M1207 182H1405" stroke="#d6b681" stroke-width="9"/>
+<rect x="932" y="234" width="100" height="61" fill="#78634d" stroke="#c19b65" stroke-width="5"/>
+<path d="M952 260H1013" stroke="#9bc0cc" stroke-width="12"/>
+
+<g transform="translate(0 0)" stroke="#e3b15e" fill="none" stroke-width="9">
+<circle cx="723" cy="189" r="27"/><path d="M723 161V137"/>
+<circle cx="1137" cy="225" r="24"/><path d="M1137 201V166"/>
+<circle cx="968" cy="110" r="21" stroke-dasharray="10 5"/>
+</g> <g transform="translate(800 337)"><ellipse cx="0" cy="0" rx="31" ry="13" fill="#213a37" opacity=".4"/><path d="M-12 -28L-18 -4M12 -28L17 -4" stroke="#513b30" stroke-width="12"/><path d="M-25 -83L-28 -24L10 -28L29 -83Z" fill="#247286" stroke="#f1c98d" stroke-width="5"/><circle cx="2" cy="-105" r="23" fill="#e5c49c" stroke="#744f37" stroke-width="3"/><path d="M-25 -116Q-21 -144 3 -131Q27 -138 27 -111" fill="#49342c"/></g>
+<g fill="#d9b26b" font-family="sans-serif" font-size="24" font-weight="bold"><text x="95" y="43">A — LOWER TURBINE HALL</text></g>
+</g><g transform="translate(0 584)"><rect x="55" y="0" width="1490" height="400" rx="20" fill="url(#wall)" stroke="#d7b681" stroke-width="4"/>
+<path d="M92 52L1402 52M93 99L1402 99" stroke="#657465" stroke-width="5" opacity=".45"/>
+<path d="M170 15Q222 88 190 189Q185 251 152 350M1410 18Q1371 73 1400 164L1382 355" fill="none" stroke="#70674a" stroke-width="31"/>
+<path d="M170 14Q223 88 190 189M1409 19Q1371 73 1400 164" fill="none" stroke="#51724f" stroke-width="8"/>
+<path d="M105 319Q400 292 688 327T1500 278V397H105Z" fill="#3d504c"/>
+<path d="M80 352L1550 352" stroke="#c2a67d" stroke-width="7"/>
+<path d="M95 370L1496 370" stroke="#695643" stroke-width="22"/>
+<path d="M95 283L648 230L823 263L1405 150" fill="none" stroke="#77563c" stroke-width="38"/><path d="M99 275L652 222L821 254L1404 145" fill="none" stroke="#b99864" stroke-width="11"/><g><circle cx="290" cy="206" r="91" fill="#654a37" stroke="#d2ae77" stroke-width="11"/><circle cx="290" cy="206" r="71" fill="#394b45" stroke="#b18e61" stroke-width="7"/><path d="M290 206L365 206" stroke="#ad8859" stroke-width="12"/><path d="M290 206L343.03300858899104 259.03300858899104" stroke="#ad8859" stroke-width="12"/><path d="M290 206L290 281" stroke="#ad8859" stroke-width="12"/><path d="M290 206L236.96699141100893 259.03300858899104" stroke="#ad8859" stroke-width="12"/><path d="M290 206L215 206" stroke="#ad8859" stroke-width="12"/><path d="M290 206L236.96699141100893 152.96699141100893" stroke="#ad8859" stroke-width="12"/><path d="M290 206L290 131" stroke="#ad8859" stroke-width="12"/><path d="M290 206L343.03300858899104 152.96699141100893" stroke="#ad8859" stroke-width="12"/><circle cx="290" cy="206" r="26" fill="#a78c69" stroke="#5f4a34" stroke-width="9"/><path d="M183 304L391 304" stroke="#715641" stroke-width="9"/></g>
+<path d="M520 270L520 115L1320 115L1320 260" fill="none" stroke="#826243" stroke-width="16"/>
+<path d="M555 115H1110M600 115V225M780 115V225M950 115V225" stroke="#a4875b" stroke-width="8"/>
+<path d="M365 291L556 201M432 307L611 222" stroke="#bd965c" stroke-width="10"/>
+<path d="M583 193L870 160L920 185L651 215Z" fill="#987b5d" stroke="#d0af79" stroke-width="6"/>
+
+<g transform="translate(0 0)" stroke="#e3b15e" fill="none" stroke-width="9">
+<circle cx="723" cy="189" r="27"/><path d="M723 161V137"/>
+<circle cx="1137" cy="225" r="24"/><path d="M1137 201V166"/>
+<circle cx="968" cy="110" r="21" stroke-dasharray="10 5"/>
+</g> <g transform="translate(710 323)"><ellipse cx="0" cy="0" rx="31" ry="13" fill="#213a37" opacity=".4"/><path d="M-12 -28L-18 -4M12 -28L17 -4" stroke="#513b30" stroke-width="12"/><path d="M-25 -83L-28 -24L10 -28L29 -83Z" fill="#247286" stroke="#f1c98d" stroke-width="5"/><circle cx="2" cy="-105" r="23" fill="#e5c49c" stroke="#744f37" stroke-width="3"/><path d="M-25 -116Q-21 -144 3 -131Q27 -138 27 -111" fill="#49342c"/></g>
+<g fill="#d9b26b" font-family="sans-serif" font-size="24" font-weight="bold"><text x="95" y="43">B — UPPER SPINDLE GALLERIES</text></g>
+</g>
+<g font-family="sans-serif" font-size="20" fill="#f7dfb1"><text x="75" y="1051">ENGINEERING INTENT: DRY INTAKE CHANNELS • LOCKED WATERWHEEL • FIXED ROOTSPOOL ANCHORS • LEGIBLE HEIGHT DIFFERENCES</text></g>
+<text x="75" y="1085" font-family="sans-serif" font-size="17" fill="#b2ceca">Yellow hanging rings show later Rootspool target anchors; inaccessible until item is earned. Water returns AFTER the player's repair sequence.</text>
+</svg>
