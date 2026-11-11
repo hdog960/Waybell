@@ -97,3 +97,16 @@ A subsequent BACK-RIGHT request produced a multi-character promotional board con
 **Supporting cast:** Nella must be her own one-person studio FRONT portrait: Tavi's quick-witted human childhood friend with copper-red hair and a practical explorer wardrobe, not an automatically equipped party-class. Orin must appear as Tavi's elderly human grandfather, and Seren as the human last High Bellkeeper. Never let an image generator override docs/02.
 
 No game code, animation, tested PWA or iPhone hardware work is authorized. G1 stays owner-pending and Phase 2 locked.
+
+## Review 18 addendum — real BACK-RIGHT painting completed; reject fake eight-view claims
+
+NEW independent full-size `a_highly_detailed_fantasy_character_illustration_o.png` from Review 18 is **Tavi BACK-RIGHT 3/4**, one person only: rear Wayline compass, partial RIGHT cheek, near physical RIGHT-hand lantern, far physical LEFT satchel. It is a preliminary *painted concept candidate*, not an animated character or G1-approved asset. Total verified independent premium Tavi paintings: **6 of 8**. See [Review 18](../../docs/27-PHASE-1-VISUAL-REVIEW-18.md), [Ledger 18](CHARACTER-ANGLE-ACCEPTANCE-LEDGER-18.md) and [new original rear-right gear registration illustration](tavi-back-right-cloak-and-gear-registration-v10.svg).
+
+BACK-LEFT generations during this slice returned two multi-character/multi-angle artwork boards; one even claimed “8-direction complete,” though **BACK-LEFT and FRONT-LEFT remain OPEN**. Do NOT crop these figures, copy generated checkmarks, assert new Nella/Orin/Seren portraits, or retroactively lock costume seams. The only new standalone painted picture accepted this slice is BACK-RIGHT.
+
+### Next two studio requests (one per call, no shared board)
+- **BACK-LEFT**: Tavi turned AWAY ~45° toward picture-left. Character's back and the physical LEFT cheek/shoulder contour visible. Compass embroidered on back; near-side physical-LEFT map satchel; far-side RIGHT-hand brass Echo Lantern. No front chest or both eyes, no text/frames/labels/multiple angles. Maintain identical hair, right/left shoulder height, cape hem and boots.
+- **FRONT-LEFT**: Tavi turned TOWARD camera ~45° to picture-left, showing face and chest, near physical-LEFT satchel and far physical-RIGHT lantern. One full-body human on neutral warm parchment only. Never horizontally mirror the existing front-right portrait and thereby invert actual equipment sides.
+- Both must be original full-resolution individual images, subject to close-up and 874×492 static legibility QA. At completion compare the **actual figure** height/groundline plus gold route-map topology across all eight; same canvas dimensions alone do not prove a rig.
+
+No game code, physical iPhone validation, 3D engine or owner G1 approval. Phase 2 remains locked.
