@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="970" viewBox="0 0 1600 970" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Review 12 — wide versus close Upper Spindle Galleries camera modes</title>
+<desc id="desc">Source-controlled Phase 1 artistic staging reference showing a wide exploration composition and a closer interaction composition, a common room identity and proposed left and right thumb-safe zones. No runtime game camera.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#112d38"/><stop offset="1" stop-color="#243c46"/></linearGradient>
+<linearGradient id="stone" x2="1" y2="1"><stop stop-color="#c4b396"/><stop offset="1" stop-color="#6f796c"/></linearGradient>
+<linearGradient id="timber" x2="1" y2="1"><stop stop-color="#cda16b"/><stop offset="1" stop-color="#754f37"/></linearGradient>
+</defs>
+<rect width="1600" height="970" fill="url(#bg)"/>
+<rect x="17" y="18" width="1566" height="935" rx="19" stroke="#d6b476" stroke-width="3" fill="none"/>
+<text x="48" y="73" font-family="Georgia,serif" font-size="42" fill="#f8dcab">UPPER GALLERY — WIDE / INTERACTION CAMERA CONTRACT</text>
+<text x="51" y="113" font-family="sans-serif" font-size="18" fill="#c1d8d4">Review 12  •  single dormant architectural family  •  no water, no moving spindles  •  source design, not gameplay</text>
+<g transform="translate(40 167)">
+<rect width="730" height="490" rx="15" fill="#334e4e" stroke="#d9b17a" stroke-width="3"/>
+<path d="M0 49H730V488H0Z" fill="#405650"/>
+<path d="M36 165L704 155M49 99L700 112" stroke="#b8a87e" stroke-width="12" opacity=".45"/>
+<path d="M50 366L224 313L380 332L512 230L696 245" fill="none" stroke="#5d4533" stroke-width="79" stroke-linecap="round"/>
+<path d="M50 352L220 296L373 316L506 217L696 227" fill="none" stroke="url(#timber)" stroke-width="55" stroke-linecap="round"/>
+<path d="M50 313L216 262L370 283L509 180L691 196" fill="none" stroke="#dcc18e" stroke-width="8"/>
+<path d="M48 389L220 337L372 357L513 258L689 272" fill="none" stroke="#80563e" stroke-width="17"/>
+<g stroke="#795638" stroke-width="16"><path d="M124 345V484M313 328V479M528 248V475"/></g>
+<g transform="translate(622 370)"><circle r="81" fill="#263d3d" stroke="#aa8056" stroke-width="24"/><g stroke="#87694a" stroke-width="12"><path d="M-65 -35L65 35M-65 35L65 -35M-80 0H80M0 -80V80"/></g></g>
+<g stroke="#e5c174" fill="none" stroke-width="8"><circle cx="444" cy="168" r="27"/><path d="M444 112v30"/><circle cx="590" cy="109" r="22"/><path d="M590 68v19"/></g>
+<g transform="translate(300 338)">
+<ellipse cx="0" cy="11" rx="26" ry="8" fill="#132b31" opacity=".6"/>
+<path d="M-10 -26L-13 3M8 -26L12 3" stroke="#624634" stroke-width="9"/>
+<path d="M-22 -66L22 -66L21 -27H-20Z" fill="#eed1a8"/><path d="M-17 -70Q-45 -48 -39 -18L9 -28L19 -64Z" fill="#176f82" stroke="#e5bb74" stroke-width="3"/>
+<circle cy="-84" r="17" fill="#ebc59c"/><path d="M-16 -87Q-21 -112 11 -110L19 -88" fill="#503827"/><rect x="23" y="-20" width="12" height="18" fill="#f0c57d"/></g>
+<rect width="117" height="490" fill="#4486a0" fill-opacity=".18"/><rect x="613" width="117" height="490" fill="#4486a0" fill-opacity=".18"/>
+<path d="M117 0V490M613 0V490" stroke="#77c8de" stroke-width="2" stroke-dasharray="12 10"/>
+<text x="23" y="33" font-size="16" fill="#d9f0ee">16%</text><text x="650" y="33" font-size="16" fill="#d9f0ee">16%</text>
+<text x="30" y="461" fill="#f5e0b5" font-size="23" font-family="Georgia,serif">A — WIDE EXPLORATION</text>
+</g>
+<g transform="translate(827 167)">
+<rect width="730" height="490" rx="15" fill="#334e4e" stroke="#d9b17a" stroke-width="3"/>
+<path d="M0 49H730V488H0Z" fill="#405650"/>
+<path d="M15 168L715 158M36 94L708 113" stroke="#b8a87e" stroke-width="12" opacity=".45"/>
+<path d="M22 390L208 325L384 343L524 235L712 252" fill="none" stroke="#5d4533" stroke-width="90" stroke-linecap="round"/>
+<path d="M22 370L205 310L380 321L521 213L712 230" fill="none" stroke="url(#timber)" stroke-width="63" stroke-linecap="round"/>
+<path d="M22 330L203 278L381 291L519 178L711 199" fill="none" stroke="#dcc18e" stroke-width="9"/>
+<path d="M22 410L206 344L388 365L526 258L713 276" fill="none" stroke="#80563e" stroke-width="18"/>
+<g stroke="#795638" stroke-width="18"><path d="M112 358V485M312 337V482M544 246V475"/></g>
+<g transform="translate(619 407)"><circle r="97" fill="#263d3d" stroke="#aa8056" stroke-width="25"/><g stroke="#87694a" stroke-width="13"><path d="M-70 -52L70 52M-70 52L70 -52M-95 0H95M0 -95V95"/></g></g>
+<g stroke="#e5c174" fill="none" stroke-width="10"><circle cx="488" cy="180" r="36"/><path d="M488 108v37"/><circle cx="663" cy="110" r="25"/><path d="M663 64v22"/></g>
+<g transform="translate(325 359)">
+<ellipse cx="0" cy="11" rx="39" ry="10" fill="#132b31" opacity=".6"/>
+<path d="M-14 -40L-17 3M14 -39L19 3" stroke="#624634" stroke-width="13"/>
+<path d="M-33 -104L34 -103L33 -40H-33Z" fill="#eed1a8"/><path d="M-28 -107Q-67 -62 -56 -25L9 -41L30 -100Z" fill="#176f82" stroke="#e5bb74" stroke-width="5"/>
+<circle cy="-133" r="25" fill="#ebc59c"/><path d="M-24 -138Q-32 -175 16 -169L27 -138" fill="#503827"/><rect x="35" y="-34" width="16" height="30" fill="#f0c57d"/></g>
+<rect width="117" height="490" fill="#4486a0" fill-opacity=".18"/><rect x="613" width="117" height="490" fill="#4486a0" fill-opacity=".18"/>
+<path d="M117 0V490M613 0V490" stroke="#77c8de" stroke-width="2" stroke-dasharray="12 10"/>
+<text x="23" y="33" font-size="16" fill="#d9f0ee">16%</text><text x="650" y="33" font-size="16" fill="#d9f0ee">16%</text>
+<text x="30" y="461" fill="#f5e0b5" font-size="23" font-family="Georgia,serif">B — CLOSER INTERACTION</text>
+</g>
+<path d="M779 391H819" stroke="#ecd08a" stroke-width="7"/><path d="M802 375l20 16 -20 16" fill="none" stroke="#ecd08a" stroke-width="7"/>
+<rect x="42" y="700" width="1518" height="207" rx="14" fill="#152f3a" stroke="#809b9f" stroke-width="2"/>
+<text x="64" y="738" font-size="27" fill="#ffe0a4" font-family="Georgia,serif">PHASE 1 VISUAL CHECKS — NOT LIVE CAMERA TESTS</text>
+<text x="65" y="775" font-size="18" fill="#d7e4dc" font-family="sans-serif">Wide art target: Tavi approximately 15–17% of full painting height; near Rootspool ring at ~60% frame width, far at ~79%.</text>
+<text x="65" y="807" font-size="18" fill="#d7e4dc" font-family="sans-serif">Interaction target: a closer view may enlarge Tavi while keeping the current mandatory ring inside the clear central area.</text>
+<text x="65" y="839" font-size="18" fill="#d7e4dc" font-family="sans-serif">All wheels and machinery motionless; no current or water before repair. Same room materials, terrain and landmark hierarchy.</text>
+<text x="65" y="871" font-size="17" fill="#ffcf9c" font-family="sans-serif">Still missing: proven dynamic transitions, 3D scene fidelity, real touch occlusion and approved premium character turnaround.</text>
+<text x="41" y="944" fill="#a6c9cb" font-size="13" font-family="sans-serif">Original editable vector composition plan only. Do not interpret as a runnable game, engine camera, iPhone screenshot or final G1 approval.</text>
+</svg>
