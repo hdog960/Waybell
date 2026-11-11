@@ -5,7 +5,7 @@ Version: Phase 0 / 1.0 | Authority: accepted decisions, unresolved questions, ap
 D001 LOCKED owner: Title WAYBELL: The Roads We Leave (working/production title; trademark check not performed).
 D002 LOCKED owner: iPhone-first landscape, real 2.5D stylized 3D diorama; controls never obscure gameplay.
 D003 LOCKED owner: GitHub repository https://github.com/hdog960/Waybell and free Pages; no Codex, Work, Vercel or outside paid service.
-D004 LOCKED owner: concept and design preproduction only until development explicitly authorized; Phase 0 specifically allows docs but forbids game code and Phase 1.
+D004 UPDATED owner: Phase 0 documentation was completed and verified; user explicitly authorized **Phase 1 visual concept work only** on 2026-11-11. No game code or Phase 2 without a separate explicit authorization.
 D005 DESIGN CANON: Seven regions, six main dungeons, three optional dungeons; chapter order with two swappable mid-game branches.
 D006 DESIGN CANON: Echo Lantern has Reveal, Replay, Restore; single 6-sec Echo, bounded resonant interactions and temporary marked paths.
 D007 DESIGN CANON: Five major traversal/combat/puzzle tools; no numeric grind levels.
@@ -16,6 +16,8 @@ D011 PENDING OWNER: Art direction approval of genuine original samples at G1, th
 D012 PENDING: Title/IP clearance, exact licensed art and audio provenance before commercial release.
 D013 PENDING: Real iPhone device matrix and acceptable FPS/load time thresholds; measure at G2.
 D014 PENDING: Monetization business model; no monetization integration is authorized during prototype.
+D015 APPROVED owner: Begin Phase 1 visual identity, character, Thimblebrook, and Long Reach concept work using authoritative docs; **stop for owner's visual approval; do not start Phase 2**.
+D016 VISUAL PROPOSAL (NOT YET ACCEPTED): handcrafted 3D-inspired illustrated diorama direction and teal-caped Tavi as documented in docs/10. Later off-canon generated images rejected.
 
 ## Canonical names and content count
 Main regions = 7: Long Reach, Wilderbloom, Brasshollow, Tidemarrow, Ashglass Highlands, Snowglass Peaks, Broken Horizon.
@@ -37,7 +39,7 @@ No-paid-services / static delivery -> docs/00 charter, docs/07 infrastructure, P
 
 ## Phase ledger at document creation
 PHASE 0: **G0 VERIFIED — DOCUMENTATION COMPLETE** (2026-11-10). All 10 authoritative files + root README committed to GitHub main, read back successfully using GitHub contents API; checked titles, internal README links, seven regions, six major and three optional dungeons, Q01–Q18, W01–W08, Phase 12, no-Codex constraint and consistent Yselle/Seren spelling. This is a documentation-only verification, not a design/art owner signoff.
-PHASE 1: **NOT STARTED — OWNER AUTHORIZATION REQUIRED.** No visual preproduction authorized by G0 verification alone.
+PHASE 1: **STARTED — VISUAL CONCEPT REVIEW 01 PREPARED; OWNER G1 APPROVAL PENDING** (2026-11-11). Original illustrative studies prepared in conversation; docs/10 records selected direction, available concept-board/plate names, quality critique, and missing deliverables. No actual 3D modeling or gameplay implementation. Phase 2 remains locked.
 PHASES 2–12: **NOT STARTED — OWNER AUTHORIZATION AND PRIOR GATES REQUIRED.** No game code, art-production assets, or playable build added by Phase 0.
 No CI run, browser playtest, iPhone run, or live Pages gameplay verification has occurred merely because documentation was committed.
 
