@@ -17,7 +17,9 @@ D012 PENDING: Title/IP clearance, exact licensed art and audio provenance before
 D013 PENDING: Real iPhone device matrix and acceptable FPS/load time thresholds; measure at G2.
 D014 PENDING: Monetization business model; no monetization integration is authorized during prototype.
 D015 APPROVED owner: Begin Phase 1 visual identity, character, Thimblebrook, and Long Reach concept work using authoritative docs; **stop for owner's visual approval; do not start Phase 2**.
-D016 VISUAL PROPOSAL (NOT YET ACCEPTED): handcrafted 3D-inspired illustrated diorama direction and teal-caped Tavi as documented in docs/10. Later off-canon generated images rejected.
+D016 OWNER APPROVED IN PRINCIPLE: owner accepted the broad storybook-diorama aesthetic from board 01, NOT final character/camera/mobile fidelity or G1. Tavi remains canonically teal-caped; off-canon generated variants rejected.
+D017 OWNER AUTHORIZATION: Continue **Phase 1 only** and include a clickable Continue Development button in each response, without starting game code or Phase 2.
+D018 VISUAL PROPOSAL (REVIEW 02): Wayline/bell/civic-route iconography original vector sheet committed in design/waybell-iconography-v1.svg, and new visual critiques documented in docs/11. Design elements remain candidates until owner accepts G1.
 
 ## Canonical names and content count
 Main regions = 7: Long Reach, Wilderbloom, Brasshollow, Tidemarrow, Ashglass Highlands, Snowglass Peaks, Broken Horizon.
@@ -39,7 +41,7 @@ No-paid-services / static delivery -> docs/00 charter, docs/07 infrastructure, P
 
 ## Phase ledger at document creation
 PHASE 0: **G0 VERIFIED — DOCUMENTATION COMPLETE** (2026-11-10). All 10 authoritative files + root README committed to GitHub main, read back successfully using GitHub contents API; checked titles, internal README links, seven regions, six major and three optional dungeons, Q01–Q18, W01–W08, Phase 12, no-Codex constraint and consistent Yselle/Seren spelling. This is a documentation-only verification, not a design/art owner signoff.
-PHASE 1: **STARTED — VISUAL CONCEPT REVIEW 01 PREPARED; OWNER G1 APPROVAL PENDING** (2026-11-11). Original illustrative studies prepared in conversation; docs/10 records selected direction, available concept-board/plate names, quality critique, and missing deliverables. No actual 3D modeling or gameplay implementation. Phase 2 remains locked.
+PHASE 1: **ACTIVE — VISUAL CONCEPT REVIEW 02 COMMITTED; BROAD ART DIRECTION APPROVED; G1 PENDING** (2026-11-11). Read docs/10 (first packet) and docs/11 (refined packet). New original iconography vector in design/waybell-iconography-v1.svg; selected concept PNGs, phone-scale static annotation and seven-image ZIP remain chat artifacts, not GitHub binaries. Outstanding: consistent 8-direction Tavi, honest high-angle gameplay camera, dormant mill interiors, equivalent-camera enemy warning. No actual engine, 3D rig, game code or gameplay implementation. Phase 2 remains locked.
 PHASES 2–12: **NOT STARTED — OWNER AUTHORIZATION AND PRIOR GATES REQUIRED.** No game code, art-production assets, or playable build added by Phase 0.
 No CI run, browser playtest, iPhone run, or live Pages gameplay verification has occurred merely because documentation was committed.
 
