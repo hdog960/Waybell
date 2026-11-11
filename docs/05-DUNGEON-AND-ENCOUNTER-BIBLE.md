@@ -99,7 +99,7 @@ U06 Windbreak seam — Galecloak carries across disjointed spaces.
 U07 Roadbook room — emotional conversation, Orin/Nella memories without fabricated loss.
 U08 Decentralization trial — arrange 3 regional circuits using learned tool logic.
 U09 Central switching hub — prefinal save, Seren debates stakes, no surprise unrelated villain.
-U10 Final encounter — Part 1 avoid Seren's Quieting field attacks and use Echo to open routes; Part 2 prevent network collapse via one clear use of each acquired ability; Part 3 resolve central control with decentralization puzzle, Serena ceases Quieting. Ending follows.
+U10 Final encounter — Part 1 avoid Seren's Quieting field attacks and use Echo to open routes; Part 2 prevent network collapse via one clear use of each acquired ability; Part 3 resolve central control with decentralization puzzle, Seren ceases the Quieting. Ending follows.
 Failure guard: checkpoint before encounter; previously completed subcircuits stay complete on retry; no long cinematic replay required.
 
 ## Optional dungeon 1 — Forgotten Tollhouse (Long Reach)
