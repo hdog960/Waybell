@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1080" viewBox="0 0 1500 1080" role="img" aria-labelledby="title description">
+<title id="title">Tavi — original rear Wayline cloak material and embroidery topology reference v7</title>
+<desc id="description">Single original source-controlled vector art-direction reference for the selected painted Tavi back view: asymmetrical deep-teal cloak with diagonal gold route stitching, centered brass eight-point compass, satchel on the character's physical left and lantern in right hand. Proposed art map, not a 3D UV or rig.</desc>
+<defs>
+<linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9e9c9"/><stop offset="1" stop-color="#dac8a6"/></linearGradient>
+<linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2f8b95"/><stop offset=".5" stop-color="#165d72"/><stop offset="1" stop-color="#0f3d58"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="0.6" y2="1"><stop stop-color="#fff1c4"/><stop offset=".35" stop-color="#e9bc6f"/><stop offset="1" stop-color="#916332"/></linearGradient>
+<pattern id="weave" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M0 25L25 0" stroke="#a0dac9" stroke-width=".7" opacity=".2"/><path d="M0 0L25 25" stroke="#052c3b" stroke-width=".7" opacity=".19"/></pattern>
+</defs>
+<rect width="1500" height="1080" fill="url(#paper)"/>
+<rect x="26" y="26" width="1448" height="1028" rx="23" fill="none" stroke="#ae8350" stroke-width="3"/>
+<text x="68" y="92" font-family="Georgia,serif" font-size="45" fill="#354e57">TAVI / REAR WAYLINE CLOAK TOPOLOGY</text>
+<text x="69" y="127" font-family="sans-serif" font-size="18" fill="#675a47">Review 15 — exact motif landmarks for future independent painted turns, not a mechanical costume pattern</text>
+<!-- Hanging garment laid flat visually. One person, no story scene or fake completions. -->
+<g>
+<path d="M564 272Q749 184 939 276L1052 823Q950 901 793 889L620 981L443 895Q471 681 512 465Z" fill="#123f56" stroke="#775c43" stroke-width="19"/>
+<path d="M568 277Q739 206 932 281L1023 812Q949 877 791 862L622 956L478 877Q506 678 534 474Z" fill="url(#teal)" stroke="#e7b96f" stroke-width="10"/>
+<path d="M568 277Q739 206 932 281L1023 812Q949 877 791 862L622 956L478 877Q506 678 534 474Z" fill="url(#weave)" />
+<!-- Hood drapes over upper panel -->
+<path d="M552 268Q617 166 737 159Q887 143 948 267L862 358Q759 407 651 356Z" fill="#1e5367" stroke="#d5ae6e" stroke-width="12"/>
+<path d="M604 251Q698 202 743 208Q862 198 904 253" fill="none" stroke="#a2c5b2" stroke-width="4" opacity=".5"/>
+<path d="M651 356Q759 399 862 358" fill="none" stroke="#0b3847" stroke-width="13"/>
+<path d="M681 337Q755 350 825 335" fill="none" stroke="#f0c780" stroke-width="3" opacity=".6" stroke-dasharray="8 8"/>
+<!-- asym hem hemline -->
+<path d="M477 874Q522 909 617 942Q735 883 786 863Q957 884 1022 814" fill="none" stroke="#ffdd8e" stroke-width="11"/>
+<path d="M503 847Q582 883 623 910Q718 851 784 834Q930 858 1006 790" fill="none" stroke="#bc8b47" stroke-width="4" stroke-dasharray="8 7"/>
+<!-- map routes -->
+<g fill="none" stroke="#e5b66d" stroke-linejoin="round" stroke-linecap="round">
+<path d="M537 457Q661 481 625 568Q571 646 684 710T798 807" stroke-width="10"/>
+<path d="M909 428Q872 502 916 552Q980 642 880 694Q834 748 911 833" stroke-width="7"/>
+<path d="M490 723Q557 725 592 764Q641 813 622 923" stroke-width="8"/>
+<path d="M740 461Q693 519 717 557" stroke-width="6"/>
+<path d="M822 407Q828 497 854 526" stroke-width="5"/>
+<path d="M639 625L594 615M663 684L615 711M892 588L939 592M847 712L890 746" stroke-width="4" stroke-dasharray="10 9"/>
+</g>
+<!-- rear central compass medallion: eight direction and star -->
+<g transform="translate(755 621)">
+<circle r="132" fill="#104557" opacity=".8" stroke="#e2b36b" stroke-width="7"/>
+<circle r="100" fill="none" stroke="#f1cd82" stroke-width="5"/>
+<circle r="71" fill="none" stroke="#d3a45e" stroke-width="4"/>
+<path d="M0 -157V157M-157 0H157M-111 -111L111 111M111 -111L-111 111" stroke="#e7b977" stroke-width="5" fill="none"/>
+<path d="M0 -123L24 -29L0 0L-24 -29Z M0 123L24 29L0 0L-24 29Z M-123 0L-29 -24L0 0L-29 24Z M123 0L29 -24L0 0L29 24Z" fill="url(#brass)" stroke="#805b32" stroke-width="5"/>
+<circle r="19" fill="#f4d690" stroke="#8f683b" stroke-width="6"/>
+<g fill="#f1c87f"><circle cx="-99" cy="-99" r="6"/><circle cx="99" cy="-99" r="6"/><circle cx="-99" cy="99" r="6"/><circle cx="99" cy="99" r="6"/></g>
+</g>
+<!-- physical left bag side marker visible to image left -->
+<path d="M566 306Q607 440 479 681" fill="none" stroke="#6e4c31" stroke-width="24"/>
+<path d="M570 307Q613 450 486 681" fill="none" stroke="#cb9558" stroke-width="5"/>
+<g transform="translate(435 703)">
+<path d="M-103 -81H65L81 94Q-6 122-113 88Z" fill="#825336" stroke="#e0b578" stroke-width="10"/>
+<path d="M-99 -42H69" stroke="#e0bc80" stroke-width="10"/>
+<path d="M-91 -18L64 -12L55 37H-79Z" fill="#a06e46" stroke="#65452e" stroke-width="5"/>
+<rect x="-26" y="-8" width="30" height="36" rx="6" fill="url(#brass)" stroke="#76532e" stroke-width="5"/>
+</g>
+<!-- right hand / lantern anchor -->
+<g transform="translate(1058 702)">
+<path d="M-17 -97V-48Q0 -72 17 -47V-15" fill="none" stroke="#996c3c" stroke-width="10"/>
+<path d="M-56 -11L-43 119H43L57 -11Z" fill="url(#brass)" stroke="#805c35" stroke-width="10"/>
+<path d="M-31 13H30L25 91H-26Z" fill="#ffe9aa"/>
+<path d="M0 12V92M-29 49H28" stroke="#a87744" stroke-width="5"/>
+<path d="M-57 -11H57M-42 119H44" stroke="#eed393" stroke-width="10"/>
+</g>
+</g>
+<!-- callouts are factual design labels, not status claims -->
+<g stroke="#7e715d" stroke-width="3" fill="none" stroke-dasharray="9 8">
+<path d="M444 705L319 677L129 677"/><path d="M1050 701L1188 677H1358"/>
+<path d="M755 477L742 170"/><path d="M480 877L266 927H134"/>
+</g>
+<g font-family="sans-serif" font-size="19" fill="#4f5043">
+<text x="81" y="642">BACK view, picture LEFT:</text><text x="81" y="671">Tavi's physical LEFT hip satchel</text>
+<text x="1171" y="641">BACK view, picture RIGHT:</text><text x="1171" y="670">physical RIGHT-hand lantern</text>
+<text x="741" y="160" text-anchor="middle">Compass center / route network</text>
+<text x="79" y="959">Asymmetrical hem drops lower picture LEFT</text>
+</g>
+<text x="70" y="1034" font-family="sans-serif" font-size="16" fill="#6a695b">Original SVG motif-identity design; visual proportions approximate selected back painting, not a literal UV unwrap, 3D cape model, or accepted final turnaround.</text>
+</svg>
