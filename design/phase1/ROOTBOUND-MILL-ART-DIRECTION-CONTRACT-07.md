@@ -1,6 +1,6 @@
 # WAYBELL — Rootbound Mill Art-Direction Contract 07
 Authority: Phase 1 visual/art direction only • Updated 2026-11-11
-Status: **Lower Hall painted target selected; Upper Gallery independent painted target outstanding. G1 not passed.**
+Status update (Review 08, 2026-11-11): **Both Lower Hall and Upper Gallery have standalone painted direction references. Upper gameplay framing still fails proposed thumb-safe test; G1 not passed.**
 Reference canon: docs/05-DUNGEON-AND-ENCOUNTER-BIBLE.md; docs/06-ART-AUDIO-AND-ACCESSIBILITY.md; docs/15-PHASE-1-VISUAL-REVIEW-06.md.
 
 ## Original new painting and provenance
@@ -52,3 +52,10 @@ These are authoritative **diagrammatic** source for connectivity and dry-state r
 
 ## Non-negotiable honesty
 No produced 3D geometry, playable room, tested shaders, collision, hitboxes, iPhone renderer, or functioning water animation. The selected Lower Hall painting is a direction reference, not an implemented result. Final G1 and Phase 2 remain explicitly locked.
+
+## Review 08 addendum — Upper Gallery painting established (supersedes earlier 'missing standalone' status)
+New independent **1672×941** original Upper Spindle Galleries illustration: `a_richly_detailed_high_quality_stylized_fantasy_g.png`. Its full-resolution image and comparable prior Lower Hall are available in the originating conversation's `WAYBELL_Phase1_Review08_Art_Evidence.zip`; they are NOT committed as image binaries in GitHub. Full factual critique: [docs/17 review 08](../../docs/17-PHASE-1-VISUAL-REVIEW-08.md).
+
+**Now passed as visual concept:** one high-quality standalone Upper Spindle Galleries painting, dry and dormant, visually coherent with accepted Lower Hall; new routes and fixed anchor rings are illustrated. **Not passed:** Tavi and an outer anchor sit beneath provisional mobile thumb zones, so gameplay framing needs a deliberate correction; real 3D/collision and phone performance remain untested.
+
+Original editable source-controlled art-staging schematic: [upper-gallery-readability-and-traversal-v4.svg](upper-gallery-readability-and-traversal-v4.svg), showing route, spindle, proposed anchor points and thumb-area risk. The previous section's crop is historical/older work, not the only remaining art source. Do not claim G1 or Phase 2 ready.
