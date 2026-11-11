@@ -69,3 +69,13 @@ Attempts to create independent back and left paintings still yielded promotional
 Keep the next request scoped to **one image, one rear-facing full-body Tavi**. Use real front/right painted sources as images rather than describing a marketing review; require the same rear cloak embroidery and physical left bag/right lantern, neutral studio background, and no labels or decorative board. If the image becomes an infographic or model/cast chart, reject it even if individual figures are attractive. Do not use cropping from a poster as a surrogate for a standalone generated painting.
 
 The complete [angle acceptance ledger 14](CHARACTER-ANGLE-ACCEPTANCE-LEDGER-14.md) maintains truthful original-painted counts. No G1, Phase 2, actual animation, playable app or physical device test was achieved.
+
+## Review 16 addendum — single-image LEFT PROFILE achieved; cardinal art references now complete as candidates
+
+Using the earlier three painted sources as the fixed design intent, a **new genuine independent 1086×1448 Tavi LEFT PROFILE** was selected in Review 16. Its physical LEFT map satchel is nearer the viewer and physical RIGHT-hand Echo Lantern remains on the far side. There are now **four individual painted cardinal candidates (front, right, back, left)**, not a final eight-way production rig or G1 signoff. See [Review 16](../../docs/25-PHASE-1-VISUAL-REVIEW-16.md) and [Ledger 16](CHARACTER-ANGLE-ACCEPTANCE-LEDGER-16.md).
+
+**New original source-controlled cardinals QA art:** [Tavi four-cardinal gear and seam reference v8](tavi-four-cardinal-gear-and-seam-reference-v8.svg). Study physical bag/lantern placement and left/right screen mapping before producing diagonals. The actual painted gold route embroidery and proportions are broadly similar but not identical. Do not interpret this SVG as a photorealistic source painting or a game model.
+
+Further attempts at a diagonal and at Nella returned additional LEFT Tavi paintings instead. Only the **first independently accepted left profile** counts in this release. Do not count alternative poses as diagonal/cast art. The next generated artwork must be one 45-degree **front-right diagonal**, not a profile, montage, or cast lineup; reject subject/facing failure with no ledger advancement. Maintain narrative canon for Nella, Orin and Seren.
+
+No game code, runtime camera, physical iPhone tests or Phase 2 were conducted. G1 remains pending owner approval.
