@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">WAYBELL Upper Spindle Galleries — progressive camera safe-zone staging v5</title>
+<desc id="d">Original phase-one 2-view camera storyboard showing an entry framing and a later approach framing with player and currently required Rootspool anchor safely inside the proposed clear center of screen. Schematic only, not runtime camera.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#172c39"/><stop offset="1" stop-color="#223a44"/></linearGradient><linearGradient id="room" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55675a"/><stop offset="1" stop-color="#2a3b3b"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#bg)"/><rect x="22" y="21" width="1556" height="857" rx="21" stroke="#cfa66b" stroke-width="3" fill="none"/>
+<text x="51" y="77" font-family="Georgia,serif" font-size="40" fill="#ffe2a8">UPPER SPINDLE GALLERIES — CAMERA SAFETY</text>
+<text x="51" y="110" font-family="sans-serif" font-size="20" fill="#bad4d3">Phase 1 composition proposal • Same dormant architecture • Camera tracks traversal instead of exposing every anchor at once</text>
+<g transform="translate(46 183)">
+<rect width="704" height="425" rx="13" fill="#2d4c50" stroke="#d6b382" stroke-width="3"/>
+<path d="M0 0H704V425H0Z" fill="url(#room)" opacity=".88"/>
+<path d="M25 52L672 52M25 106L670 106" stroke="#9f9072" stroke-opacity=".42" stroke-width="8"/>
+<path d="M42 350L178 253L333 251L475 173L648 167" stroke="#66482f" stroke-width="69" stroke-linecap="round" fill="none"/>
+<path d="M42 343L178 246L329 244L477 166L648 161" stroke="#d2a474" stroke-width="44" stroke-linecap="round" fill="none"/>
+<path d="M48 315L179 217L327 219L476 141L646 136" stroke="#eed8ad" stroke-width="8" stroke-linecap="round" fill="none"/>
+<path d="M89 336v76M231 234v91M398 204v98M560 151v104" stroke="#815a3e" stroke-width="19"/>
+<path d="M54 385L187 291L339 290L490 215L650 213" stroke="#805c41" stroke-width="14" fill="none"/>
+<g transform="translate(538 302)">
+<ellipse rx="77" ry="31" fill="#293b36" stroke="#bfa16a" stroke-width="20"/>
+<path d="M-25 -180H25V5H-25Z" fill="#8a6647" stroke="#c49d60" stroke-width="7"/>
+<circle cy="-101" r="32" fill="#a27f4c" stroke="#f3c47b" stroke-width="9"/></g>
+<g fill="none" stroke="#ffdc8c" stroke-width="7"><path d="M382 58v31"/><circle cx="382" cy="121" r="27"/><circle cx="382" cy="121" r="10" stroke="#8cdec4" stroke-width="4"/></g><g fill="none" stroke="#ffdc8c" stroke-width="7"><path d="M546 61v31"/><circle cx="546" cy="124" r="27"/><circle cx="546" cy="124" r="10" stroke="#8cdec4" stroke-width="4"/></g>
+<!-- Third decorative anchor intentionally off camera, not a mandatory interaction here -->
+<g transform="translate(270 231)">
+<ellipse rx="32" ry="10" fill="#142b30" opacity=".55"/>
+<path d="M-17 -19L-19 2M16 -19L20 2" stroke="#644331" stroke-width="12"/>
+<path d="M-22 -57L23 -58L20 -19H-21Z" fill="#e6cea7"/>
+<path d="M-20 -55L-48 -12L7 -23L18 -54Z" fill="#15768a" stroke="#efc783" stroke-width="4"/>
+<circle cy="-80" r="22" fill="#e8c29a"/><path d="M-23 -84Q-26 -115 0 -112Q23 -117 23 -85" fill="#543823"/>
+<rect x="28" y="-22" width="13" height="23" fill="#ffd77d" stroke="#a77f3c" stroke-width="4"/></g>
+<rect x="0" y="0" width="113" height="425" fill="#34719a" fill-opacity=".29"/>
+<rect x="591" y="0" width="113" height="425" fill="#34719a" fill-opacity=".29"/>
+<path d="M113 0V425M591 0V425" stroke="#84d2e3" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="12" y="24" font-size="16" font-family="sans-serif" fill="#e5f4ea">16%</text>
+<text x="642" y="24" font-size="16" font-family="sans-serif" fill="#e5f4ea">16%</text>
+<rect x="14" y="361" width="676" height="51" rx="7" fill="#142c36" fill-opacity=".89"/>
+<text x="25" y="386" fill="#f7dda7" font-size="19" font-family="Georgia,serif">A. ENTER FROM THE LOWER STAIRS</text>
+<text x="25" y="402" fill="#c2dbd3" font-size="13" font-family="sans-serif">Entry state: player fully visible; only nearby ring targetable</text>
+</g><g transform="translate(850 183)">
+<rect width="704" height="425" rx="13" fill="#2d4c50" stroke="#d6b382" stroke-width="3"/>
+<path d="M0 0H704V425H0Z" fill="url(#room)" opacity=".88"/>
+<path d="M25 52L672 52M25 106L670 106" stroke="#9f9072" stroke-opacity=".42" stroke-width="8"/>
+<path d="M42 350L178 253L333 251L475 173L648 167" stroke="#66482f" stroke-width="69" stroke-linecap="round" fill="none"/>
+<path d="M42 343L178 246L329 244L477 166L648 161" stroke="#d2a474" stroke-width="44" stroke-linecap="round" fill="none"/>
+<path d="M48 315L179 217L327 219L476 141L646 136" stroke="#eed8ad" stroke-width="8" stroke-linecap="round" fill="none"/>
+<path d="M89 336v76M231 234v91M398 204v98M560 151v104" stroke="#815a3e" stroke-width="19"/>
+<path d="M54 385L187 291L339 290L490 215L650 213" stroke="#805c41" stroke-width="14" fill="none"/>
+<g transform="translate(150 302)">
+<ellipse rx="77" ry="31" fill="#293b36" stroke="#bfa16a" stroke-width="20"/>
+<path d="M-25 -180H25V5H-25Z" fill="#8a6647" stroke="#c49d60" stroke-width="7"/>
+<circle cy="-101" r="32" fill="#a27f4c" stroke="#f3c47b" stroke-width="9"/></g>
+<g fill="none" stroke="#ffdc8c" stroke-width="7"><path d="M105 58v31"/><circle cx="105" cy="121" r="27"/><circle cx="105" cy="121" r="10" stroke="#8cdec4" stroke-width="4"/></g><g fill="none" stroke="#ffdc8c" stroke-width="7"><path d="M360 61v31"/><circle cx="360" cy="124" r="27"/><circle cx="360" cy="124" r="10" stroke="#8cdec4" stroke-width="4"/></g>
+<!-- Third decorative anchor intentionally off camera, not a mandatory interaction here -->
+<g transform="translate(366 213)">
+<ellipse rx="32" ry="10" fill="#142b30" opacity=".55"/>
+<path d="M-17 -19L-19 2M16 -19L20 2" stroke="#644331" stroke-width="12"/>
+<path d="M-22 -57L23 -58L20 -19H-21Z" fill="#e6cea7"/>
+<path d="M-20 -55L-48 -12L7 -23L18 -54Z" fill="#15768a" stroke="#efc783" stroke-width="4"/>
+<circle cy="-80" r="22" fill="#e8c29a"/><path d="M-23 -84Q-26 -115 0 -112Q23 -117 23 -85" fill="#543823"/>
+<rect x="28" y="-22" width="13" height="23" fill="#ffd77d" stroke="#a77f3c" stroke-width="4"/></g>
+<rect x="0" y="0" width="113" height="425" fill="#34719a" fill-opacity=".29"/>
+<rect x="591" y="0" width="113" height="425" fill="#34719a" fill-opacity=".29"/>
+<path d="M113 0V425M591 0V425" stroke="#84d2e3" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="12" y="24" font-size="16" font-family="sans-serif" fill="#e5f4ea">16%</text>
+<text x="642" y="24" font-size="16" font-family="sans-serif" fill="#e5f4ea">16%</text>
+<rect x="14" y="361" width="676" height="51" rx="7" fill="#142c36" fill-opacity=".89"/>
+<text x="25" y="386" fill="#f7dda7" font-size="19" font-family="Georgia,serif">B. ADVANCE TO THE UPPER SPINDLE</text>
+<text x="25" y="402" fill="#c2dbd3" font-size="13" font-family="sans-serif">Later state: center player and next required ring; far target comes into view</text>
+</g>
+<g stroke="#dfc081" stroke-width="5" fill="none"><path d="M762 384H834"/><path d="M814 364l21 20 -21 20"/></g>
+<rect x="53" y="644" width="1495" height="203" rx="14" fill="#15313d" stroke="#839fa4" stroke-width="2"/>
+<text x="79" y="686" font-family="Georgia,serif" font-size="28" fill="#f3d6a0">VISUAL REQUIREMENTS BEFORE G1 APPROVAL</text>
+<g font-size="20" font-family="sans-serif" fill="#d3e3d9">
+<text x="81" y="724">1. Player's cloak, shadow and boots must remain fully outside the shaded thumb zones.</text>
+<text x="81" y="756">2. The NEXT required anchor must be large, unobstructed and inside the central clear region.</text>
+<text x="81" y="788">3. Camera can reframe on approach; decorative far anchors do not all need to be visible at once.</text>
+<text x="81" y="819">4. Wheel and spindle remain stopped; no flowing water in the first-visit mill.</text></g>
+<text x="51" y="885" fill="#adcdca" font-family="sans-serif" font-size="15">New original SVG design study; hypothetical thumb-zone and keyframes only. Not 3D geometry, animated camera, tested hitbox, actual iPhone performance, or a game build.</text>
+</svg>
