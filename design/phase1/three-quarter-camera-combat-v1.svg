@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1180" viewBox="0 0 1600 1180" role="img" aria-label="WAYBELL three quarter gameplay camera and matching combat camera design diagrams">
+<defs>
+ <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#a8d5db"/><stop offset="1" stop-color="#f9e0a8"/></linearGradient>
+ <linearGradient id="grass" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#82ac76"/><stop offset="1" stop-color="#547d61"/></linearGradient>
+ <linearGradient id="stone" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#cfb696"/><stop offset="1" stop-color="#9d886d"/></linearGradient>
+ <linearGradient id="water" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#68a8b1"/><stop offset="1" stop-color="#326d85"/></linearGradient>
+ <linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f9edcf"/><stop offset="1" stop-color="#dcc9a6"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="5"/></filter>
+ </defs>
+<rect width="1600" height="1180" fill="#112b35"/>
+<text x="66" y="61" font-family="Georgia,serif" fill="#ffdf9c" font-size="40">WAYBELL — THREE-QUARTER GAMEPLAY FRAMING</text>
+<text x="66" y="101" font-family="sans-serif" fill="#c0dcd6" font-size="21">Phase 1 concept diagram: same elevated scene framing for exploration and combat, not a running game or a tested camera</text>
+<g><rect x="60" y="148" width="1480" height="407" rx="15" fill="url(#sky)" stroke="#d9bd89" stroke-width="4"/>
+ <g transform="translate(0 148)">
+ <path d="M65 144Q375 40 710 164T1530 98V390H65Z" fill="#8fbc9c"/>
+ <path d="M75 255Q370 170 720 214T1530 182V395H75Z" fill="url(#grass)"/>
+ <path d="M1060 170Q1170 188 1100 263T1190 392H1470Q1305 293 1407 174" fill="url(#water)" stroke="#d0e5d9" stroke-width="7"/>
+ <path d="M274 193L795 147L1250 295L878 394L320 360Z" fill="url(#stone)" stroke="#867360" stroke-width="5"/>
+ <path d="M325 360L879 394L1250 295" fill="none" stroke="#cbb692" stroke-width="5" stroke-dasharray="20 17" opacity=".65"/>
+ <path d="M748 150L799 332M952 180L863 388" stroke="#ab997f" stroke-width="3" opacity=".6"/>
+ <path d="M1070 203L1270 231L1303 264L1093 240Z" fill="#e5d1b1" stroke="#987b5a" stroke-width="7"/>
+ <path d="M1070 203L1093 240L1093 252L1070 214ZM1270 231L1303 264L1303 277L1270 245" fill="#9b8768"/>
+ <g transform="translate(493 167) scale(0.75)">
+ <path d="M-90 0L-14 -48L88 -20L12 28Z" fill="#704b3a" stroke="#54362b" stroke-width="4"/>
+ <path d="M-70 -3L10 -24V80L-70 100Z" fill="#e4cda9" stroke="#80674d" stroke-width="4"/>
+ <path d="M10 -24L77 -11V70L10 80Z" fill="#bda784" stroke="#80674d" stroke-width="4"/>
+ <rect x="-40" y="35" width="23" height="46" rx="2" fill="#634e3a"/><path d="M-57 24L-10 12M17 19L62 11" stroke="#694936" stroke-width="7"/>
+ <path d="M-47 33h16" stroke="#ffdc8c" stroke-width="12"/>
+ <path d="M-90 0L-16 -47L88 -20" fill="none" stroke="#b88760" stroke-width="9"/></g> <g transform="translate(783 129) scale(0.6)">
+ <path d="M-90 0L-14 -48L88 -20L12 28Z" fill="#704b3a" stroke="#54362b" stroke-width="4"/>
+ <path d="M-70 -3L10 -24V80L-70 100Z" fill="#e4cda9" stroke="#80674d" stroke-width="4"/>
+ <path d="M10 -24L77 -11V70L10 80Z" fill="#bda784" stroke="#80674d" stroke-width="4"/>
+ <rect x="-40" y="35" width="23" height="46" rx="2" fill="#634e3a"/><path d="M-57 24L-10 12M17 19L62 11" stroke="#694936" stroke-width="7"/>
+ <path d="M-47 33h16" stroke="#ffdc8c" stroke-width="12"/>
+ <path d="M-90 0L-16 -47L88 -20" fill="none" stroke="#b88760" stroke-width="9"/></g> <g transform="translate(313 250) scale(0.78)"><path d="M-10 0L-6 -85L10 -85L9 0Z" fill="#75563c"/><g fill="#5e995e" stroke="#406d48" stroke-width="3"><circle cx="-31" cy="-100" r="39"/><circle cx="12" cy="-130" r="48"/><circle cx="44" cy="-97" r="35"/></g></g> <g transform="translate(1370 184) scale(0.7)"><path d="M-10 0L-6 -85L10 -85L9 0Z" fill="#75563c"/><g fill="#5e995e" stroke="#406d48" stroke-width="3"><circle cx="-31" cy="-100" r="39"/><circle cx="12" cy="-130" r="48"/><circle cx="44" cy="-97" r="35"/></g></g>
+ <path d="M612 277l138 -42" stroke="#e9c476" stroke-width="8" stroke-dasharray="12 12"/>
+ <g transform="translate(708 237)"><path d="M-38 0v-40h76V0" stroke="#a98755" stroke-width="10" fill="none"/><path d="M-22 -26Q0 -62 22 -26L31 -3H-31Z" fill="#cba45f"/><circle cy="-4" r="8" fill="#f9da81"/></g>
+ </g></g><g transform="translate(781 472) scale(0.72)">
+ <ellipse cx="0" cy="5" rx="33" ry="13" fill="#223a40" opacity=".30" filter="url(#shadow)"/>
+ <path d="M-17 -32L-22 -8L-8 2L-2 -30M11 -32L10 2L24 2L24 -35" fill="#574839" stroke="#392e29" stroke-width="5"/>
+ <path d="M-25 -95Q0 -112 25 -95L20 -42H-22Z" fill="#e5d3ac" stroke="#685544" stroke-width="4"/>
+ <path d="M-25 -93Q-57 -46 -49 -34L-3 -48L6 -94" fill="#167083" stroke="#ecc68b" stroke-width="4"/>
+ <circle cx="0" cy="-119" r="26" fill="#f1cda6" stroke="#946e50" stroke-width="3"/>
+ <path d="M-28 -128Q-33 -168 3 -150Q25 -163 31 -131L10 -145L-13 -141Z" fill="#4f392b"/>
+ <path d="M18 -86L36 -48" stroke="#866647" stroke-width="11"/>
+ <rect x="30" y="-46" width="16" height="28" rx="3" fill="#eab76c" stroke="#a87531" stroke-width="3"/><rect x="34" y="-42" width="8" height="19" fill="#fff4c0"/>
+ </g><rect x="64" y="153" width="230" height="397" fill="#25546b" opacity=".15" stroke="#2a627b" stroke-width="3" stroke-dasharray="9 9"/><rect x="1310" y="153" width="225" height="397" fill="#25546b" opacity=".15" stroke="#2a627b" stroke-width="3" stroke-dasharray="9 9"/>
+<circle cx="177" cy="466" r="78" fill="#183947" fill-opacity=".23" stroke="#f6e8c5" stroke-width="5"/>
+<circle cx="177" cy="466" r="34" fill="#ecd6a5" fill-opacity=".35" stroke="#fff0cb" stroke-width="4"/>
+<g fill="#123c4d" fill-opacity=".57" stroke="#f0d5a4" stroke-width="5">
+<circle cx="1410" cy="446" r="49"/><circle cx="1329" cy="505" r="34"/><circle cx="1473" cy="513" r="34"/>
+</g><g font-family="sans-serif" font-size="16" font-weight="bold" fill="#fff5df" text-anchor="middle"><text x="1410" y="451">ACT</text><text x="1329" y="509">DODGE</text><text x="1473" y="518">TOOL</text></g>
+<text x="83" y="187" font-size="25" font-family="Georgia,serif" fill="#15323e">A — THIMBLEBROOK EXPLORATION</text>
+<rect x="334" y="501" width="955" height="35" rx="7" fill="#163a46" fill-opacity=".75"/>
+<text x="354" y="525" font-size="17" fill="#f8edcf" font-family="sans-serif">Small consistent Tavi • readable bridge/upper lane • civic bellstone • protected central playfield</text>
+<g><rect x="60" y="631" width="1480" height="407" rx="15" fill="url(#sky)" stroke="#d9bd89" stroke-width="4"/>
+ <g transform="translate(0 631)">
+ <path d="M65 144Q375 40 710 164T1530 98V390H65Z" fill="#8fbc9c"/>
+ <path d="M75 255Q370 170 720 214T1530 182V395H75Z" fill="url(#grass)"/>
+ <path d="M1060 170Q1170 188 1100 263T1190 392H1470Q1305 293 1407 174" fill="url(#water)" stroke="#d0e5d9" stroke-width="7"/>
+ <path d="M274 193L795 147L1250 295L878 394L320 360Z" fill="url(#stone)" stroke="#867360" stroke-width="5"/>
+ <path d="M325 360L879 394L1250 295" fill="none" stroke="#cbb692" stroke-width="5" stroke-dasharray="20 17" opacity=".65"/>
+ <path d="M748 150L799 332M952 180L863 388" stroke="#ab997f" stroke-width="3" opacity=".6"/>
+ <path d="M1070 203L1270 231L1303 264L1093 240Z" fill="#e5d1b1" stroke="#987b5a" stroke-width="7"/>
+ <path d="M1070 203L1093 240L1093 252L1070 214ZM1270 231L1303 264L1303 277L1270 245" fill="#9b8768"/>
+ <g transform="translate(493 167) scale(0.75)">
+ <path d="M-90 0L-14 -48L88 -20L12 28Z" fill="#704b3a" stroke="#54362b" stroke-width="4"/>
+ <path d="M-70 -3L10 -24V80L-70 100Z" fill="#e4cda9" stroke="#80674d" stroke-width="4"/>
+ <path d="M10 -24L77 -11V70L10 80Z" fill="#bda784" stroke="#80674d" stroke-width="4"/>
+ <rect x="-40" y="35" width="23" height="46" rx="2" fill="#634e3a"/><path d="M-57 24L-10 12M17 19L62 11" stroke="#694936" stroke-width="7"/>
+ <path d="M-47 33h16" stroke="#ffdc8c" stroke-width="12"/>
+ <path d="M-90 0L-16 -47L88 -20" fill="none" stroke="#b88760" stroke-width="9"/></g> <g transform="translate(783 129) scale(0.6)">
+ <path d="M-90 0L-14 -48L88 -20L12 28Z" fill="#704b3a" stroke="#54362b" stroke-width="4"/>
+ <path d="M-70 -3L10 -24V80L-70 100Z" fill="#e4cda9" stroke="#80674d" stroke-width="4"/>
+ <path d="M10 -24L77 -11V70L10 80Z" fill="#bda784" stroke="#80674d" stroke-width="4"/>
+ <rect x="-40" y="35" width="23" height="46" rx="2" fill="#634e3a"/><path d="M-57 24L-10 12M17 19L62 11" stroke="#694936" stroke-width="7"/>
+ <path d="M-47 33h16" stroke="#ffdc8c" stroke-width="12"/>
+ <path d="M-90 0L-16 -47L88 -20" fill="none" stroke="#b88760" stroke-width="9"/></g> <g transform="translate(313 250) scale(0.78)"><path d="M-10 0L-6 -85L10 -85L9 0Z" fill="#75563c"/><g fill="#5e995e" stroke="#406d48" stroke-width="3"><circle cx="-31" cy="-100" r="39"/><circle cx="12" cy="-130" r="48"/><circle cx="44" cy="-97" r="35"/></g></g> <g transform="translate(1370 184) scale(0.7)"><path d="M-10 0L-6 -85L10 -85L9 0Z" fill="#75563c"/><g fill="#5e995e" stroke="#406d48" stroke-width="3"><circle cx="-31" cy="-100" r="39"/><circle cx="12" cy="-130" r="48"/><circle cx="44" cy="-97" r="35"/></g></g>
+ <path d="M612 277l138 -42" stroke="#e9c476" stroke-width="8" stroke-dasharray="12 12"/>
+ <g transform="translate(708 237)"><path d="M-38 0v-40h76V0" stroke="#a98755" stroke-width="10" fill="none"/><path d="M-22 -26Q0 -62 22 -26L31 -3H-31Z" fill="#cba45f"/><circle cy="-4" r="8" fill="#f9da81"/></g>
+ </g></g><g transform="translate(738 974) scale(0.78)">
+ <ellipse cx="0" cy="5" rx="33" ry="13" fill="#223a40" opacity=".30" filter="url(#shadow)"/>
+ <path d="M-17 -32L-22 -8L-8 2L-2 -30M11 -32L10 2L24 2L24 -35" fill="#574839" stroke="#392e29" stroke-width="5"/>
+ <path d="M-25 -95Q0 -112 25 -95L20 -42H-22Z" fill="#e5d3ac" stroke="#685544" stroke-width="4"/>
+ <path d="M-25 -93Q-57 -46 -49 -34L-3 -48L6 -94" fill="#167083" stroke="#ecc68b" stroke-width="4"/>
+ <circle cx="0" cy="-119" r="26" fill="#f1cda6" stroke="#946e50" stroke-width="3"/>
+ <path d="M-28 -128Q-33 -168 3 -150Q25 -163 31 -131L10 -145L-13 -141Z" fill="#4f392b"/>
+ <path d="M18 -86L36 -48" stroke="#866647" stroke-width="11"/>
+ <rect x="30" y="-46" width="16" height="28" rx="3" fill="#eab76c" stroke="#a87531" stroke-width="3"/><rect x="34" y="-42" width="8" height="19" fill="#fff4c0"/>
+ </g><g transform="translate(976 971)">
+<ellipse cx="0" cy="-7" rx="100" ry="48" fill="#ed494c" opacity=".30" stroke="#eb3442" stroke-width="5"/>
+<path d="M-26 -28L-58 -68L-18 -92L38 -90L65 -61L48 -31Z" fill="#535941" stroke="#303f32" stroke-width="5"/>
+<path d="M-35 -65L-12 -98M35 -79L58 -112" stroke="#9eb65e" stroke-width="13"/>
+<circle cx="16" cy="-79" r="8" fill="#fc6f65"/>
+<path d="M-82 -1L-137 18" stroke="#e44248" stroke-width="13" stroke-linecap="round"/>
+<path d="M-100 18L-153 -11L-141 39Z" fill="#fa6d64"/>
+</g><rect x="64" y="636" width="230" height="397" fill="#25546b" opacity=".15" stroke="#2a627b" stroke-width="3" stroke-dasharray="9 9"/><rect x="1310" y="636" width="225" height="397" fill="#25546b" opacity=".15" stroke="#2a627b" stroke-width="3" stroke-dasharray="9 9"/>
+<circle cx="177" cy="949" r="78" fill="#183947" fill-opacity=".23" stroke="#f6e8c5" stroke-width="5"/>
+<circle cx="177" cy="949" r="34" fill="#ecd6a5" fill-opacity=".35" stroke="#fff0cb" stroke-width="4"/>
+<g fill="#123c4d" fill-opacity=".57" stroke="#f0d5a4" stroke-width="5">
+<circle cx="1410" cy="929" r="49"/><circle cx="1329" cy="988" r="34"/><circle cx="1473" cy="996" r="34"/>
+</g><g font-family="sans-serif" font-size="16" font-weight="bold" fill="#fff5df" text-anchor="middle"><text x="1410" y="934">ATTACK</text><text x="1329" y="992">DODGE</text><text x="1473" y="1001">TOOL</text></g>
+<text x="83" y="670" font-size="25" font-family="Georgia,serif" fill="#15323e">B — SAME CAMERA / TELEGRAPH MOMENT</text>
+<rect x="333" y="984" width="956" height="35" rx="7" fill="#163a46" fill-opacity=".75"/>
+<text x="354" y="1008" font-size="17" fill="#f8edcf" font-family="sans-serif">Red attack wedge outside thumb regions • player has escape lane • target silhouette unobscured</text>
+<text x="76" y="1113" font-family="sans-serif" font-size="23" fill="#f4e5c3">DESIGN TEST: LEFT + RIGHT EDGE ZONES ≈ 16% EACH / CENTRAL CLEAR AREA ≈ 68% / TAVI'S FEET MUST BE VISIBLE</text>
+<text x="77" y="1147" font-family="sans-serif" font-size="18" fill="#b2d5d4">Camera angles, buttons, and sizes are proposals. Game engine, real touch, depth and performance validation remain Phase 2.</text>
+</svg>
