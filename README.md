@@ -1,6 +1,6 @@
 # WAYBELL: The Roads We Leave
 
-**Status: Phase 1 original visual concept review in progress; G1 owner approval pending.** Original iPhone-first landscape 2.5D adventure planned for free GitHub Pages. There is no playable build, engine selection or game code yet. Owner confirmed Pages enabled; publishing of an actual playable site is unverified.
+**Status: Phase 1 refinements in progress; broad artistic mood approved, final G1 owner approval pending.** Original iPhone-first landscape 2.5D adventure planned for free GitHub Pages. There is no playable build, engine selection or game code yet. Owner confirmed Pages enabled; publishing of an actual playable site is unverified.
 
 ## Project vision
 A young mapmaker, Tavi, explores the interconnected country of Eldervale, restores magical routes with the Echo Lantern, reunites communities and learns that connection means accepting change. Premium miniature-diorama visuals, richly authored dungeons, distinct musical motifs, approachable sword-and-tool combat, and thoughtful exploration. Main-story goal: 18–25 hours (a design target, not a completion estimate). All original IP.
@@ -17,11 +17,17 @@ A young mapmaker, Tavi, explores the interconnected country of Eldervale, restor
 9. [08 — Phases 0–12, gates and development roadmap](docs/08-DEVELOPMENT-ROADMAP.md)
 10. [09 — Decisions, unresolved risks and traceability](docs/09-DECISIONS-AND-TRACEABILITY.md)
 
+## Phase 1 visual work (concept assets and review)
+- [Review 01 — original overall aesthetic and baseline criticisms](docs/10-PHASE-1-VISUAL-REVIEW-01.md)
+- [Review 02 — approved direction refined, mobile framing and outstanding gaps](docs/11-PHASE-1-VISUAL-REVIEW-02.md)
+- [Editable Waybell iconography / six symbolic proposals](design/waybell-iconography-v1.svg)
+- Original concept PNGs and seven-image Review 02 ZIP are in the producing ChatGPT conversation, **not** GitHub. Neither GitHub Pages nor this SVG is a playable game.
+
 ## Owner-locked constraints
 No Codex, ChatGPT Work, Vercel or outside paid services. GitHub and free GitHub Pages only; no mandatory backend. iPhone-first touch controls must never cover the central playfield. Real 3D geometry presented as art-directed 2.5D. No copied Nintendo IP; no gacha or artificial grinding. User must approve visual direction, vertical slice and full release.
 
 ## Current gate
-**G0: PASSED — authoritative documentation committed and verified.** **Phase 1: OWNER-AUTHORIZED VISUAL CONCEPT WORK IN PROGRESS; G1 NOT YET APPROVED.** Review the [first Phase 1 visual art direction packet and critique](docs/10-PHASE-1-VISUAL-REVIEW-01.md). The original image concepts are currently conversation attachments, not GitHub-hosted production assets. Phase 2 (engine/game code) remains locked pending completion and explicit authorization. See [roadmap](docs/08-DEVELOPMENT-ROADMAP.md) and [decision register](docs/09-DECISIONS-AND-TRACEABILITY.md).
+**G0: PASSED — authoritative documentation committed and verified.** **Phase 1: OWNER-APPROVED OVERALL LOOK; FINAL G1 NOT YET APPROVED.** Review the [Phase 1 refinement packet 02](docs/11-PHASE-1-VISUAL-REVIEW-02.md) for accepted style, incomplete character-turnaround/camera/combat studies, and honest evidence. Phase 2 (engine/game code) remains locked pending complete G1 and explicit authorization. See [roadmap](docs/08-DEVELOPMENT-ROADMAP.md) and [decision register](docs/09-DECISIONS-AND-TRACEABILITY.md).
 
 ## Planned delivery (not yet built)
 Public project: https://github.com/hdog960/Waybell
