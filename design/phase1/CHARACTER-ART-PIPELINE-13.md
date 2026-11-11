@@ -57,3 +57,15 @@ A failed view must be retaken individually. Artistic quality alone is not eviden
 
 ## G1 boundary
 Tavi's seven additional premium painted angles, the twelve key supporting-cast views, action animation, physics, models and real device behavior **remain unfinished**. Final visual signoff belongs to the owner, and Phase 2 requires explicit separate authorization. No game code, Codex, Work, Vercel or outside paid service was used.
+
+## Review 14 practical addendum — new RIGHT PROFILE candidate, back/left paintings remain open
+
+The individual-angle method produced a genuinely new clean, standalone **1086×1448 right-profile Tavi painting** (`a_highly_detailed_stylized_illustration_on_a_warm.png`) with consistent costume and a right-hand lantern. This is **candidate view 2 of 8**, alongside the previous accepted front master. Full review: [Review 14](../../docs/23-PHASE-1-VISUAL-REVIEW-14.md).
+
+Attempts to create independent back and left paintings still yielded promotional boards with invented character roles and false progress labels, which are rejected. Two new original, isolated **vector construction reference** files clarify the geometry without being misrepresented as finished painterly views:
+- [Back orientation physical-sidedness v6](tavi-back-physical-side-construction-v6.svg)
+- [Left-side physical-sidedness v6](tavi-left-profile-physical-side-construction-v6.svg)
+
+Keep the next request scoped to **one image, one rear-facing full-body Tavi**. Use real front/right painted sources as images rather than describing a marketing review; require the same rear cloak embroidery and physical left bag/right lantern, neutral studio background, and no labels or decorative board. If the image becomes an infographic or model/cast chart, reject it even if individual figures are attractive. Do not use cropping from a poster as a surrogate for a standalone generated painting.
+
+The complete [angle acceptance ledger 14](CHARACTER-ANGLE-ACCEPTANCE-LEDGER-14.md) maintains truthful original-painted counts. No G1, Phase 2, actual animation, playable app or physical device test was achieved.
