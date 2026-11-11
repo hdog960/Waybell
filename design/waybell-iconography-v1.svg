@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 960" width="1440" height="960" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Phase 1 – original symbolic language</title>
+<desc id="desc">Original visual symbols for Echo Lantern Reveal Replay Restore, Roadpost, Great Bell, Rootspool, with materials and colors. Concept design, not in-game icons.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102a34"/><stop offset="1" stop-color="#192e40"/></linearGradient>
+  <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fce6a3"/><stop offset=".55" stop-color="#c89243"/><stop offset="1" stop-color="#94642d"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#25424a"/><stop offset="1" stop-color="#162f3a"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1440" height="960" fill="url(#bg)"/>
+<g stroke="#c69a56" stroke-width="3" fill="none" opacity=".65"><rect x="22" y="24" width="1396" height="912" rx="20"/><path d="M45 128H1395M45 846H1395"/></g>
+<text x="70" y="85" font-size="42" font-weight="bold" font-family="Georgia,serif" fill="#ffe5ae">WAYBELL</text>
+<text x="349" y="85" font-size="24" font-family="Georgia,serif" fill="#e8d1a7">The Roads We Leave</text>
+<text x="1370" y="73" font-size="17" font-family="sans-serif" fill="#b8ced1" text-anchor="end">PHASE 1 / SYMBOL SYSTEM / v1</text>
+<g fill="url(#panel)" stroke="#658d91" stroke-width="2">
+<rect x="57" y="162" width="423" height="287" rx="18"/><rect x="508" y="162" width="423" height="287" rx="18"/><rect x="959" y="162" width="423" height="287" rx="18"/>
+<rect x="57" y="476" width="423" height="287" rx="18"/><rect x="508" y="476" width="423" height="287" rx="18"/><rect x="959" y="476" width="423" height="287" rx="18"/>
+</g>
+<!-- Reveal: road visible through nested compass rings; glyph has a square diamond, not generic eye -->
+<g transform="translate(269,292)" stroke="#f8c36a" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle r="88" stroke="#f3b65b" stroke-width="4" opacity=".45"/>
+<circle r="64" stroke-width="6"/>
+<path d="M0 -84v27M0 57v27M-84 0h27M57 0h27" stroke-width="7"/>
+<path d="M-42 25 Q-8 -22 9 -3 T43 -26" stroke-width="12"/>
+<circle cx="-42" cy="25" r="8" fill="#f6bc65"/><circle cx="43" cy="-26" r="8" fill="#f6bc65"/>
+</g>
+<!-- Replay: displaced trace of two walking lines, no physical duplicate -->
+<g transform="translate(720,292)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-72 62Q-40 25 -11 35T54-18" stroke="#8fd9de" stroke-width="11" stroke-dasharray="15 16"/>
+<path d="M-50 84Q-20 45 10 52T76 4" stroke="#ffca76" stroke-width="10"/>
+<circle cx="-53" cy="85" r="12" fill="#ffca76"/><circle cx="-72" cy="62" r="9" fill="#8fd9de"/>
+<path d="M-16 -70l28 -18 30 18" stroke="#8fd9de" stroke-width="7"/><path d="M-30 -46l42 -26 45 25" stroke="#ffca76" stroke-width="7"/>
+</g>
+<!-- Restore: gap filled by ghost bridge segments -->
+<g transform="translate(1170,296)" fill="none" stroke="#bd93ef" stroke-linejoin="round">
+<path d="M-108 54V-16h37V54M71 54V-16h37V54" stroke="#e5cba2" stroke-width="14"/>
+<path d="M-68 -16h135v67H-68z" stroke-width="6" stroke-dasharray="13 10"/>
+<path d="M-52 -10v55M-15 -10v55M20 -10v55M53 -10v55" stroke-width="4"/>
+<path d="M-63 -16H62" stroke-width="11" filter="url(#glow)" opacity=".7"/>
+</g>
+<!-- Roadpost -->
+<g transform="translate(269,615)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-85 88H85L72 54H-72Z" fill="#46646b" stroke="#e4c79a" stroke-width="5"/>
+<path d="M-58 54V-42Q0 -82 58 -42V54Z" fill="#284b51" stroke="url(#brass)" stroke-width="8"/>
+<path d="M-38 -24Q0 -55 38 -24" stroke="#e6c889" stroke-width="6"/>
+<path d="M0 -30V-7M-24 -7H24L18 21H-18Z" stroke="#fac671" stroke-width="7"/>
+<circle cx="0" cy="31" r="6" fill="#fac671" stroke="none"/>
+<path d="M-50 56l100 0" stroke="#f6c370" stroke-width="6"/>
+</g>
+<!-- Great Bell / civic landmark -->
+<g transform="translate(720,612)" stroke="url(#brass)" stroke-width="9" stroke-linejoin="round" fill="none">
+<path d="M-102 -51H102M-76 -51V-96H76V-51"/>
+<path d="M0 -96V-76"/>
+<path d="M-40 -72Q0 -111 40 -72L56 24H-56Z" fill="#9f6c36"/>
+<path d="M-69 29H69M0 28V54"/>
+<circle cx="0" cy="61" r="10" fill="#e8bb6c"/>
+<path d="M-90 74H90"/>
+<path d="M-70 -15Q0 -51 70 -15" opacity=".6" stroke-width="4"/>
+</g>
+<!-- Rootspool -->
+<g transform="translate(1170,606)" fill="none" stroke-linejoin="round">
+<rect x="-78" y="-76" width="156" height="147" rx="18" stroke="#b3d7be" stroke-width="8" fill="#32584f"/>
+<circle r="56" stroke="#f2c16a" stroke-width="9"/>
+<circle r="31" stroke="#f2c16a" stroke-width="6"/>
+<circle r="9" fill="#f2c16a"/>
+<path d="M66 44 Q133 11 109 -61 Q92 -85 70 -94" stroke="#95d6ad" stroke-width="10" stroke-linecap="round"/>
+<path d="M70 -94l20 8 -17 15" stroke="#95d6ad" stroke-width="7" stroke-linecap="round"/>
+<path d="M-60 82l120 0" stroke="#eacb9c" stroke-width="7"/>
+</g>
+<g font-family="Georgia,serif" font-size="27" text-anchor="middle" fill="#f8e6c7">
+<text x="269" y="422">REVEAL</text><text x="720" y="422">REPLAY</text><text x="1170" y="422">RESTORE</text>
+<text x="269" y="737">ROADPOST</text><text x="720" y="737">GREAT BELL</text><text x="1170" y="737">ROOTSPOOL</text>
+</g>
+<g font-family="sans-serif" font-size="14" text-anchor="middle" fill="#bed8d5">
+<text x="269" y="444">Find recorded paths</text><text x="720" y="444">Repeat a memory</text><text x="1170" y="444">Stabilize marked crossings</text>
+<text x="269" y="760">Return and reconnection</text><text x="720" y="760">Civic resonance, not decor</text><text x="1170" y="760">Anchor-specific traversal</text>
+</g>
+<g font-family="sans-serif" fill="#e7dbc4" font-size="19"><text x="70" y="825">VISUAL GRAMMAR</text>
+<text x="70" y="888" font-size="16">AMBER  •  imprint / memory       CYAN  •  replay / motion       VIOLET  •  temporary restoration       TEAL  •  mapping / belonging</text>
+<text x="70" y="918" font-size="14" fill="#a8c0c1">Original Phase 1 symbol directions. Vector concept art only; not production UI, gameplay code, or final licensed assets.</text>
+</g>
+</svg>
