@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="WAYBELL Lower Turbine Hall completely dry and dormant first-visit illustration diagram">
+<title>Rootbound Mill — Lower Turbine Hall — first visit, dry and dormant</title>
+<desc>Original independent native 16:9 stylized architectural concept. Stationary seized wheel, dry troughs, safe path, Echo plate; no waterfall, no running water, not a rendered 3D game.</desc>
+<defs>
+<linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#52665d"/><stop offset=".5" stop-color="#334b46"/><stop offset="1" stop-color="#25383e"/></linearGradient>
+<linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d5aa72"/><stop offset="1" stop-color="#73513b"/></linearGradient>
+<linearGradient id="stone" x1="0" y1="0" x2="0.7" y2="1"><stop stop-color="#d3c0a0"/><stop offset="1" stop-color="#756c60"/></linearGradient>
+<linearGradient id="floor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bb9e74"/><stop offset="1" stop-color="#6e6656"/></linearGradient>
+<linearGradient id="light" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff1bd" stop-opacity=".54"/><stop offset="1" stop-color="#fff1bd" stop-opacity="0"/></linearGradient>
+<radialGradient id="shadow"><stop stop-color="#111c20" stop-opacity=".47"/><stop offset="1" stop-color="#111c20" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<path d="M0 0H1600V900H0Z" fill="url(#wall)"/>
+<path d="M100 0V790M400 0V790M780 0V790M1190 0V790M1510 0V790" stroke="#80684b" stroke-width="25" opacity=".57"/>
+<path d="M40 0L360 282M520 0L850 249M943 0L1218 190M1323 0L1580 235" stroke="#8f6e46" stroke-width="29"/>
+<path d="M20 84H1590M20 160H1580" stroke="#a57a50" stroke-width="21"/>
+<g fill="#f5e3b1" fill-opacity=".77" stroke="#91866d" stroke-width="12">
+<path d="M1038 104v236h199V104Q1137 28 1038 104Z"/><path d="M1368 100v213h176V100Q1458 49 1368 100Z"/>
+</g>
+<path d="M1053 121L1228 121M1137 68V329M1371 147H1541M1458 71V305" stroke="#6e7563" stroke-width="14"/>
+<path d="M1052 113L1287 517L1107 455Z" fill="url(#light)"/>
+<path d="M1371 129L1595 478L1445 381Z" fill="url(#light)"/>
+<g><path d="M0 0Q170 192 133 388Q70 511 30 683" stroke="#64533e" stroke-width="55" fill="none"/>
+<path d="M151 0Q233 190 176 390L319 643" stroke="#685744" stroke-width="38" fill="none"/>
+<path d="M0 0Q170 192 133 388Q70 511 30 683" stroke="#878158" stroke-width="14" fill="none"/>
+<path d="M151 0Q233 190 176 390L319 643" stroke="#819353" stroke-width="11" fill="none"/>
+</g>
+<path d="M0 840H1600" stroke="#655747" stroke-width="120"/>
+
+<g transform="translate(1040 0) scale(.72)"><g>
+<circle cx="260" cy="530" r="308" fill="#314b44" stroke="#946e48" stroke-width="29"/>
+<circle cx="260" cy="530" r="287" fill="#394a44" stroke="#d6b47c" stroke-width="8"/>
+<path d="M260 530L545 530" stroke="#7b573b" stroke-width="25"/><path d="M260 530L490.56984339686005 697.5187969033549" stroke="#7b573b" stroke-width="25"/><path d="M260 530L348.06984339686005 801.0511071441188" stroke="#7b573b" stroke-width="25"/><path d="M260 530L171.93015660314 801.0511071441188" stroke="#7b573b" stroke-width="25"/><path d="M260 530L29.430156603140006 697.5187969033549" stroke="#7b573b" stroke-width="25"/><path d="M260 530L-25 530" stroke="#7b573b" stroke-width="25"/><path d="M260 530L29.43015660313995 362.4812030966452" stroke="#7b573b" stroke-width="25"/><path d="M260 530L171.93015660313995 258.94889285588124" stroke="#7b573b" stroke-width="25"/><path d="M260 530L348.06984339685994 258.94889285588124" stroke="#7b573b" stroke-width="25"/><path d="M260 530L490.56984339686 362.4812030966451" stroke="#7b573b" stroke-width="25"/>
+<circle cx="260" cy="530" r="44" fill="#927346" stroke="#4e453b" stroke-width="13"/>
+<path d="M-84 811L598 811" stroke="#654a36" stroke-width="28"/>
+<path d="M-9 480q52 -63 96 -21M290 390q48 -91 123 -108" fill="none" stroke="#6c6342" stroke-width="23"/>
+<path d="M295 391q55 -28 93 -105" stroke="#8a9150" stroke-width="9" fill="none"/>
+</g></g>
+<path d="M0 639L703 578L1061 610L1600 539V900H0Z" fill="url(#floor)" stroke="#746e5c" stroke-width="16"/>
+<path d="M-27 711L697 638L1282 750L1131 899H0Z" fill="url(#stone)" stroke="#807564" stroke-width="9"/>
+<g stroke="#9d8668" stroke-width="5" opacity=".65"><path d="M100 710L190 889M230 685L397 900M402 668L587 902M613 643L850 899M760 640L1090 899"/></g>
+<path d="M721 651L1002 625L1270 716L1098 757Z" fill="#242e31" stroke="#b19d7d" stroke-width="14"/>
+<path d="M737 664L1110 731" stroke="#5b5750" stroke-width="14"/>
+<g stroke="#927759" stroke-width="12"><path d="M706 589L1082 594L1314 523M702 589V666M932 589V642M1082 593V650M1314 528V605"/></g>
+<path d="M706 585L1079 584L1313 518" stroke="#d1b487" stroke-width="12"/>
+<path d="M263 660L442 554L593 560" fill="none" stroke="#8c6e50" stroke-width="33"/>
+<path d="M263 652L442 543L593 551" fill="none" stroke="#c5a376" stroke-width="13"/>
+<path d="M306 614L336 608M351 590L382 583M409 560L439 555" stroke="#725a42" stroke-width="12"/>
+<path d="M182 694L267 694V759H182Z" fill="#8c7151" stroke="#e1bd84" stroke-width="10"/>
+<path d="M205 715H249L247 743H203Z" fill="#cfac75"/>
+<g transform="translate(385 451)" stroke="#dcae63" fill="none"><circle r="39" stroke-width="9"/><path d="M-40 0H40M0 -40V40" stroke-width="5"/></g>
+<path d="M359 482Q359 511 386 518Q418 516 416 481" fill="none" stroke="#e0bd7a" stroke-width="5"/>
+<g transform="translate(413 758) scale(0.79)"><ellipse cx="0" cy="0" rx="37" ry="12" fill="url(#shadow)"/>
+<path d="M-13 -54L-22 -8L-5 0L5 -47M11 -54L16 0L37 0L28 -53" stroke="#594531" fill="#513d32" stroke-width="12"/>
+<path d="M-36 -135Q2 -152 35 -135L28 -51L-33 -51Z" fill="#e1c29b" stroke="#a37b55" stroke-width="5"/>
+<path d="M-29 -137Q-76 -106 -64 -57L-6 -71L26 -138" fill="#137183" stroke="#ddba79" stroke-width="5"/>
+<path d="M-19 -131L40 -65" stroke="#805c42" stroke-width="13"/>
+<circle cx="0" cy="-173" r="30" fill="#e8c29b" stroke="#ac825d" stroke-width="4"/>
+<path d="M-31 -183Q-26 -224 13 -211Q37 -218 37 -181L14 -200L-15 -191Z" fill="#513728"/>
+<path d="M34 -122L55 -78" stroke="#d8b68c" stroke-width="12"/>
+<rect x="45" y="-78" width="25" height="35" rx="4" fill="#cf9e55" stroke="#886132" stroke-width="4"/>
+<path d="M49 -72h17v22H49Z" fill="#ffe4a0"/>
+</g>
+<g fill="#744e34" stroke="#b79e74" stroke-width="7"><rect x="82" y="636" width="113" height="89" rx="5"/><rect x="1270" y="614" width="90" height="102" rx="4"/><rect x="1398" y="648" width="119" height="90" rx="4"/></g>
+<path d="M0 835Q378 807 598 855" stroke="#8ca064" stroke-width="13" fill="none" opacity=".47"/>
+</svg>
