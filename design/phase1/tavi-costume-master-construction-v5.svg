@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1120" width="1800" height="1120" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL — Tavi Master Costume Construction Study v5</title>
+<desc id="desc">Original annotated vector costume construction reference based on the selected new full-length front portrait: cross-body strap and satchel on physical left, lantern on right hand, asymmetrical road-chart teal cloak, brass Wayline clasp, seven fixed costume tokens. Not final production rig or eight-view painted character set.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#132f3a"/><stop offset="1" stop-color="#253846"/></linearGradient>
+<linearGradient id="cloak" x2="1" y2="1"><stop stop-color="#2b8a94"/><stop offset=".7" stop-color="#15566f"/><stop offset="1" stop-color="#123c58"/></linearGradient>
+<linearGradient id="fabric" x2="1" y2="1"><stop stop-color="#fff0d0"/><stop offset="1" stop-color="#cbb394"/></linearGradient>
+<linearGradient id="brass" x2=".9" y2="1"><stop stop-color="#ffe7a4"/><stop offset=".52" stop-color="#d7a55b"/><stop offset="1" stop-color="#956235"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#ffe9a9"/><stop offset=".6" stop-color="#f0b44e" stop-opacity=".5"/><stop offset="1" stop-color="#e7b365" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1800" height="1120" fill="url(#bg)"/><rect x="22" y="20" width="1756" height="1076" rx="23" fill="none" stroke="#d4b17b" stroke-width="4"/>
+<text x="60" y="78" font-family="Georgia,serif" font-size="44" fill="#ffe5b1">TAVI — MASTER COSTUME CONSTRUCTION / v5</text>
+<text x="62" y="116" font-family="sans-serif" font-size="21" fill="#c0dad7">Phase 1 asset identity — one physical garment set, not a collection of mirrored costumes</text>
+<!-- central front -->
+<rect x="546" y="159" width="710" height="853" rx="20" fill="#ead6b1" fill-opacity=".05" stroke="#779a9e" stroke-opacity=".65" stroke-width="2"/>
+<path d="M617 902H1199" stroke="#d8b982" stroke-width="4"/>
+<g transform="translate(904 853) scale(1.45)">
+<ellipse cx="0" cy="18" rx="97" ry="22" fill="#0c2027" opacity=".36"/>
+<!-- trousers -->
+<path d="M-65 -184L72 -184L57 -44L17 -45L4 -137L-13 -46L-57 -43Z" fill="#504d4b" stroke="#343436" stroke-width="6"/>
+<path d="M-57 -45L-64 25L-12 33L-10 -43M17 -44L21 30L76 27L58 -46" fill="#775139" stroke="#49392c" stroke-width="7"/>
+<path d="M-64 21L-70 57Q-45 71-4 55L-9 29M21 28L18 55Q58 70 88 53L76 25" fill="#6c432d" stroke="#3e2f27" stroke-width="7"/>
+<path d="M-59 9L-19 13M28 12L70 10" stroke="#ddb780" stroke-width="7"/>
+<!-- parchment shirt and vest -->
+<path d="M-76 -318Q-38 -344 12 -337Q61 -345 83 -316L68 -181L-73 -184Z" fill="url(#fabric)" stroke="#947c5d" stroke-width="6"/>
+<path d="M-39 -318L-38 -193L29 -192L34 -316" fill="#865e42" stroke="#5b4637" stroke-width="5"/>
+<path d="M-36 -281H28M-34 -244H28M-32 -209H28" stroke="#c69a65" stroke-width="5"/>
+<path d="M-53 -286L-92 -196L-64 -179L-23 -269M60 -288L104 -200L73 -181L29 -263" fill="none" stroke="#e8cba4" stroke-width="38" stroke-linecap="round"/>
+<path d="M-89 -202L-59 -181M69 -184L103 -202" stroke="#81573b" stroke-width="29"/>
+<!-- left-arm cape: front view screen right? Tavi right physically screen left; satchel physical left screen right -->
+<path d="M-75 -320Q-135 -221 -147 -100L-64 -105L-22 -308Z" fill="url(#cloak)" stroke="#e6bd73" stroke-width="8"/>
+<path d="M-83 -292L-105 -179M-95 -263L-83 -234" stroke="#f0cb80" stroke-width="5" stroke-dasharray="10 8"/>
+<path d="M48 -322Q117 -278 157 -207L171 -103Q145 -60 106 -90L47 -301Z" fill="url(#cloak)" stroke="#e5c184" stroke-width="8"/>
+<path d="M86 -285L137 -170L128 -118M99 -250L114 -220" stroke="#ecce8b" stroke-width="5" stroke-dasharray="10 8"/>
+<path d="M-73 -320Q3 -345 78 -314" fill="none" stroke="#143f51" stroke-width="28"/>
+<path d="M-73 -321Q3 -347 78 -315" fill="none" stroke="#dcae68" stroke-width="6"/>
+<!-- torso strap crossing from physical right shoulder (screen left) toward left satchel (screen right) -->
+<path d="M-56 -300L94 -173" stroke="#774d34" stroke-width="25"/>
+<path d="M-53 -297L92 -175" stroke="#aa7950" stroke-width="4"/>
+<path d="M-75 -194H69" stroke="#654c3a" stroke-width="24"/>
+<rect x="-11" y="-205" width="38" height="22" rx="5" fill="url(#brass)" stroke="#845c3b" stroke-width="4"/>
+<g transform="translate(-48 -316)"><circle r="25" fill="url(#brass)" stroke="#825f37" stroke-width="5"/><circle r="15" fill="none" stroke="#ffedb1" stroke-width="3"/><path d="M0 -15V15M-15 0H15M-10 -10L10 10M10 -10L-10 10" stroke="#875d34" stroke-width="3"/></g>
+<!-- physical left satchel screen right -->
+<g transform="translate(101 -150)"><path d="M-29 -29H35Q50 -9 41 36L-32 39Z" fill="#87583b" stroke="#e0b47b" stroke-width="6"/><path d="M-27 -7H41" stroke="#d5ad7d" stroke-width="6"/><rect x="-8" y="8" width="23" height="18" rx="4" fill="url(#brass)"/><path d="M0 -30v-34" stroke="#76503b" stroke-width="8"/></g>
+<!-- head -->
+<ellipse cy="-402" rx="77" ry="84" fill="#eec7a3" stroke="#ac8565" stroke-width="6"/>
+<path d="M-78 -433Q-107 -502 -48 -504Q-28 -557 23 -514Q59 -536 86 -485L64 -455L37 -483L17 -458L-16 -476L-52 -447Z" fill="#513729" stroke="#302a26" stroke-width="5"/>
+<path d="M-77 -450L-92 -476L-61 -479M29 -506L51 -533L69 -499" fill="#5f3e2e"/>
+<circle cx="-28" cy="-400" r="7" fill="#433027"/><circle cx="28" cy="-400" r="7" fill="#433027"/>
+<path d="M-16 -363q16 12 30 -1" stroke="#ac7862" stroke-width="5" fill="none"/>
+<g fill="#c88c70"><circle cx="-52" cy="-385" r="2.6"/><circle cx="-45" cy="-390" r="2.6"/><circle cx="50" cy="-388" r="2.6"/></g>
+<!-- compass bag strap accent -->
+<circle cx="60" cy="-174" r="14" fill="url(#brass)" stroke="#e7c387" stroke-width="4"/>
+<!-- physical right lantern screen left -->
+<path d="M-87 -187L-134 -111" stroke="#dcb08c" stroke-width="24" stroke-linecap="round"/>
+<g transform="translate(-150 -104)"><circle r="49" fill="url(#light)"/><path d="M-26 0Q-23 -34 0 -31Q23 -34 27 0" fill="none" stroke="#b58145" stroke-width="7"/><rect x="-33" y="0" width="67" height="83" rx="12" fill="#b68244" stroke="#f5d28c" stroke-width="7"/><path d="M-20 10H20V66H-20Z" fill="#ffecb0"/><path d="M0 10V66M-20 39H20" stroke="#b77f3d" stroke-width="5"/></g>
+</g>
+<!-- callout lines -->
+<g fill="none" stroke="#f1ca82" stroke-width="3" stroke-dasharray="10 8">
+<path d="M696 370L522 297L498 297"/><path d="M1063 396L1318 312L1360 312"/>
+<path d="M1045 621L1335 566L1361 566"/><path d="M661 667L524 731L490 731"/>
+<path d="M1014 330L1298 181L1341 181"/><path d="M903 816L1337 790L1365 790"/>
+</g>
+<g fill="#16333e" stroke="#aebea9" stroke-width="2">
+<rect x="51" y="225" width="444" height="137" rx="14"/>
+<rect x="1286" y="242" width="464" height="136" rx="14"/>
+<rect x="1295" y="497" width="445" height="136" rx="14"/>
+<rect x="55" y="688" width="441" height="134" rx="14"/>
+<rect x="1291" y="720" width="453" height="128" rx="14"/>
+</g>
+<g fill="#f8dfb3" font-family="Georgia,serif" font-size="26">
+<text x="79" y="267">RIGHT HAND — lantern</text>
+<text x="1314" y="288">Wayline clasp &amp; collar</text>
+<text x="1322" y="541">LEFT HIP — map satchel</text>
+<text x="84" y="732">Cloak cut &amp; map lines</text>
+<text x="1320" y="765">Boots / scale / contact</text>
+</g>
+<g fill="#c6dcd7" font-family="sans-serif" font-size="18">
+<text x="79" y="302">Front-image LEFT = Tavi's physical RIGHT.</text><text x="79" y="327">Warm brass glass core; one attachment point.</text>
+<text x="1314" y="323">One eight-point road compass.</text><text x="1314" y="348">No alternate collar charm by angle.</text>
+<text x="1322" y="577">Front-image RIGHT = Tavi's physical LEFT.</text><text x="1322" y="601">Strap crosses chest, bag remains left.</text>
+<text x="84" y="767">Unequal hem, same road-map embroidery.</text><text x="84" y="794">Do not mirror entire outfit for west views.</text>
+<text x="1320" y="803">Keep same leather, cuff, sole and heel.</text><text x="1320" y="828">Ground shadow visible in every camera view.</text>
+</g>
+<text x="59" y="1054" fill="#e8d2a7" font-family="sans-serif" font-size="20">Original editable costume-construction reference. The standalone painterly front portrait is a separate chat artifact, not embedded in GitHub.</text>
+<text x="61" y="1084" fill="#a3c4c7" font-family="sans-serif" font-size="16">Design v5 — NOT a completed orthographic turnaround, 3D model, animation rig, G1 approval or playable game. Phase 2 remains locked.</text>
+</svg>
