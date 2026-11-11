@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" width="1600" height="940" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Review 11 - Upper Spindle Galleries camera acceptance overlay</title>
+<desc id="desc">New original editable conceptual camera study showing central position of Tavi and Rootspool anchors in improved standalone landscape reference. Not an engine screenshot or running camera.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173542"/><stop offset="1" stop-color="#233641"/></linearGradient><linearGradient id="floor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b88b5c"/><stop offset="1" stop-color="#715239"/></linearGradient></defs>
+<rect width="1600" height="940" fill="url(#bg)"/><rect x="20" y="20" width="1560" height="900" rx="18" fill="none" stroke="#dbb675" stroke-width="3"/>
+<text x="51" y="75" fill="#f5dda7" font-size="41" font-family="Georgia,serif">UPPER SPINDLE GALLERIES — ART CAMERA v7</text>
+<text x="53" y="116" fill="#bad5d6" font-size="18" font-family="sans-serif">Independent 1672×941 painted visual target from Review 11 • simplified source-controlled framing checks</text>
+<g transform="translate(50 150)">
+<rect x="0" y="0" width="1500" height="660" rx="15" fill="#324a49" stroke="#d4b184" stroke-width="3"/>
+<path d="M25 34H1480V640H25Z" fill="#354c48"/>
+<g stroke="#706049" stroke-width="29" fill="none"><path d="M195 130L280 317L430 344L670 323L893 256L1090 194L1364 234"/><path d="M90 554L428 492L660 520L875 416L1107 408L1410 312"/></g>
+<g stroke="url(#floor)" stroke-width="62" fill="none" stroke-linecap="round"><path d="M115 547L434 488L669 509L883 414L1116 404L1415 306"/></g>
+<path d="M95 502L435 451L663 473L870 374L1102 364L1414 268" stroke="#d7b385" stroke-width="9" fill="none"/>
+<path d="M98 603L437 544L672 568L889 469L1126 469L1430 363" stroke="#63482f" stroke-width="17" fill="none"/>
+<g stroke="#8e663f" stroke-width="19"><path d="M211 537v111M444 477v162M777 456v180M1135 389v220"/></g>
+<!-- stalled wheel on right: conceptual landmark -->
+<g transform="translate(1297 469)">
+<circle r="132" fill="#203637" stroke="#ac8756" stroke-width="29"/>
+<circle r="91" fill="none" stroke="#846143" stroke-width="10"/>
+<g stroke="#916a48" stroke-width="14"><path d="M-110 -59L110 59M-111 57L112 -57M-132 0H131M0 -131V131"/></g>
+<circle r="23" fill="#bf9462" stroke="#745234" stroke-width="8"/></g>
+<!-- Tavi -->
+<g transform="translate(627 470)">
+<ellipse cx="0" cy="7" rx="44" ry="11" fill="#122e36" opacity=".6"/>
+<path d="M-16 -43L-21 4M19 -41L20 4" stroke="#67492f" stroke-width="13"/>
+<path d="M-26 -100L28 -100L32 -40L-28 -40" fill="#e2c69f"/>
+<path d="M-25 -101Q-63 -70 -54 -28L4 -39L24 -96" fill="#147b88" stroke="#e4bc76" stroke-width="5"/>
+<circle cy="-127" r="26" fill="#e7bf98"/><path d="M-26 -133q-15 -36 8 -32q39 -16 45 26" fill="#583927"/>
+<rect x="35" y="-40" width="20" height="30" rx="3" fill="#f8d68b" stroke="#a77a43" stroke-width="4"/></g>
+<g fill="none" stroke="#ebc781" stroke-width="12">
+<circle cx="890" cy="176" r="40"/><path d="M890 88V134"/>
+<circle cx="710" cy="101" r="30"/><path d="M710 35V73"/>
+</g>
+<!-- Safe bands proposed, visual only -->
+<rect width="240" height="660" fill="#24769d" fill-opacity=".20" stroke="#76cce0" stroke-width="2" stroke-dasharray="12 9"/>
+<rect x="1260" width="240" height="660" fill="#24769d" fill-opacity=".20" stroke="#76cce0" stroke-width="2" stroke-dasharray="12 9"/>
+<text x="24" y="44" font-size="17" fill="#d2eef2" font-family="sans-serif">LEFT ~16%</text>
+<text x="1290" y="44" font-size="17" fill="#d2eef2" font-family="sans-serif">RIGHT ~16%</text>
+<g fill="#f9dca0" font-family="sans-serif" font-size="21" font-weight="bold">
+<text x="676" y="610">TAVI ~42% X</text>
+<text x="902" y="237">NEAR RING ~63% X</text>
+<text x="540" y="145">FAR RING ~50% X</text>
+</g>
+<g fill="none" stroke="#ebd189" stroke-width="5" stroke-dasharray="12 9"><path d="M680 466Q763 371 865 236"/></g>
+</g>
+<rect x="57" y="831" width="1486" height="67" rx="11" fill="#142e39" stroke="#799ea4" stroke-width="2"/>
+<text x="75" y="857" fill="#e8d1a6" font-family="sans-serif" font-size="19">Static conceptual check: required hero and nearby rings are comfortably inside the central ~68% of frame.</text>
+<text x="75" y="885" fill="#b8d3d1" font-family="sans-serif" font-size="17">Still OPEN: reduce player’s apparent 25–30% scene height toward exploration zoom and test real camera tracking after authorization.</text>
+<text x="60" y="923" fill="#a7c5c4" font-size="12" font-family="sans-serif">Original schematic source, not a production camera, real measured hitbox, engine shader, or an iPhone hardware test. G1 pending; Phase 2 locked.</text>
+</svg>
