@@ -1,6 +1,6 @@
 # WAYBELL — Exact-Camera Painted Combat Brief 07
 Authority: Phase 1 art-direction and visual QA only • 2026-11-11
-Status: **Matched vector source valid, polished painted second frame unaccepted; G1 pending**.
+Status update (Review 09, 2026-11-11): **A standalone premium painted combat candidate now exists; exact painted exploration/combat pairing still unaccepted. G1 pending.**
 References: docs/04 mechanics, docs/06 art, docs/15 Review 06.
 
 ## The reproducibility issue
@@ -44,3 +44,11 @@ These share the same authored **background geometry**. This validates the *layou
 
 ## Current result
 **Not complete**: a genuinely matching full-quality *painted* combat counterpart is still absent. The locked vector pair is the honest reference. Recent generated full-frame combat images changed scene identity or featured extra fighters; these are rejected, not added to canon. No game code, no 3D camera, no device test.
+
+## Review 09 addendum — independent combat painting exists, exact match still open
+
+A new original standalone 1672×941 painted combat image is described and reviewed in [Review 09](../../docs/18-PHASE-1-VISUAL-REVIEW-09.md): `a_richly_detailed_stylized_fantasy_isometric_3d_i.png`. It shows one canonical Tavi, one Barkling diagnostic enemy and a bold red ground-plane warning, with a cottage left, stairs at the rear, river bridge right and Waybell foreground-right. It is legible at the static 874×492 phone-like scale, including proposed left/right side zones. This satisfies the *single-scene combat composition* objective, **not** the stricter paired-match requirement.
+
+The image's architectural details are **not exact** matches to the previously accepted standalone peaceful Thimblebrook painting, and editing attempts returned noncanonical multi-panel presentation boards. Do not retroactively describe the pair as matching at the pixel level. The project may instead seek a peaceful frame produced from the new combat painting with unchanged scenery when an editing workflow can reliably do so. The village remains peaceful in story; this enemy is a noncanonical art-level diagnostic.
+
+The source-controlled exact-layout SVG pair remains a valid technical *art-direction constraint* only. No actual combat, renderer, camera, mobile control or game code exists. G1 remains pending; Phase 2 remains locked.
