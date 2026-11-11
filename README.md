@@ -22,6 +22,8 @@ A young mapmaker, Tavi, explores the interconnected country of Eldervale, restor
 - [Review 02 — approved direction refined, mobile framing and outstanding gaps](docs/11-PHASE-1-VISUAL-REVIEW-02.md)
 - [Review 03 — eight-direction Tavi, elevated combat/camera, dormant mill critique](docs/12-PHASE-1-VISUAL-REVIEW-03.md)
 - [Review 04 — high-angle village painting, rejected water-filled mill, truthful G1 gaps](docs/13-PHASE-1-VISUAL-REVIEW-04.md)
+- [Review 05 — matched-camera courtyard, dry mill crops and cast scale](docs/14-PHASE-1-VISUAL-REVIEW-05.md)
+- [Shared-groundline Tavi, Nella, Orin and Seren silhouettes (SVG)](design/phase1/cast-scale-guide-v1.svg)
 - [Original dry-state Rootbound Mill lower/upper visual contract (SVG)](design/phase1/rootbound-first-visit-visual-contract-v2.svg)
 - [Tavi normalized eight-direction design sheet (SVG)](design/phase1/tavi-eight-directions-v1.svg)
 - [Matched three-quarter exploration/combat camera layout (SVG)](design/phase1/three-quarter-camera-combat-v1.svg)
@@ -33,7 +35,7 @@ A young mapmaker, Tavi, explores the interconnected country of Eldervale, restor
 No Codex, ChatGPT Work, Vercel or outside paid services. GitHub and free GitHub Pages only; no mandatory backend. iPhone-first touch controls must never cover the central playfield. Real 3D geometry presented as art-directed 2.5D. No copied Nintendo IP; no gacha or artificial grinding. User must approve visual direction, vertical slice and full release.
 
 ## Current gate
-**G0: PASSED — authoritative documentation committed and verified.** **Phase 1: OWNER-APPROVED OVERALL LOOK; G1 FINAL ACCEPTANCE STILL PENDING.** Read [Visual Review 04](docs/13-PHASE-1-VISUAL-REVIEW-04.md) for the refined elevated Thimblebrook painting, original dry mill vector concept, exact first-visit failures, and remaining character/camera/combat gaps. The new PNGs/ZIP are conversation artifacts, not GitHub-hosted image files. Phase 2 (engine/game code) remains locked pending complete G1 and explicit authorization. See [roadmap](docs/08-DEVELOPMENT-ROADMAP.md) and [decision register](docs/09-DECISIONS-AND-TRACEABILITY.md).
+**G0: PASSED — authoritative documentation committed and verified.** **Phase 1: OWNER-APPROVED OVERALL LOOK; G1 FINAL ACCEPTANCE STILL PENDING.** Read [Visual Review 05](docs/14-PHASE-1-VISUAL-REVIEW-05.md) for the matching exploration/combat diptych, first genuinely dry first-visit mill concept crops, new cast-proportion vector and remaining gaps. The new PNGs/ZIP are conversation artifacts, not GitHub-hosted image files. Phase 2 (engine/game code) remains locked pending complete G1 and explicit authorization. See [roadmap](docs/08-DEVELOPMENT-ROADMAP.md) and [decision register](docs/09-DECISIONS-AND-TRACEABILITY.md).
 
 ## Planned delivery (not yet built)
 Public project: https://github.com/hdog960/Waybell
