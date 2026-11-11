@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL — Upper Gallery measured camera and thumb-zone art-direction audit</title>
+<desc id="desc">Original Phase 1 art-direction diagram comparing previous Upper Gallery camera composition to a closer cropped entry framing. Shaded zones are provisional and no camera is implemented. Art-stage schematic only.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112c39"/><stop offset="1" stop-color="#203744"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#bg)"/><rect x="18" y="17" width="1564" height="861" rx="18" fill="none" stroke="#ccaa76" stroke-width="3"/>
+<text x="45" y="71" font-family="Georgia,serif" font-size="42" fill="#ffe0a6">UPPER SPINDLE GALLERIES — CAMERA AUDIT v6</text>
+<text x="47" y="113" font-family="sans-serif" font-size="20" fill="#bcd7d2">Derived from the accepted dormant painting • entry reframing test • no changes to story, room mechanisms, or physics</text>
+<g transform="translate(45,180)">
+<rect width="704" height="444" rx="15" fill="#29454a" stroke="#d2ac76" stroke-width="3"/>
+<path d="M65 365L180 282L330 260L456 185L646 150" fill="none" stroke="#78583c" stroke-width="75" stroke-linecap="round"/>
+<path d="M65 355L180 270L330 250L456 175L646 143" fill="none" stroke="#d7b07a" stroke-width="53" stroke-linecap="round"/>
+<path d="M78 325L179 241L329 219L456 145L644 115" stroke="#c0a780" stroke-width="8" fill="none"/>
+<path d="M70 392L180 309L330 290L456 222L648 190" stroke="#82684e" stroke-width="16" fill="none"/>
+<path d="M420 200L514 144" stroke="#627a61" stroke-width="10" fill="none"/>
+<g transform="translate(468,329)">
+<ellipse rx="98" ry="32" stroke="#aa8d5c" stroke-width="15" fill="#203538"/>
+<path d="M-30 -155H31V15H-30Z" fill="#8e6b49" stroke="#d1ae70" stroke-width="9"/>
+<circle cy="-101" r="31" fill="#b89355" stroke="#e0c388" stroke-width="9"/></g>
+<rect x="0" y="0" width="112" height="444" fill="#3e8fb1" fill-opacity=".25"/>
+<rect x="592" y="0" width="112" height="444" fill="#3e8fb1" fill-opacity=".25"/>
+<path d="M112 0V444M592 0V444" stroke="#88cfdf" stroke-width="3" stroke-dasharray="12 9"/>
+<g><circle cx="94" cy="289" r="14" fill="#f1b18e" stroke="#173747" stroke-width="4"/><text x="94" y="294" fill="#173747" font-family="sans-serif" text-anchor="middle" font-size="15" font-weight="bold">T</text></g><g><circle cx="137" cy="105" r="14" fill="#f4d68e" stroke="#173747" stroke-width="4"/><text x="137" y="110" fill="#173747" font-family="sans-serif" text-anchor="middle" font-size="15" font-weight="bold">1</text></g><g><circle cx="331" cy="104" r="14" fill="#f4d68e" stroke="#173747" stroke-width="4"/><text x="331" y="109" fill="#173747" font-family="sans-serif" text-anchor="middle" font-size="15" font-weight="bold">2</text></g><g><circle cx="654" cy="104" r="14" fill="#f4d68e" stroke="#173747" stroke-width="4"/><text x="654" y="109" fill="#173747" font-family="sans-serif" text-anchor="middle" font-size="15" font-weight="bold">3</text></g>
+<rect x="16" y="16" width="672" height="53" rx="9" fill="#15343e" fill-opacity=".93"/>
+<text x="28" y="50" font-family="Georgia,serif" font-size="24" fill="#ffe2ad">A — SOURCE PAINTING</text>
+<rect x="20" y="382" width="664" height="49" rx="9" fill="#15343e" fill-opacity=".9"/>
+<text x="34" y="411" font-family="sans-serif" font-size="18" fill="#d7e7dc">Tavi partly beneath left thumb; far ring beneath right thumb</text>
+</g><g transform="translate(852,180)">
+<rect width="704" height="444" rx="15" fill="#29454a" stroke="#d2ac76" stroke-width="3"/>
+<path d="M65 365L180 282L330 260L456 185L646 150" fill="none" stroke="#78583c" stroke-width="75" stroke-linecap="round"/>
+<path d="M65 355L180 270L330 250L456 175L646 143" fill="none" stroke="#d7b07a" stroke-width="53" stroke-linecap="round"/>
+<path d="M78 325L179 241L329 219L456 145L644 115" stroke="#c0a780" stroke-width="8" fill="none"/>
+<path d="M70 392L180 309L330 290L456 222L648 190" stroke="#82684e" stroke-width="16" fill="none"/>
+<path d="M420 200L514 144" stroke="#627a61" stroke-width="10" fill="none"/>
+<g transform="translate(468,329)">
+<ellipse rx="98" ry="32" stroke="#aa8d5c" stroke-width="15" fill="#203538"/>
+<path d="M-30 -155H31V15H-30Z" fill="#8e6b49" stroke="#d1ae70" stroke-width="9"/>
+<circle cy="-101" r="31" fill="#b89355" stroke="#e0c388" stroke-width="9"/></g>
+<rect x="0" y="0" width="112" height="444" fill="#3e8fb1" fill-opacity=".25"/>
+<rect x="592" y="0" width="112" height="444" fill="#3e8fb1" fill-opacity=".25"/>
+<path d="M112 0V444M592 0V444" stroke="#88cfdf" stroke-width="3" stroke-dasharray="12 9"/>
+<g><circle cx="139" cy="291" r="14" fill="#f1b18e" stroke="#173747" stroke-width="4"/><text x="139" y="296" fill="#173747" font-family="sans-serif" text-anchor="middle" font-size="15" font-weight="bold">T</text></g><g><circle cx="182" cy="105" r="14" fill="#f4d68e" stroke="#173747" stroke-width="4"/><text x="182" y="110" fill="#173747" font-family="sans-serif" text-anchor="middle" font-size="15" font-weight="bold">1</text></g><g><circle cx="480" cy="104" r="14" fill="#f4d68e" stroke="#173747" stroke-width="4"/><text x="480" y="109" fill="#173747" font-family="sans-serif" text-anchor="middle" font-size="15" font-weight="bold">2</text></g><path d="M633 114l34 15m-32 0l33 -16" stroke="#e2a4a1" stroke-width="5"/>
+<rect x="16" y="16" width="672" height="53" rx="9" fill="#15343e" fill-opacity=".93"/>
+<text x="28" y="50" font-family="Georgia,serif" font-size="24" fill="#ffe2ad">B — ENTRY CAMERA CROP</text>
+<rect x="20" y="382" width="664" height="49" rx="9" fill="#15343e" fill-opacity=".9"/>
+<text x="34" y="411" font-family="sans-serif" font-size="18" fill="#d7e7dc">Nearer rings enter center; next/far interaction still needs tracking</text>
+</g>
+<path d="M782 390H841" stroke="#e4bd7a" stroke-width="6"/><path d="M823 375L844 390L823 405" fill="none" stroke="#e4bd7a" stroke-width="6"/>
+<rect x="44" y="666" width="1512" height="169" rx="14" fill="#16303d" stroke="#62828b" stroke-width="2"/>
+<text x="68" y="702" font-size="27" font-family="Georgia,serif" fill="#ffdcab">REVIEW 10 FINDINGS</text>
+<text x="68" y="739" font-size="19" font-family="sans-serif" fill="#d7e2d7">1. Current painting: Tavi near x≈13% and far ring near x≈92%, conflicting with the provisional outer 16% thumb zones.</text>
+<text x="68" y="774" font-size="19" font-family="sans-serif" fill="#d7e2d7">2. Entry camera CROP (0,76,1200,751): Tavi near x≈18%, two closer anchors within visible center; far ring intentionally off-camera.</text>
+<text x="68" y="807" font-size="19" font-family="sans-serif" fill="#f6c89c">3. Improvement is PARTIAL: required camera follow/center bias during movement remains unpainted and untested.</text>
+<text x="46" y="869" font-size="14" font-family="sans-serif" fill="#9fc3c5">Concept schematic; art crop is upscaled, not new fine detail. Touch controls, actual hit targets, camera movement and iPhone performance remain Phase 2 work.</text>
+</svg>
