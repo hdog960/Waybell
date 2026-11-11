@@ -28,7 +28,7 @@ The accepted independent front/right/back PNG paintings are **not GitHub binary 
 
 ## 4. New artwork-quality/phone-size evidence
 **Packet:** `WAYBELL_Phase1_Review15_Visual_Evidence.zip`  
-**Verified SHA-256:** `9a3cf7b724e7d5047b75ab3961f90be2f0b90bb087639bc91ceadb9070763d56`  
+**Verified SHA-256:** `2666c44d079f7134f32384e60a6d4940893bede7d1207965f33b1dc6bfbc357e`  
 **9 files:**
 - Full-size standalone NEW back image and unmodified PRIOR front/right originals (each 1086×1448).
 - New 2440×1280 three-portrait comparison showing equal canvas-scale sources and evident differences.
