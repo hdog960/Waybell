@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="930" viewBox="0 0 1600 930" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Tavi eight-angle original physical equipment consistency study v4</title>
+<desc id="desc">New original vector artwork authored for Phase 1 with eight matched-scale orientations and physical left satchel/right lantern attachment. A schematic, not a final painted character turnaround or a rig.</desc>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#193b48"/><stop offset="1" stop-color="#263846"/></linearGradient></defs>
+<rect width="1600" height="930" fill="url(#b)"/><rect x="18" y="18" width="1564" height="896" rx="18" fill="none" stroke="#d6b179" stroke-width="3"/>
+<text x="48" y="70" fill="#ffdfac" font-size="40" font-family="Georgia,serif">TAVI — EIGHT-ANGLE PHYSICAL SIDES  /  v4</text>
+<text x="49" y="103" fill="#bdd7d2" font-size="18" font-family="sans-serif">Normalized original vector design reference: asymmetric teal route-map cloak • physical LEFT satchel • physical RIGHT lantern</text>
+<g stroke="#aebfb0" stroke-width="2" opacity=".40" stroke-dasharray="10 9"><path d="M33 474H1577M33 794H1577"/></g>
+<rect x="17" y="163" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(105 391)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-45 -129Q-86 -53-69 -8L-4 -18L23 -125Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/><path d="M-47 -115L-33 -53M-37 -103L-19 -73" stroke="#e6bf78" stroke-width="3.5" stroke-dasharray="7 7"/>
+ <path d="M-41 -124L33 -76" stroke="#79513b" stroke-width="12"/><circle cx="-31" cy="-121" r="10" fill="#dcb570" stroke="#976b3e" stroke-width="3"/>
+ <g transform="translate(-41 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="0" cy="-183" rx="39" ry="42" fill="#e8bd95" stroke="#ad8260" stroke-width="3"/>
+ <path d="M-37 -196Q-45 -248 -4 -246Q18 -258 40 -205L15 -226L-5 -211L-20 -217Z" fill="#53372a"/>
+ <circle cx="-12" cy="-181" r="3.2" fill="#352920"/><circle cx="11" cy="-181" r="3.2" fill="#352920"/>
+ <path d="M-8 -162q8 5 17 -1" stroke="#9e6850" stroke-width="2" fill="none"/>
+ <g transform="translate(50 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="105" y="432" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">S / FRONT</text>
+<rect x="412" y="163" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(500 391)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-45 -129Q-86 -53-69 -8L-4 -18L23 -125Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/><path d="M-47 -115L-33 -53M-37 -103L-19 -73" stroke="#e6bf78" stroke-width="3.5" stroke-dasharray="7 7"/>
+ <path d="M-41 -124L33 -76" stroke="#79513b" stroke-width="12"/><circle cx="-31" cy="-121" r="10" fill="#dcb570" stroke="#976b3e" stroke-width="3"/>
+ <g transform="translate(-41 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="0" cy="-183" rx="39" ry="42" fill="#e8bd95" stroke="#ad8260" stroke-width="3"/>
+ <path d="M-37 -196Q-45 -248 -4 -246Q18 -258 40 -205L15 -226L-5 -211L-20 -217Z" fill="#53372a"/>
+ <circle cx="-12" cy="-181" r="3.2" fill="#352920"/><circle cx="11" cy="-181" r="3.2" fill="#352920"/>
+ <path d="M-8 -162q8 5 17 -1" stroke="#9e6850" stroke-width="2" fill="none"/>
+ <g transform="translate(50 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="500" y="432" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">SE / FRONT ¾</text>
+<rect x="807" y="163" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(895 391)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-45 -129Q-86 -53-69 -8L-4 -18L23 -125Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/><path d="M-47 -115L-33 -53M-37 -103L-19 -73" stroke="#e6bf78" stroke-width="3.5" stroke-dasharray="7 7"/>
+ <path d="M-41 -124L33 -76" stroke="#79513b" stroke-width="12"/><circle cx="-31" cy="-121" r="10" fill="#dcb570" stroke="#976b3e" stroke-width="3"/>
+ <g transform="translate(-41 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="7" cy="-183" rx="27" ry="42" fill="#e8bd95" stroke="#ad8260" stroke-width="3"/>
+ <path d="M-30 -196Q-38 -248 3 -246Q25 -258 47 -205L22 -226L2 -211L-13 -217Z" fill="#53372a"/>
+ <circle cx="14" cy="-181" r="3.5" fill="#352920"/>
+ <path d="M-1 -162q8 5 17 -1" stroke="#9e6850" stroke-width="2" fill="none"/>
+ <g transform="translate(50 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="895" y="432" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">E / RIGHT</text>
+<rect x="1202" y="163" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(1290 391)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-51 -124Q1 -146 50 -125L69 -2Q11 19-70 4Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/>
+ <path d="M0 -101L-12 -31L23 -37L8 -79" fill="none" stroke="#e4bc78" stroke-width="4"/><circle cx="3" cy="-61" r="16" fill="none" stroke="#e6c383" stroke-width="3"/><path d="M-46 -4Q0 6 62 0" stroke="#f2cc85" stroke-width="4" fill="none"/>
+ 
+ <g transform="translate(38 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="0" cy="-183" rx="39" ry="42" fill="#503529" stroke="#3c2a23" stroke-width="3"/>
+ <path d="M-37 -196Q-45 -248 -4 -246Q18 -258 40 -205L15 -226L-5 -211L-20 -217Z" fill="#53372a"/>
+ 
+ 
+ <g transform="translate(-49 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="1290" y="432" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">NE / BACK ¾</text>
+<rect x="17" y="490" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(105 718)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-51 -124Q1 -146 50 -125L69 -2Q11 19-70 4Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/>
+ <path d="M0 -101L-12 -31L23 -37L8 -79" fill="none" stroke="#e4bc78" stroke-width="4"/><circle cx="3" cy="-61" r="16" fill="none" stroke="#e6c383" stroke-width="3"/><path d="M-46 -4Q0 6 62 0" stroke="#f2cc85" stroke-width="4" fill="none"/>
+ 
+ <g transform="translate(38 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="0" cy="-183" rx="39" ry="42" fill="#503529" stroke="#3c2a23" stroke-width="3"/>
+ <path d="M-37 -196Q-45 -248 -4 -246Q18 -258 40 -205L15 -226L-5 -211L-20 -217Z" fill="#53372a"/>
+ 
+ 
+ <g transform="translate(-49 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="105" y="759" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">N / BACK</text>
+<rect x="412" y="490" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(500 718)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-51 -124Q1 -146 50 -125L69 -2Q11 19-70 4Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/>
+ <path d="M0 -101L-12 -31L23 -37L8 -79" fill="none" stroke="#e4bc78" stroke-width="4"/><circle cx="3" cy="-61" r="16" fill="none" stroke="#e6c383" stroke-width="3"/><path d="M-46 -4Q0 6 62 0" stroke="#f2cc85" stroke-width="4" fill="none"/>
+ 
+ <g transform="translate(38 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="0" cy="-183" rx="39" ry="42" fill="#503529" stroke="#3c2a23" stroke-width="3"/>
+ <path d="M-37 -196Q-45 -248 -4 -246Q18 -258 40 -205L15 -226L-5 -211L-20 -217Z" fill="#53372a"/>
+ 
+ 
+ <g transform="translate(-49 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="500" y="759" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">NW / BACK ¾</text>
+<rect x="807" y="490" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(895 718)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-45 -129Q-86 -53-69 -8L-4 -18L23 -125Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/><path d="M-47 -115L-33 -53M-37 -103L-19 -73" stroke="#e6bf78" stroke-width="3.5" stroke-dasharray="7 7"/>
+ <path d="M-41 -124L33 -76" stroke="#79513b" stroke-width="12"/><circle cx="-31" cy="-121" r="10" fill="#dcb570" stroke="#976b3e" stroke-width="3"/>
+ <g transform="translate(-41 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="-7" cy="-183" rx="27" ry="42" fill="#e8bd95" stroke="#ad8260" stroke-width="3"/>
+ <path d="M-44 -196Q-52 -248 -11 -246Q11 -258 33 -205L8 -226L-12 -211L-27 -217Z" fill="#53372a"/>
+ <circle cx="-14" cy="-181" r="3.5" fill="#352920"/>
+ <path d="M-15 -162q8 5 17 -1" stroke="#9e6850" stroke-width="2" fill="none"/>
+ <g transform="translate(50 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="895" y="759" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">W / LEFT</text>
+<rect x="1202" y="490" width="178" height="287" rx="13" fill="#d3b37d" fill-opacity=".055" stroke="#9eb4a5" stroke-opacity=".6" stroke-width="2"/>
+ <g transform="translate(1290 718)">
+ <ellipse cx="0" cy="15" rx="58" ry="13" fill="#081e2b" opacity=".25"/>
+ <path d="M-28 -91L-34 -5L-9 4L1 -68M16 -90L13 0L45 0L36 -92" fill="#51483e" stroke="#42392f" stroke-width="6"/>
+ <path d="M-36 -6H-5V22H-42Z M12 -6H46L52 22H10Z" fill="#71492f" stroke="#41322a" stroke-width="5"/>
+ <path d="M-44 -132Q0 -152 44 -133L42 -80H-42Z" fill="#ead1aa" stroke="#9c7a57" stroke-width="5"/>
+ <path d="M-40 -128L-59 -72M38 -130L61 -72" fill="none" stroke="#e8bd95" stroke-width="21" stroke-linecap="round"/>
+ <path d="M-45 -129Q-86 -53-69 -8L-4 -18L23 -125Z" fill="#1e7385" stroke="#dcb570" stroke-width="5"/><path d="M-47 -115L-33 -53M-37 -103L-19 -73" stroke="#e6bf78" stroke-width="3.5" stroke-dasharray="7 7"/>
+ <path d="M-41 -124L33 -76" stroke="#79513b" stroke-width="12"/><circle cx="-31" cy="-121" r="10" fill="#dcb570" stroke="#976b3e" stroke-width="3"/>
+ <g transform="translate(-41 -63)"><rect x="-27" y="-13" width="53" height="67" rx="9" fill="#78513b" stroke="#dcb570" stroke-width="5"/><path d="M-26 5H24M-7 17H6" stroke="#d4ae75" stroke-width="5"/><circle cx="0" cy="29" r="5" fill="#e9cc86"/></g>
+ <ellipse cx="0" cy="-183" rx="39" ry="42" fill="#e8bd95" stroke="#ad8260" stroke-width="3"/>
+ <path d="M-37 -196Q-45 -248 -4 -246Q18 -258 40 -205L15 -226L-5 -211L-20 -217Z" fill="#53372a"/>
+ <circle cx="-12" cy="-181" r="3.2" fill="#352920"/><circle cx="11" cy="-181" r="3.2" fill="#352920"/>
+ <path d="M-8 -162q8 5 17 -1" stroke="#9e6850" stroke-width="2" fill="none"/>
+ <g transform="translate(50 -45)">
+ <path d="M-9 -12Q0 -30 13 -12" stroke="#dcb570" stroke-width="6" fill="none"/><rect x="-13" y="-9" width="29" height="42" rx="5" fill="#b98748" stroke="#f5d28f" stroke-width="4"/><path d="M-6 -2H9V24H-6Z" fill="#ffe7a6"/><path d="M0 -5v28" stroke="#fff3c9" stroke-width="3" opacity=".7"/></g>
+ </g>
+ <text x="1290" y="759" fill="#f4dcb5" font-family="Georgia,serif" font-size="17" text-anchor="middle">SW / FRONT ¾</text>
+<rect x="39" y="823" width="1522" height="69" rx="12" fill="#15303c" stroke="#a6b1a0" stroke-width="2"/>
+<text x="59" y="851" font-size="19" fill="#ffe4a9" font-family="sans-serif">ART RULE: West/east views change facing—not the physical side of the lantern, map satchel or cloak clasp.</text>
+<text x="59" y="878" font-size="15" fill="#c0d5d0" font-family="sans-serif">Production body/handedness still requires matched painted turnarounds. This sheet is 2D original shape-language reference only, not a rig, animation or game asset.</text>
+</svg>
