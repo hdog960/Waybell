@@ -26,6 +26,9 @@ A young mapmaker, Tavi, explores the interconnected country of Eldervale, restor
 - [Review 06 — native 16:9 exact-layout vector pairs, independent dry mill concepts and character audit](docs/15-PHASE-1-VISUAL-REVIEW-06.md)
 - [Review 07 — new standalone dry Lower Hall painting, phone-scale audit and pending art gaps](docs/16-PHASE-1-VISUAL-REVIEW-07.md)
 - [Review 08 — new independently painted Upper Galleries, two-room phone-size comparison and honest camera/combat gaps](docs/17-PHASE-1-VISUAL-REVIEW-08.md)
+- [Review 09 — new original standalone painted combat, Upper Gallery camera keyframes, Tavi action study](docs/18-PHASE-1-VISUAL-REVIEW-09.md)
+- [Upper Gallery two-keyframe thumb-safe camera storyboard (SVG)](design/phase1/upper-gallery-camera-safe-keyframes-v5.svg)
+- [Tavi four-action equipment continuity study (SVG)](design/phase1/tavi-action-silhouettes-v3.svg)
 - [Original Upper Gallery traversal and touch-readability schematic](design/phase1/upper-gallery-readability-and-traversal-v4.svg)
 - [Mill first-visit art-direction contract and Upper Gallery brief](design/phase1/ROOTBOUND-MILL-ART-DIRECTION-CONTRACT-07.md)
 - [Thimblebrook exact-camera combat-painting acceptance brief](design/phase1/THIMBLEBROOK-COMBAT-MATCH-SPEC-07.md)
@@ -47,7 +50,7 @@ A young mapmaker, Tavi, explores the interconnected country of Eldervale, restor
 No Codex, ChatGPT Work, Vercel or outside paid services. GitHub and free GitHub Pages only; no mandatory backend. iPhone-first touch controls must never cover the central playfield. Real 3D geometry presented as art-directed 2.5D. No copied Nintendo IP; no gacha or artificial grinding. User must approve visual direction, vertical slice and full release.
 
 ## Current gate
-**G0: PASSED — authoritative documentation committed and verified.** **Phase 1: OWNER-APPROVED OVERALL LOOK; G1 FINAL ACCEPTANCE STILL PENDING.** Read [Visual Review 08](docs/17-PHASE-1-VISUAL-REVIEW-08.md) for **both** accepted full-size standalone dry-mill *art-direction* paintings, a new original Upper Gallery camera/traversal source graphic and the static iPhone-control-area critique. The professionally matched Thimblebrook painted combat image and full character turnaround remain outstanding. The new PNGs/ZIP are conversation artifacts, not GitHub-hosted image files. Phase 2 (engine/game code) remains locked pending complete G1 and explicit authorization. See [roadmap](docs/08-DEVELOPMENT-ROADMAP.md) and [decision register](docs/09-DECISIONS-AND-TRACEABILITY.md).
+**G0: PASSED — authoritative documentation committed and verified.** **Phase 1: OWNER-APPROVED OVERALL LOOK; G1 FINAL ACCEPTANCE STILL PENDING.** Read [Visual Review 09](docs/18-PHASE-1-VISUAL-REVIEW-09.md) for the new standalone premium Thimblebrook painted *combat* visual candidate, two original Upper Gallery camera-safe storyboard frames and four Tavi action silhouettes. Both mill interiors have separate dry first-visit painted references. **The exact painted exploration/combat match, Upper Gallery camera-art correction and production-ready character turnaround remain outstanding.** The new PNGs/ZIP are conversation artifacts, not GitHub-hosted image files. Phase 2 (engine/game code) remains locked pending complete G1 and explicit authorization. See [roadmap](docs/08-DEVELOPMENT-ROADMAP.md) and [decision register](docs/09-DECISIONS-AND-TRACEABILITY.md).
 
 ## Planned delivery (not yet built)
 Public project: https://github.com/hdog960/Waybell
