@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 1120" width="840" height="1120" role="img" aria-labelledby="name description">
+<title id="name">Tavi — original dorsal body and cloak construction reference</title><desc id="description">Single rear view vector character study. Physical left map satchel on image left from behind; right-hand Echo Lantern on image right; gold route pattern on asymmetric teal cloak. This is a concept drawing, not a painted turnaround.</desc>
+<defs>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e8d0"/><stop offset="1" stop-color="#e0c9a4"/></linearGradient>
+ <linearGradient id="cloak" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2e818c"/><stop offset=".52" stop-color="#116073"/><stop offset="1" stop-color="#153c54"/></linearGradient>
+ <linearGradient id="boot" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#92683f"/><stop offset="1" stop-color="#513527"/></linearGradient>
+ <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe2a3"/><stop offset=".5" stop-color="#cb9350"/><stop offset="1" stop-color="#765031"/></linearGradient>
+ <radialGradient id="lantern"><stop stop-color="#fff7cc" stop-opacity=".85"/><stop offset=".46" stop-color="#ffd068" stop-opacity=".42"/><stop offset="1" stop-color="#e9a33b" stop-opacity="0"/></radialGradient>
+ </defs><rect width="840" height="1120" fill="url(#paper)"/>
+<ellipse cx="429" cy="1025" rx="194" ry="28" fill="#bca47e" opacity=".35"/>
+<path d="M324 775L310 939L383 943L400 775M453 775L458 944L527 939L510 775" fill="#66534a" stroke="#4d3e36" stroke-width="13"/>
+<g fill="url(#boot)" stroke="#583a2b" stroke-width="10"><path d="M310 929L381 928L395 1020Q347 1037 284 1020L289 959Z"/><path d="M458 927L531 927L561 1022Q507 1038 451 1021L442 959Z"/></g>
+<g stroke="#d0a06a" stroke-width="8"><path d="M307 967H380M313 988H383M453 969H532M456 992H541"/></g>
+<path d="M316 383Q419 355 516 384L557 840Q417 929 275 837Z" fill="url(#cloak)" stroke="#dba962" stroke-width="13"/>
+<path d="M298 823Q386 853 465 860Q509 853 557 824" fill="none" stroke="#eac37b" stroke-width="10"/>
+<path d="M317 396Q255 549 268 754Q293 800 309 780L335 459" fill="#155367" stroke="#e7bf7b" stroke-width="7"/>
+<path d="M516 388Q583 532 595 711L554 822L532 472" fill="#1d687c" stroke="#eccb8c" stroke-width="7"/>
+<!-- canonical Wayline, compass chart on back -->
+<path d="M350 489Q411 539 377 605T443 727Q504 759 506 812" fill="none" stroke="#e6b367" stroke-width="9"/>
+<path d="M448 481Q490 554 462 612M361 717Q333 761 307 778" fill="none" stroke="#dfb46c" stroke-width="7"/>
+<g transform="translate(429 642)" stroke="#ebc77d" fill="none"><circle r="65" stroke-width="7"/><circle r="23" stroke-width="5"/><path d="M0 -100V101M-100 0H101M-72 -72L72 72M72 -72L-72 72" stroke-width="5"/><path d="M0 -96L17 -16L0 0L-17 -16Z" fill="url(#brass)" stroke-width="4"/></g>
+<!-- hair/collar -->
+<path d="M337 378Q365 332 424 339Q491 334 519 378L486 424Q407 441 356 421Z" fill="#135b6c" stroke="#d1a066" stroke-width="8"/>
+<path d="M362 305Q337 256 374 201Q403 158 455 191Q507 188 504 254L490 340Q432 372 362 331Z" fill="#513527" stroke="#392b24" stroke-width="9"/>
+<path d="M355 257Q332 225 360 211M471 198Q487 171 500 199M371 196Q387 158 408 165" fill="none" stroke="#705039" stroke-width="16" stroke-linecap="round"/>
+<!-- arms and gear -->
+<path d="M323 419Q292 534 286 647L263 729" fill="none" stroke="#debd98" stroke-width="39" stroke-linecap="round"/>
+<path d="M523 415Q550 538 571 653L591 727" fill="none" stroke="#dec09b" stroke-width="39" stroke-linecap="round"/>
+<path d="M265 597L294 607L278 684L247 672M563 596L592 599L614 665L580 680" fill="url(#boot)" stroke="#704a31" stroke-width="7"/>
+<!-- satchel physical left shows on screen left from back -->
+<path d="M328 426Q298 532 252 704" fill="none" stroke="#7a5038" stroke-width="19"/>
+<path d="M230 694L308 691L316 827L221 819Z" fill="#84563c" stroke="#ca9760" stroke-width="10"/>
+<path d="M231 732L309 736M264 756H284" stroke="#e0b47b" stroke-width="8"/>
+<rect x="265" y="754" width="19" height="23" rx="3" fill="url(#brass)"/>
+<!-- right lantern on picture right -->
+<g transform="translate(592 729)"><circle r="101" fill="url(#lantern)"/><path d="M-31 -10Q-27 -50 0 -50Q26 -50 29 -10" fill="none" stroke="#bd904d" stroke-width="11"/><rect x="-45" y="-14" width="88" height="124" rx="15" fill="url(#brass)" stroke="#986b38" stroke-width="9"/><path d="M-25 4H25V89H-25Z" fill="#fff2b7" stroke="#ecbc64" stroke-width="6"/><path d="M0 3V91M-23 44H24" stroke="#a67840" stroke-width="5"/></g>
+</svg>
