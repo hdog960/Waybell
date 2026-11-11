@@ -1,1 +1,31 @@
-# Waybell
+# WAYBELL: The Roads We Leave
+
+**Status: Phase 0 documentation-only.** Original iPhone-first landscape 2.5D adventure planned for free GitHub Pages. There is no playable build, engine selection or game code yet. Owner confirmed Pages enabled; publishing of an actual playable site is unverified.
+
+## Project vision
+A young mapmaker, Tavi, explores the interconnected country of Eldervale, restores magical routes with the Echo Lantern, reunites communities and learns that connection means accepting change. Premium miniature-diorama visuals, richly authored dungeons, distinct musical motifs, approachable sword-and-tool combat, and thoughtful exploration. Main-story goal: 18–25 hours (a design target, not a completion estimate). All original IP.
+
+## Authoritative Phase 0 documents — read in order
+1. [00 — Project Charter / rules and authority](docs/00-PROJECT-CHARTER.md)
+2. [01 — Creative Design Bible](docs/01-CREATIVE-DESIGN-BIBLE.md)
+3. [02 — Narrative, cast and ending](docs/02-NARRATIVE-AND-CHARACTERS.md)
+4. [03 — Regions, world graph, quests, and Waymaking](docs/03-WORLD-AND-SIDE-CONTENT.md)
+5. [04 — Mechanics, progression and iPhone UI](docs/04-MECHANICS-PROGRESSION-AND-UX.md)
+6. [05 — Nine handcrafted dungeons and encounters](docs/05-DUNGEON-AND-ENCOUNTER-BIBLE.md)
+7. [06 — Art, animation, music, accessibility](docs/06-ART-AUDIO-AND-ACCESSIBILITY.md)
+8. [07 — Technical feasibility and tests](docs/07-TECHNICAL-AND-TEST-STRATEGY.md)
+9. [08 — Phases 0–12, gates and development roadmap](docs/08-DEVELOPMENT-ROADMAP.md)
+10. [09 — Decisions, unresolved risks and traceability](docs/09-DECISIONS-AND-TRACEABILITY.md)
+
+## Owner-locked constraints
+No Codex, ChatGPT Work, Vercel or outside paid services. GitHub and free GitHub Pages only; no mandatory backend. iPhone-first touch controls must never cover the central playfield. Real 3D geometry presented as art-directed 2.5D. No copied Nintendo IP; no gacha or artificial grinding. User must approve visual direction, vertical slice and full release.
+
+## Current gate
+**G0 = authoritative documentation and GitHub readback verification.** Phase 1 (original visual exploration) begins ONLY on explicit owner authorization; Phase 2 (engine/game code) is separately gated. Check [roadmap](docs/08-DEVELOPMENT-ROADMAP.md) for requirements and [decision register](docs/09-DECISIONS-AND-TRACEABILITY.md) for current status.
+
+## Planned delivery (not yet built)
+Public project: https://github.com/hdog960/Waybell
+
+Intended future GitHub Pages URL: https://hdog960.github.io/Waybell/
+
+Do not mistake this documentation repository for an actual game release. No external services should incur cost and no automation or game development has been started by Phase 0.
