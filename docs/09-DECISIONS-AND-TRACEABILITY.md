@@ -36,10 +36,10 @@ Mobile clarity and quality -> docs/04 touch/accessibility, docs/06 camera, docs/
 No-paid-services / static delivery -> docs/00 charter, docs/07 infrastructure, Phase 2/12.
 
 ## Phase ledger at document creation
-PHASE 0: Documentation preparation in progress; awaiting GitHub file readback and consistency audit. Do not mark complete until verified.
-PHASE 1: NOT STARTED, approval not granted.
-PHASES 2–12: NOT STARTED, no game code/assets or deployed playable build claimed.
-No CI run, browser playtest, or Pages gameplay verification has occurred merely because documentation was committed.
+PHASE 0: **G0 VERIFIED — DOCUMENTATION COMPLETE** (2026-11-10). All 10 authoritative files + root README committed to GitHub main, read back successfully using GitHub contents API; checked titles, internal README links, seven regions, six major and three optional dungeons, Q01–Q18, W01–W08, Phase 12, no-Codex constraint and consistent Yselle/Seren spelling. This is a documentation-only verification, not a design/art owner signoff.
+PHASE 1: **NOT STARTED — OWNER AUTHORIZATION REQUIRED.** No visual preproduction authorized by G0 verification alone.
+PHASES 2–12: **NOT STARTED — OWNER AUTHORIZATION AND PRIOR GATES REQUIRED.** No game code, art-production assets, or playable build added by Phase 0.
+No CI run, browser playtest, iPhone run, or live Pages gameplay verification has occurred merely because documentation was committed.
 
 ## Preproduction gap ledger (open tasks, not contradictory requirements)
 GAP-01 Exact world-scale map, distances, level geometry, and route intersections (Phase 2/3 layout).
