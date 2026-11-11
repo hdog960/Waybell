@@ -53,3 +53,8 @@ The existing cast images and shared-scale vectors serve as references; none have
 
 ## 6. Scope and provenance
 The Review 10 ZIP provides **newly normalized crops and QA**, not eight freshly created or improved painted poses. The current files cannot establish character rigging, animation, true 3D render quality, on-device FPS or contact/collision. **No Phase 2 work, game code, Codex, Work, Vercel or outside paid service.**
+
+## Review 11 addendum — new original Tavi eight-view vector, premium artwork still open
+An original eight-direction Tavi vector reference `design/phase1/tavi-physical-handedness-eight-view-v4.svg` has been committed to enforce a stable *physical* right-hand lantern and left-hip map satchel through front, back, diagonal, and profile orientations. It also carries consistent teal map-cloak, brass clasp/Wayline motif, brown tousled hair and boots.
+
+This is a **schematic art reference**, not the premium production-quality painted matched eight-angle sheet or actual rotating 3D model requested for G1. Attempts to generate high-quality new eight-direction/cast paintings returned noncanonical ornamental presentation boards with invented companion roles and fake commit/status labels; they were rejected. The supporting cast's production paintings remain incomplete. Full assessment: [Review 11](../../docs/20-PHASE-1-VISUAL-REVIEW-11.md).
