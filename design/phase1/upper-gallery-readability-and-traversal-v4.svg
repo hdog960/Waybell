@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Upper Spindle Galleries art composition and touchscreen readability plan</title>
+<desc id="desc">Editable Phase 1 architectural concept for the first-visit dormant Upper Galleries, with marked camera safe areas, logical path sequence, anchors and framing risks. Not engine geometry.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#153844"/><stop offset="1" stop-color="#233d4a"/></linearGradient><linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cfa673"/><stop offset="1" stop-color="#795a44"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<rect x="17" y="19" width="1566" height="862" rx="19" fill="none" stroke="#d9b67c" stroke-width="3"/>
+<text x="48" y="70" font-family="Georgia,serif" font-size="39" fill="#ffe3ad">ROOTBOUND MILL — UPPER SPINDLE GALLERIES</text>
+<text x="50" y="106" font-family="sans-serif" font-size="18" fill="#c8dfd9">PHASE 1 · Visual staging + anchor/camera QA · FIRST VISIT / DRY / ALL MACHINERY STOPPED</text>
+<!-- scene footprint -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M120 641L395 552L634 538L813 426L1138 393L1450 297" stroke="#473c30" stroke-width="84"/>
+<path d="M120 635L392 541L633 530L803 418L1141 384L1450 284" stroke="url(#wood)" stroke-width="60"/>
+<path d="M154 617L401 530L627 513L808 397L1135 363L1430 271" stroke="#f5daa2" stroke-width="5" stroke-dasharray="16 15"/>
+<path d="M145 660L443 567L646 563L849 461L1156 416L1483 318" stroke="#806348" stroke-width="14"/>
+<path d="M347 540L347 725M625 539L674 742M817 427L857 669M1150 398L1188 656" stroke="#7a5a3d" stroke-width="19"/>
+<path d="M227 645L328 757L469 769" stroke="#ab8a64" stroke-width="44"/>
+<path d="M228 635L324 739L465 750" stroke="#e0b87d" stroke-width="24"/>
+</g>
+<!-- central spindle/gear machinery -->
+<g transform="translate(930 592)">
+<ellipse rx="181" ry="78" fill="#0d2630" stroke="#c5a16f" stroke-width="23"/>
+<ellipse rx="121" ry="48" fill="#203b40" stroke="#846344" stroke-width="11"/>
+<rect x="-49" y="-275" width="98" height="305" rx="12" fill="#8a6848" stroke="#d1ad73" stroke-width="11"/>
+<circle cy="-180" r="37" fill="#ad824b" stroke="#f3ce88" stroke-width="8"/>
+<path d="M-43 -120H43M-42 -23H42" stroke="#d5b378" stroke-width="11"/>
+</g>
+<!-- three proposed anchors at current painting positions -->
+<g stroke="#eac67a" stroke-width="9" fill="none"><path d="M235 157V236M793 154V217M1510 148V223"/><circle cx="235" cy="264" r="27"/><circle cx="793" cy="244" r="27"/><circle cx="1510" cy="250" r="27"/></g>
+<g stroke="#62c5b6" fill="none" stroke-width="4"><circle cx="235" cy="264" r="10"/><circle cx="793" cy="244" r="10"/><circle cx="1510" cy="250" r="10"/></g>
+<!-- thumb zones -->
+<rect x="42" y="139" width="256" height="612" fill="#34708b" fill-opacity=".19" stroke="#77b6c2" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="1302" y="139" width="256" height="612" fill="#34708b" fill-opacity=".19" stroke="#77b6c2" stroke-width="2" stroke-dasharray="12 10"/>
+<text x="75" y="169" fill="#bce5e6" font-family="sans-serif" font-size="17">LEFT THUMB ~16%</text>
+<text x="1310" y="169" fill="#bce5e6" font-family="sans-serif" font-size="17">RIGHT THUMB ~16%</text>
+<!-- critical active player approx x205 in painting -->
+<path d="M224 543L252 485L278 543" fill="#1b7588" stroke="#f7d99d" stroke-width="7"/>
+<circle cx="251" cy="463" r="25" fill="#ecc399" stroke="#705b4d" stroke-width="4"/>
+<path d="M258 551L300 560" stroke="#e8c47e" stroke-width="13"/>
+<rect x="214" y="588" width="270" height="45" rx="11" fill="#713f3f" stroke="#e79b8c" stroke-width="3"/>
+<text x="224" y="617" fill="#fff0dc" font-family="sans-serif" font-size="15">Tavi overlaps left thumb area</text>
+<!-- numbered stations -->
+<g><circle cx="395" cy="562" r="27" fill="#ffe7ad" stroke="#91653b" stroke-width="5"/><text x="395" y="569" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="22" fill="#233d43">1</text></g><g><circle cx="618" cy="504" r="27" fill="#ffe7ad" stroke="#91653b" stroke-width="5"/><text x="618" y="511" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="22" fill="#233d43">2</text></g><g><circle cx="992" cy="393" r="27" fill="#ffe7ad" stroke="#91653b" stroke-width="5"/><text x="992" y="400" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="22" fill="#233d43">3</text></g><g><circle cx="1390" cy="308" r="27" fill="#ffe7ad" stroke="#91653b" stroke-width="5"/><text x="1390" y="315" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="22" fill="#233d43">4</text></g>
+<g><rect x="375" y="681" width="275" height="69" rx="12" fill="#173a45" stroke="#a6bec0" stroke-width="2"/><text x="387" y="707" font-size="18" font-family="sans-serif" fill="#ffe4a9">ENTRY / FIRST LANDING</text><text x="387" y="734" font-size="15" font-family="sans-serif" fill="#c6dcda">Recover from lower stairs</text></g>
+<g><rect x="709" y="708" width="310" height="69" rx="12" fill="#173a45" stroke="#a6bec0" stroke-width="2"/><text x="721" y="734" font-size="18" font-family="sans-serif" fill="#ffe4a9">CENTRAL SPINDLE</text><text x="721" y="761" font-size="15" font-family="sans-serif" fill="#c6dcda">Static, unpowered; no rotation</text></g>
+<g><rect x="1096" y="686" width="284" height="69" rx="12" fill="#173a45" stroke="#a6bec0" stroke-width="2"/><text x="1108" y="712" font-size="18" font-family="sans-serif" fill="#ffe4a9">FAR GALLERY</text><text x="1108" y="739" font-size="15" font-family="sans-serif" fill="#c6dcda">Goal / future return route</text></g>
+<g><rect x="640" y="130" width="340" height="69" rx="12" fill="#173a45" stroke="#a6bec0" stroke-width="2"/><text x="652" y="156" font-size="18" font-family="sans-serif" fill="#ffe4a9">ANCHOR B — IN FRAME</text><text x="652" y="183" font-size="15" font-family="sans-serif" fill="#c6dcda">Readable when approached</text></g>
+<path d="M251 462L380 445L421 415" fill="none" stroke="#ffbb85" stroke-width="4" stroke-dasharray="11 9"/>
+<path d="M1510 276L1432 410" fill="none" stroke="#ffbb85" stroke-width="4" stroke-dasharray="11 9"/>
+<text x="1065" y="463" fill="#ffcfaa" font-size="18" font-family="sans-serif">C: right-edge anchor at risk</text>
+<text x="52" y="821" fill="#f9e4b8" font-family="sans-serif" font-size="18">DESIGN CORRECTION: recenter player on traversal and reframe anchor interactions; do not put required target beneath thumb regions.</text>
+<text x="52" y="852" fill="#b9d1d1" font-family="sans-serif" font-size="16">Only schematic locations, NOT measured hitboxes, physics geometry or a tested camera. Actual thumb placement remains provisional.</text>
+</svg>
