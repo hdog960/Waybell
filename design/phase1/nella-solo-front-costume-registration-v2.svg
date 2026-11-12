@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1540" viewBox="0 0 1120 1540" role="img" aria-labelledby="title desc">
+<title id="title">Nella solo front design - copper hair, olive travel coat and mustard scarf</title>
+<desc id="desc">Original WAYBELL Phase 1 editable one-person illustrated costume-construction source following Review26's genuine standalone painted Nella FRONT candidate. Hair is copper-red tied up with wild tendrils; practical olive jacket, mustard scarf, rolled sleeves, simple leather utility bag, patched trousers and laced boots. No teal Wayline cape, Echo Lantern, magic class or companions. This schematic is not the premium painting, 3D model, game code or final owner G1 approval.</desc>
+<defs>
+<linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4e6c9"/><stop offset=".6" stop-color="#ecd4af"/><stop offset="1" stop-color="#d9be97"/></linearGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e68c48"/><stop offset=".44" stop-color="#b95731"/><stop offset="1" stop-color="#6e3829"/></linearGradient>
+<linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#778366"/><stop offset=".5" stop-color="#536247"/><stop offset="1" stop-color="#35493c"/></linearGradient>
+<linearGradient id="scarf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4ca72"/><stop offset=".5" stop-color="#df9e4b"/><stop offset="1" stop-color="#a06f35"/></linearGradient>
+<linearGradient id="leather" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ad7b52"/><stop offset=".55" stop-color="#805135"/><stop offset="1" stop-color="#55392b"/></linearGradient>
+<linearGradient id="linen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff2d4"/><stop offset="1" stop-color="#d7b58e"/></linearGradient>
+<radialGradient id="shadow"><stop stop-color="#5e5140" stop-opacity=".23"/><stop offset="1" stop-color="#5e5140" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1120" height="1540" fill="url(#paper)"/>
+<ellipse cx="564" cy="1423" rx="310" ry="57" fill="url(#shadow)"/>
+<!-- lively non-staff silhouette: legs and boots -->
+<path d="M435 973L416 1240L480 1268L535 998M553 1000L579 1260L653 1235L654 969" fill="#705742" stroke="#5e4634" stroke-width="15"/>
+<path d="M416 1128L509 1137L496 1235L405 1216ZM563 1134L666 1119L660 1214L577 1236Z" fill="#8d8560" stroke="#66624b" stroke-width="8"/>
+<path d="M419 1217L494 1223L492 1338Q441 1373 318 1336L370 1269Z" fill="url(#leather)" stroke="#614130" stroke-width="14"/>
+<path d="M584 1223L661 1208L709 1332Q630 1373 568 1340L564 1264Z" fill="url(#leather)" stroke="#614130" stroke-width="14"/>
+<path d="M373 1316L494 1337M579 1335L695 1316M407 1254L491 1281M575 1279L676 1253" fill="none" stroke="#d2a16c" stroke-width="9"/>
+<path d="M420 1313L483 1315M587 1314L666 1310" stroke="#593f2c" stroke-width="6"/>
+<!-- patched rugged trousers -->
+<path d="M432 766L515 763L539 1002L475 1036L407 989ZM548 764L660 776L675 990L585 1047L540 994Z" fill="#806345" stroke="#65513e" stroke-width="12"/>
+<path d="M447 890L508 893L492 960L435 947Z" fill="#9c8660" stroke="#d9b784" stroke-width="6"/>
+<path d="M605 930L663 916L661 978L595 984Z" fill="#a58d65" stroke="#d9b784" stroke-width="6"/>
+<path d="M455 896L483 948M493 901L450 948M601 939L658 974" stroke="#e2bc7f" stroke-width="5" fill="none" stroke-dasharray="9 7"/>
+<!-- linen torso, olive coat and upper torso -->
+<path d="M421 495Q551 455 659 510L687 784Q562 826 406 774Z" fill="url(#linen)" stroke="#ad8960" stroke-width="13"/>
+<path d="M415 495Q383 622 399 908L482 932L523 558L563 565L621 931L705 906Q701 632 659 496" fill="url(#coat)" stroke="#3c523e" stroke-width="14"/>
+<path d="M402 514Q436 540 503 569L492 893M659 518Q610 550 564 576L628 890" stroke="#d6bd82" stroke-width="8" fill="none"/>
+<path d="M407 896Q452 913 481 915M625 913Q673 917 702 885" stroke="#b6ae78" stroke-width="8" fill="none"/>
+<path d="M421 688Q542 710 660 678M424 760Q534 799 671 769" stroke="#c39661" stroke-width="6" fill="none"/>
+<!-- belt, brass and practical pouch -->
+<path d="M410 783H687" stroke="#5a3f30" stroke-width="26"/>
+<rect x="519" y="765" width="63" height="43" rx="6" fill="#d3a25c" stroke="#775032" stroke-width="8"/>
+<rect x="535" y="777" width="32" height="20" rx="4" fill="#835636"/>
+<path d="M598 550Q638 647 694 819" stroke="#6a4630" stroke-width="18" fill="none"/>
+<path d="M598 550Q638 647 694 819" stroke="#cc9966" stroke-width="4" fill="none"/>
+<g transform="translate(705 823)">
+<path d="M-59 -46H65L81 111Q-1 143 -75 110Z" fill="url(#leather)" stroke="#d7ac75" stroke-width="10"/>
+<path d="M-59 -12Q1 15 65 -10L62 30Q4 57 -66 31Z" fill="#a7714b" stroke="#704d34" stroke-width="5"/>
+<path d="M-30 -9V104M42 -12V103" stroke="#6e4a36" stroke-width="13"/>
+<rect x="-43" y="29" width="22" height="26" rx="3" fill="#d4a568" stroke="#69472f" stroke-width="3"/>
+<rect x="28" y="28" width="23" height="26" rx="3" fill="#d4a568" stroke="#69472f" stroke-width="3"/>
+</g>
+<!-- sleeves and hands inside coat -->
+<path d="M414 531Q336 661 318 904L300 1010" stroke="#e5b792" stroke-width="67" stroke-linecap="round" fill="none"/>
+<path d="M654 523Q751 674 768 907L783 994" stroke="#e2ae86" stroke-width="66" stroke-linecap="round" fill="none"/>
+<path d="M366 761L308 767L294 898L348 903Z" fill="url(#coat)" stroke="#526044" stroke-width="9"/>
+<path d="M727 757L790 774L787 904L737 893Z" fill="url(#coat)" stroke="#526044" stroke-width="9"/>
+<path d="M302 896L349 902L351 952L305 956ZM729 893L788 907L780 952L729 947Z" fill="url(#linen)" stroke="#ae8563" stroke-width="8"/>
+<path d="M302 954Q282 995 306 1013Q333 1025 353 988L348 952" fill="#e8bd99" stroke="#ad8060" stroke-width="8"/>
+<path d="M725 948Q710 1000 744 1016Q778 1025 790 987L784 948" fill="#e8b790" stroke="#ad8060" stroke-width="8"/>
+<!-- center waist sash adds motion, not a class token -->
+<path d="M493 781Q487 844 433 918L477 970Q538 871 556 805Z" fill="#b2583a" stroke="#a14b34" stroke-width="6"/>
+<path d="M517 810L458 938" stroke="#e1a072" stroke-width="7"/>
+<!-- neck, scarf -->
+<path d="M481 458L486 516L595 516L598 459" fill="#eac09c" stroke="#ac8062" stroke-width="9"/>
+<path d="M441 504Q529 468 647 522L627 587Q548 612 473 577Z" fill="url(#scarf)" stroke="#ac7139" stroke-width="11"/>
+<path d="M570 559L635 606L610 820Q570 788 541 702Z" fill="url(#scarf)" stroke="#af783f" stroke-width="8"/>
+<path d="M583 618L625 775M572 686L615 795" stroke="#f9d990" stroke-width="6" fill="none"/>
+<!-- face and enormous copper messy bun -->
+<ellipse cx="537" cy="354" rx="130" ry="153" fill="#edc19a" stroke="#ad8065" stroke-width="9"/>
+<path d="M420 373Q369 352 377 294Q346 255 388 224Q370 183 422 169Q425 120 477 143Q510 103 554 139Q599 97 630 146Q674 122 694 167Q739 175 715 225Q744 259 698 301L683 365Q643 320 643 277L608 251L567 261L521 242L475 265L429 267Z" fill="url(#hair)" stroke="#703c2e" stroke-width="11"/>
+<path d="M383 253Q344 231 371 189M426 165Q422 110 468 125M518 131Q529 89 577 110M618 144Q652 101 694 159M686 265Q737 249 721 298" stroke="#ce7540" stroke-width="22" stroke-linecap="round" fill="none"/>
+<path d="M402 302Q375 332 401 371M679 299Q720 319 687 389" stroke="#a85532" stroke-width="18" stroke-linecap="round" fill="none"/>
+<path d="M482 335Q513 314 531 337M561 337Q588 316 615 337" fill="none" stroke="#885741" stroke-width="7"/>
+<ellipse cx="508" cy="358" rx="11" ry="14" fill="#423329"/><ellipse cx="585" cy="357" rx="11" ry="14" fill="#423329"/>
+<circle cx="505" cy="355" r="3" fill="#f8edce"/><circle cx="583" cy="352" r="3" fill="#f8edce"/>
+<path d="M536 377L527 409L544 413" stroke="#bc8872" stroke-width="6" fill="none"/>
+<path d="M501 451Q545 473 584 443" stroke="#9f6050" stroke-width="6" fill="none" stroke-linecap="round"/>
+<g fill="#b67961"><circle cx="481" cy="415" r="4"/><circle cx="493" cy="423" r="4"/><circle cx="505" cy="415" r="4"/><circle cx="586" cy="415" r="4"/><circle cx="602" cy="424" r="4"/><circle cx="614" cy="413" r="4"/></g>
+<!-- front bun ribbon and lively loose forelock -->
+<path d="M648 221Q712 184 733 219L687 253Q729 270 713 304L662 272Z" fill="#a0a276" stroke="#596d4c" stroke-width="7"/>
+<path d="M451 238Q420 300 435 348M670 234Q687 303 665 349" stroke="#c86e42" stroke-width="14" fill="none" stroke-linecap="round"/>
+</svg>
