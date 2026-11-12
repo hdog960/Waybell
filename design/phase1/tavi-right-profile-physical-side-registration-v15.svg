@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1690" height="1080" viewBox="0 0 1690 1080" role="img" aria-labelledby="title desc">
+<title id="title">Tavi RIGHT profile physical equipment, cloak and lantern art construction v15</title>
+<desc id="desc">Original WAYBELL Phase 1 editable vector source illustrating a right-facing single person with near right hand holding amber lantern and far physical-left map satchel mostly obscured. Provides a continuity correction reference for the new standalone Review23 painting. Does not replace any premium painting, 3D rig or G1 approval.</desc>
+<defs>
+<linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f7e8c8"/><stop offset="1" stop-color="#ddc29e"/></linearGradient>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#132f3d"/><stop offset="1" stop-color="#274653"/></linearGradient>
+<linearGradient id="cloak" x2="1" y2="1"><stop stop-color="#2c8992"/><stop offset=".53" stop-color="#175c72"/><stop offset="1" stop-color="#113b55"/></linearGradient>
+<linearGradient id="leather" x2="1" y2="1"><stop stop-color="#b37b51"/><stop offset="1" stop-color="#62422e"/></linearGradient>
+<linearGradient id="brass" x2=".7" y2="1"><stop stop-color="#fbe6a9"/><stop offset=".55" stop-color="#d2a05b"/><stop offset="1" stop-color="#936033"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ffe3a4" stop-opacity=".85"/><stop offset=".5" stop-color="#ffc672" stop-opacity=".28"/><stop offset="1" stop-color="#ffae46" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1690" height="1080" fill="url(#bg)"/>
+<rect x="18" y="18" width="1654" height="1044" rx="22" fill="none" stroke="#d3ad73" stroke-width="3"/>
+<text x="43" y="69" fill="#ffe4b0" font-family="Georgia,serif" font-size="41">TAVI • RIGHT PROFILE / PHYSICAL-SIDE CORRECTION</text>
+<text x="45" y="109" fill="#b8d4d0" font-family="sans-serif" font-size="19">Review 23 source art v15 • youthful face + stable two-buckle bag / single lantern / gold-map topology</text>
+<rect x="39" y="142" width="1040" height="843" rx="16" fill="url(#paper)" stroke="#e1b780" stroke-width="4"/>
+<!-- original single front-right? strict right profile -->
+<g transform="translate(544 846)">
+<ellipse cx="0" cy="109" rx="180" ry="24" fill="#9d8b72" opacity=".25"/>
+<path d="M-54 -165L-49 21L1 26L13 -164M18 -165L43 22L97 20L66 -178" fill="#5e5045" stroke="#453d35" stroke-width="12"/>
+<path d="M-50 17L-58 93L26 113L39 95L1 23M42 18L36 106L125 105L104 35" fill="url(#leather)" stroke="#66432c" stroke-width="9"/>
+<path d="M-55 54H7M-53 78H14M40 58H103M40 83H114" stroke="#e3b36b" stroke-width="7"/>
+<path d="M-94 -390Q-11 -421 94 -382L108 -174L-101 -178Z" fill="#e6c7a5" stroke="#9e765a" stroke-width="11"/>
+<path d="M-76 -384L69 -384L103 -192L-55 -186Z" fill="url(#leather)" stroke="#684a37" stroke-width="10"/>
+<path d="M-48 -331L93 -270M-40 -267L103 -232" stroke="#d4a571" stroke-width="5"/>
+<path d="M-77 -386Q-128 -303 -150 -160L-171 83L-76 151L82 120L129 -59L100 -393Z" fill="url(#cloak)" stroke="#f4c782" stroke-width="12"/>
+<path d="M-102 -355Q-156 -227 -166 70M102 -363Q141 -218 111 -76M-156 82Q-87 119 -77 139L78 104" fill="none" stroke="#e8bc71" stroke-width="7"/>
+<path d="M-106 -237Q-48 -167 -121 -90Q-158 -12 -20 41M60 -230Q27 -158 92 -100" stroke="#dfb169" stroke-width="7" fill="none"/>
+<!-- rear cape compass must remain on dorsal LEFT of image -->
+<g transform="translate(-107 -7)">
+<circle r="78" fill="#14506a" fill-opacity=".48" stroke="#edc37e" stroke-width="5"/>
+<path d="M0 0L77.0 0.0" stroke="#f8d18d" stroke-width="7" stroke-linecap="round"/><path d="M0 0L54.4 54.4" stroke="#c99c5c" stroke-width="5" stroke-linecap="round"/><path d="M0 0L0.0 77.0" stroke="#f8d18d" stroke-width="7" stroke-linecap="round"/><path d="M0 0L-54.4 54.4" stroke="#c99c5c" stroke-width="5" stroke-linecap="round"/><path d="M0 0L-77.0 0.0" stroke="#f8d18d" stroke-width="7" stroke-linecap="round"/><path d="M0 0L-54.4 -54.4" stroke="#c99c5c" stroke-width="5" stroke-linecap="round"/><path d="M0 0L-0.0 -77.0" stroke="#f8d18d" stroke-width="7" stroke-linecap="round"/><path d="M0 0L54.4 -54.4" stroke="#c99c5c" stroke-width="5" stroke-linecap="round"/><circle r="21" fill="url(#brass)" stroke="#815631" stroke-width="5"/>
+</g>
+<!-- bag physically left far side, partly seen at back contour only -->
+<path d="M-76 -361Q-117 -240 -129 -128" fill="none" stroke="#70503b" stroke-width="18"/>
+<path d="M-156 -109L-104 -106L-104 30L-158 25Z" fill="url(#leather)" stroke="#d8ab73" stroke-width="7"/>
+<path d="M-156 -85L-101 -82" stroke="#e5b979" stroke-width="6"/>
+<rect x="-140" y="-66" width="21" height="20" fill="url(#brass)" stroke="#835b34" stroke-width="3"/>
+<rect x="-138" y="-34" width="21" height="19" fill="url(#brass)" stroke="#835b34" stroke-width="3"/>
+<!-- collar and young RIGHT profile -->
+<path d="M-91 -390Q-59 -452 33 -464L100 -382Q67 -322 -42 -335Z" fill="#1d5a6e" stroke="#e5b57a" stroke-width="9"/>
+<path d="M3 -467L4 -515L62 -509L67 -457" fill="#e9be95" stroke="#a57755" stroke-width="7"/>
+<path d="M4 -546Q-1 -617 65 -632Q149 -635 167 -559Q162 -535 170 -526L185 -515L154 -502Q139 -467 111 -459L68 -479Z" fill="#edc29a" stroke="#9e7258" stroke-width="7"/>
+<path d="M5 -546Q-30 -609 31 -640Q54 -673 102 -652Q160 -655 175 -602L137 -594L141 -563L107 -590L58 -567L19 -567Z" fill="#5b3b2c" stroke="#372a24" stroke-width="9"/>
+<path d="M22 -612Q29 -658 75 -649M84 -645Q112 -681 149 -647" fill="none" stroke="#84543c" stroke-width="17" stroke-linecap="round"/>
+<circle cx="139" cy="-540" r="4" fill="#3e3027"/>
+<path d="M150 -486Q161 -479 170 -491" fill="none" stroke="#9d6c58" stroke-width="4"/>
+<!-- near physical-right arm in foreground and lantern -->
+<path d="M92 -380Q144 -275 146 -129L160 -75" fill="none" stroke="#e5b991" stroke-width="42" stroke-linecap="round"/>
+<path d="M119 -202L172 -203L188 -111L140 -108Z" fill="url(#leather)" stroke="#6e4a33" stroke-width="9"/>
+<path d="M142 -165L178 -163M148 -139L186 -136" stroke="#dfad6d" stroke-width="5"/>
+<path d="M161 -76Q145 -54 159 -34Q183 -21 197 -42L194 -76" fill="#e1b18c" stroke="#9e7151" stroke-width="5"/>
+<g transform="translate(176 0)">
+<ellipse cx="0" cy="40" rx="135" ry="148" fill="url(#glow)"/>
+<path d="M-30 -10Q-27 -58 0 -59Q29 -56 32 -10" fill="none" stroke="#ad8049" stroke-width="10"/>
+<path d="M-51 -1H51L41 120H-44Z" fill="url(#brass)" stroke="#8c5a2e" stroke-width="10"/>
+<rect x="-31" y="12" width="62" height="93" rx="7" fill="#fff0b2" stroke="#e1b669" stroke-width="5"/>
+<path d="M0 11V108M-32 58H32" stroke="#ad824b" stroke-width="6"/>
+</g>
+<!-- brass collar clasp -->
+<circle cx="90" cy="-378" r="21" fill="url(#brass)" stroke="#79512e" stroke-width="6"/>
+<path d="M90 -395V-361M73 -378H107M78 -391L102 -365M78 -365L102 -391" stroke="#714728" stroke-width="4"/>
+</g>
+<rect x="1107" y="142" width="542" height="843" rx="16" fill="#173945" stroke="#9eafaa" stroke-width="3"/>
+<text x="1135" y="191" fill="#ffe3b2" font-size="27" font-family="Georgia,serif">INVARIANTS</text>
+<g fill="#cce3da" font-family="sans-serif" font-size="18">
+<text x="1136" y="245">RIGHT-facing profile, one young Tavi</text>
+<text x="1136" y="291">Near hand: physical RIGHT, one lantern</text>
+<text x="1136" y="337">Far LEFT-hip satchel partly obscured</text>
+<text x="1136" y="383">Exactly two satchel buckles</text>
+<text x="1136" y="429">Single brass compass clasp</text>
+<text x="1136" y="475">Rear eight-point gold route compass</text>
+<text x="1136" y="521">Same unequal cape hem and boot family</text>
+</g>
+<path d="M1135 568H1611" stroke="#92a9a8" stroke-width="2" stroke-dasharray="8 8"/>
+<text x="1135" y="618" fill="#e8c994" font-family="Georgia,serif" font-size="23">CURRENT NEW PAINTING</text>
+<g fill="#d7e1d3" font-family="sans-serif" font-size="17">
+<text x="1137" y="658">One 1024×1536 standalone candidate</text>
+<text x="1137" y="693">RIGHT hand and lantern readable</text>
+<text x="1137" y="728">Far LEFT bag is overly exposed</text>
+<text x="1137" y="763">Hair/face and gold motif still drift</text>
+<text x="1137" y="798">Other 7 original views unchanged</text>
+</g>
+<rect x="1132" y="836" width="484" height="106" rx="10" fill="#102e3a" stroke="#90a6a7" stroke-width="2"/>
+<text x="1146" y="873" fill="#f7d4a2" font-family="sans-serif" font-size="17">Schematic source art, NOT premium</text>
+<text x="1146" y="899" fill="#d3dfd8" font-family="sans-serif" font-size="17">painting / 3D rig / iPhone proof.</text>
+<text x="1146" y="924" fill="#d3dfd8" font-family="sans-serif" font-size="17">G1 pending • Phase 2 locked.</text>
+<text x="44" y="1036" fill="#c6dad4" font-size="17" font-family="sans-serif">Original editorial vector source • no gameplay code, modeling, PWA, Codex/Work/Vercel or external paid services</text>
+</svg>
