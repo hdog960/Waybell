@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1850" height="1200" viewBox="0 0 1850 1200" role="img" aria-labelledby="title description">
+<title id="title">Orin one garment and equipment target: original illustrated material master v4</title>
+<desc id="description">Original editable Phase 1 visual art illustrating a single proposed, FRONT-led Orin outfit for later genuine standalone painterly production. Four handcrafted enlarged art objects: broad moss-teal mountain route embroidered shoulder mantle with one eight-point compass pin, two buckle left-hip surveyor satchel with exactly two parchment rolls, right-hand plain wooden brass-capped measuring staff, and one pair of high-laced travel boots. Provisional decisions: no eyeglasses in base depiction, two chart rolls, actual equipment ownership specified. Not a new native premium painting, character turnaround, 3D sprite or owner G1 approval. Phase 2 game code remains locked.</desc>
+<defs>
+<linearGradient id="night" x2="1" y2="1"><stop stop-color="#183645"/><stop offset="1" stop-color="#314b4c"/></linearGradient>
+<linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f7ead0"/><stop offset="1" stop-color="#dfc39d"/></linearGradient>
+<linearGradient id="teal" x2="1" y2="1"><stop stop-color="#5c8880"/><stop offset=".5" stop-color="#315f5e"/><stop offset="1" stop-color="#173f4a"/></linearGradient>
+<linearGradient id="hide" x2="1" y2="1"><stop stop-color="#c0925e"/><stop offset=".55" stop-color="#926342"/><stop offset="1" stop-color="#503a2d"/></linearGradient>
+<linearGradient id="bronze" x2="1" y2="1"><stop stop-color="#f7e9b5"/><stop offset=".55" stop-color="#d4a45e"/><stop offset="1" stop-color="#8f6335"/></linearGradient>
+<linearGradient id="wood" x2="1" y2="1"><stop stop-color="#8d5d3c"/><stop offset=".5" stop-color="#5b412d"/><stop offset="1" stop-color="#bd8c54"/></linearGradient>
+<linearGradient id="linen" x2="1" y2="1"><stop stop-color="#fdf0d4"/><stop offset="1" stop-color="#d3b590"/></linearGradient>
+<pattern id="stitch" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M0 0l7 7M15 15l7 7" stroke="#e4bb7f" stroke-width="2" opacity=".45"/></pattern>
+</defs>
+<rect width="1850" height="1200" fill="url(#night)"/>
+<rect x="18" y="18" width="1814" height="1164" rx="22" fill="none" stroke="#d4b480" stroke-width="3"/>
+<text x="54" y="70" font-family="Georgia,serif" font-size="42" fill="#ffe2ad">ORIN — ONE WARDROBE / EQUIPMENT MASTER v4</text>
+<text x="55" y="108" font-family="sans-serif" font-size="19" fill="#d1dcd2">FRONT-led provisional direction, painted originals preserved • individual illustrated garments, NOT another premium portrait</text>
+<!-- THE LARGE ENLARGED MANTLE -->
+<rect x="44" y="142" width="850" height="510" rx="17" fill="url(#paper)" stroke="#b99a6a" stroke-width="3"/>
+<text x="68" y="191" font-family="Georgia,serif" font-size="30" fill="#23434a">01 / BROAD CARTOGRAPHER MANTLE</text>
+<path d="M190 309Q317 216 468 274Q634 227 757 324L826 541Q740 618 594 591L470 636L352 586L223 616L104 528Z" fill="url(#teal)" stroke="#d2b279" stroke-width="14"/>
+<path d="M191 309Q299 363 411 334Q553 297 754 326M132 528Q248 601 350 552M595 564Q699 603 805 544" stroke="#e2c38b" stroke-width="7" fill="none"/>
+<path d="M222 415Q280 463 342 423Q405 367 476 415Q561 469 625 406Q696 366 760 446" stroke="#e5be7b" stroke-width="7" fill="none"/>
+<path d="M293 465Q353 493 400 466Q447 433 476 477Q506 520 583 490Q632 469 701 491" stroke="#f1d69a" stroke-width="5" fill="none" stroke-dasharray="8 7"/>
+<path d="M241 377L280 345L310 381L356 343L402 367L449 340L500 382L548 335L602 357L651 335L714 392" stroke="#d5b57d" stroke-width="5" fill="none"/>
+<path d="M218 313Q248 365 236 431M727 342Q708 414 774 493" stroke="#f0ca8c" stroke-width="4" fill="none"/>
+<path d="M165 533Q310 606 475 572Q661 609 781 538" stroke="#f7d391" stroke-width="5" fill="none" stroke-dasharray="12 10"/>
+<g transform="translate(465 337)">
+<circle r="50" fill="url(#bronze)" stroke="#6f5334" stroke-width="8"/>
+<circle r="38" fill="none" stroke="#8d6637" stroke-width="4"/>
+<path d="M0 -42L12 -11L42 0L12 11L0 42L-12 11L-42 0L-12 -11Z" fill="#b77c44" stroke="#7e5532" stroke-width="4"/>
+<path d="M-29 -29L29 29M29 -29L-29 29" stroke="#987042" stroke-width="4"/>
+<circle r="8" fill="#fae4ac"/>
+</g>
+<text x="68" y="618" font-family="sans-serif" font-size="17" fill="#66513d">Source-informed: ONE full teal/moss shawl, ONE clasp, ONE mountain-road embroidery topology</text>
+<!-- LARGE LEFT HIP SATCHEL -->
+<rect x="918" y="142" width="886" height="510" rx="17" fill="url(#paper)" stroke="#b99a6a" stroke-width="3"/>
+<text x="945" y="191" font-family="Georgia,serif" font-size="30" fill="#23434a">02 / PHYSICAL-LEFT MAP SATCHEL</text>
+<g transform="translate(1350 405)">
+<path d="M-175 -108Q-207 -177 -154 -203L-117 -147M69 -129Q94 -214 128 -188L122 -131" stroke="#dfc194" stroke-width="35" stroke-linecap="round" fill="none"/>
+<path d="M-174 -103V-271M-101 -111L-113 -287" stroke="#b8a07c" stroke-width="27" stroke-linecap="round"/>
+<path d="M-167 -265Q-170 -297 -148 -291Q-124 -274 -135 -256M-109 -282Q-119 -301 -100 -302Q-75 -297 -84 -278" fill="#f5e4bb" stroke="#96795c" stroke-width="6"/>
+<path d="M-229 -79Q-54 -139 183 -72L218 151Q51 227 -220 158Z" fill="url(#hide)" stroke="#765038" stroke-width="13"/>
+<path d="M-223 -30Q-36 16 183 -32L196 62Q0 106 -219 54Z" fill="#bd8a5a" stroke="#684734" stroke-width="7"/>
+<path d="M-137 -30L-140 165M99 -29L101 173" stroke="#613f30" stroke-width="25"/>
+<rect x="-164" y="64" width="50" height="55" rx="6" fill="url(#bronze)" stroke="#7f5737" stroke-width="8"/>
+<rect x="73" y="63" width="50" height="55" rx="6" fill="url(#bronze)" stroke="#7f5737" stroke-width="8"/>
+<path d="M-128 84V112M110 86V110" stroke="#754b33" stroke-width="7"/>
+<path d="M-214 160Q21 197 208 151" stroke="#d8a96c" stroke-width="6" fill="none"/>
+<path d="M-182 -71L-150 -206M153 -82L114 -199" stroke="#593f31" stroke-width="11"/>
+</g>
+<text x="942" y="618" font-family="sans-serif" font-size="17" fill="#66513d">ONE leather bag, exactly TWO buckle closures, TWO rolled charts; same side in every view</text>
+<!-- SURVEY STAFF -->
+<rect x="44" y="672" width="850" height="432" rx="17" fill="url(#paper)" stroke="#b99a6a" stroke-width="3"/>
+<text x="68" y="720" font-family="Georgia,serif" font-size="29" fill="#23434a">03 / ORDINARY RIGHT-HAND SURVEY ROD</text>
+<g transform="translate(220 748)">
+<path d="M0 0L0 312" stroke="url(#wood)" stroke-width="37" stroke-linecap="round"/>
+<path d="M-21 -8H21M-19 298H19" stroke="url(#bronze)" stroke-width="22"/>
+<path d="M-18 71H18M-17 164H17M-18 251H18" stroke="#e4be83" stroke-width="12"/>
+<path d="M-12 17Q3 79 -4 140Q6 220 -10 282" stroke="#e6bc7e" stroke-width="5" fill="none"/>
+</g>
+<path d="M335 787Q407 767 470 823L565 922Q532 986 464 988L377 926Z" fill="#e7bd96" stroke="#a47658" stroke-width="10"/>
+<path d="M375 811L474 877M397 852L489 925" stroke="#be9072" stroke-width="8"/>
+<path d="M573 916L629 921M571 940L640 944" stroke="#94623b" stroke-width="9"/>
+<text x="355" y="1046" font-family="sans-serif" font-size="18" fill="#66513d">Unenchanted hardwood, three simple brass measurement rings, one handle</text>
+<!-- BOOTS AND PROVISIONAL ART LOCK -->
+<rect x="918" y="672" width="886" height="432" rx="17" fill="url(#paper)" stroke="#b99a6a" stroke-width="3"/>
+<text x="945" y="720" font-family="Georgia,serif" font-size="29" fill="#23434a">04 / BOOT FAMILY &amp; VISUAL POLICY</text>
+<g transform="translate(1000 823)">
+<path d="M44 -67L157 -70L170 63L260 81L283 166Q139 197 6 167L11 66Z" fill="url(#hide)" stroke="#654431" stroke-width="11"/>
+<path d="M17 152Q154 170 281 154M19 106L153 103M33 31L161 29M46 -26L152 -26" stroke="#d5a870" stroke-width="9"/>
+<path d="M69 -42L128 49M124 -40L69 47" stroke="#efc68e" stroke-width="7"/>
+<rect x="64" y="82" width="33" height="25" fill="url(#bronze)" stroke="#815b34" stroke-width="4"/>
+</g>
+<g font-family="sans-serif" font-size="19" fill="#66513d">
+<text x="1320" y="813">PROVISIONAL ORIN BASE:</text>
+<text x="1320" y="851">Bare-eyed as original FRONT</text>
+<text x="1320" y="889">Broad moss/teal road-map mantle</text>
+<text x="1320" y="927">Bag LEFT; measuring rod RIGHT</text>
+<text x="1320" y="965">Two scrolls; one boot sole family</text>
+<text x="1320" y="1014">Do not treat as a finalized 3D rig</text>
+</g>
+<text x="54" y="1150" font-family="sans-serif" font-size="18" fill="#b6cec7">Original 2D material illustrations • genuine premium FRONT/RIGHT PNGs unchanged • G1 owner approval PENDING • Phase 2/game code LOCKED</text>
+</svg>
