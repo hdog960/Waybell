@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="1510" viewBox="0 0 1060 1510" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL — Nella alone, original full-body front costume construction study</title>
+<desc id="desc">One original standalone full-length human Nella front-view vector drawing in practical olive travel clothing and copper-red tied hair, grounded boots and light satchel. Early Phase 1 costume construction, NOT a premium painterly Nella master or player-party role, game sprite, or owner G1 approval.</desc>
+<defs>
+<linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8eacf"/><stop offset=".55" stop-color="#e7d2b2"/><stop offset="1" stop-color="#d9bd9a"/></linearGradient>
+<linearGradient id="coat" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#8d9971"/><stop offset=".53" stop-color="#626d4d"/><stop offset="1" stop-color="#394b3d"/></linearGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#df8851"/><stop offset=".55" stop-color="#a94e30"/><stop offset="1" stop-color="#683a2b"/></linearGradient>
+<linearGradient id="leather" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b28155"/><stop offset="1" stop-color="#604531"/></linearGradient>
+<linearGradient id="shirt" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#f7e9cc"/><stop offset="1" stop-color="#dcb88e"/></linearGradient>
+<linearGradient id="scarf" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#edbc68"/><stop offset="1" stop-color="#bf8341"/></linearGradient>
+<radialGradient id="ground"><stop stop-color="#8e7a5d" stop-opacity=".3"/><stop offset="1" stop-color="#8e7a5d" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1060" height="1510" fill="url(#paper)"/>
+<ellipse cx="539" cy="1374" rx="290" ry="63" fill="url(#ground)"/>
+<!-- backpack visible either side, functional not heroic -->
+<path d="M350 540Q302 550 313 804L336 951L439 937L425 555Z" fill="url(#leather)" stroke="#664632" stroke-width="13"/>
+<path d="M687 543Q756 552 753 824L729 945L652 915L655 579Z" fill="url(#leather)" stroke="#79553b" stroke-width="12"/>
+<path d="M331 688L405 691M661 707L743 708" fill="none" stroke="#cf9f69" stroke-width="10"/>
+<!-- leg and boots -->
+<path d="M434 955L411 1222L475 1278L519 991L563 997L579 1259L653 1232L643 949Z" fill="#82705a" stroke="#695c49" stroke-width="18"/>
+<path d="M404 1120L491 1140L477 1217L398 1200ZM558 1137L644 1113L648 1196L573 1211Z" fill="#a6a17b" stroke="#626952" stroke-width="7"/>
+<path d="M413 1200L477 1209L485 1345Q401 1367 337 1321L376 1258Z" fill="url(#leather)" stroke="#65452d" stroke-width="12"/>
+<path d="M574 1207L651 1193L691 1320Q621 1369 554 1344L554 1259Z" fill="url(#leather)" stroke="#65452d" stroke-width="12"/>
+<path d="M377 1288L482 1317M571 1312L674 1281M411 1246L479 1265M575 1268L655 1241" stroke="#cfa474" stroke-width="8"/>
+<path d="M383 1334Q430 1348 491 1340M558 1341Q629 1354 682 1330" stroke="#513c31" stroke-width="9"/>
+<!-- original body blouse and olive coat -->
+<path d="M417 518Q508 480 638 516L666 982Q571 1035 420 984Z" fill="url(#shirt)" stroke="#ad8564" stroke-width="12"/>
+<path d="M410 520Q371 683 396 970L492 997L514 596L553 1003L655 979Q687 672 632 508" fill="url(#coat)" stroke="#364c3b" stroke-width="12"/>
+<path d="M407 537Q465 562 504 624L493 966M639 541Q576 571 553 625L559 963" fill="none" stroke="#c5bb83" stroke-width="7"/>
+<path d="M390 940Q432 957 485 966M561 966Q628 955 659 932" stroke="#c3bb7f" stroke-width="8" fill="none"/>
+<path d="M488 616L563 615L548 930L502 935Z" fill="#92714f" stroke="#7e5b3d" stroke-width="7"/>
+<path d="M409 800H662" stroke="#684b37" stroke-width="28" fill="none"/>
+<rect x="509" y="785" width="56" height="35" rx="5" fill="#b68b53" stroke="#63442e" stroke-width="8"/>
+<rect x="522" y="794" width="28" height="18" fill="#e4bd78"/>
+<!-- compact ordinary pouch on hip -->
+<path d="M631 799L729 804L740 951L631 957Z" fill="url(#leather)" stroke="#79543a" stroke-width="9"/>
+<path d="M642 833L721 837M662 861H694" stroke="#d7af7b" stroke-width="8"/>
+<rect x="669" y="855" width="19" height="22" rx="2" fill="#d3a365"/>
+<!-- arms with practical cuffs -->
+<path d="M421 535Q337 685 317 872L302 933" stroke="#e9b992" stroke-width="61" stroke-linecap="round" fill="none"/>
+<path d="M632 527Q734 690 748 869L754 936" stroke="#e6b48c" stroke-width="59" stroke-linecap="round" fill="none"/>
+<path d="M350 777L299 785L293 843L343 846M719 775L773 782L786 849L731 850" fill="url(#shirt)" stroke="#b78b65" stroke-width="8"/>
+<path d="M302 927Q286 970 300 992Q328 1018 355 984L348 931M725 931Q707 974 735 998Q763 1010 783 978L775 925" fill="#e5b48b" stroke="#a97656" stroke-width="7"/>
+<!-- jaunty yellow scarf, human neck -->
+<path d="M483 467L485 528L567 527L562 465" fill="#e8b995" stroke="#a67b5d" stroke-width="9"/>
+<path d="M415 523Q506 482 642 530L622 593Q563 630 486 593L445 572Z" fill="url(#scarf)" stroke="#bc8246" stroke-width="11"/>
+<path d="M586 580L631 607L615 779Q577 760 551 710Z" fill="url(#scarf)" stroke="#ac783d" stroke-width="8"/>
+<path d="M604 675L617 745M592 703L618 767" stroke="#f5d094" stroke-width="5"/>
+<!-- head: singular Nella, soft round human features -->
+<ellipse cx="522" cy="356" rx="132" ry="152" fill="#edbd97" stroke="#ab7859" stroke-width="10"/>
+<!-- copper-red curls and scarf tied bun -->
+<path d="M391 371Q354 321 373 260Q380 212 424 199Q430 157 491 163Q532 122 580 168Q642 160 665 224Q693 252 675 321L657 372Q625 317 623 270Q600 238 563 238Q506 265 465 236Q423 263 408 317Z" fill="url(#hair)" stroke="#694032" stroke-width="11"/>
+<path d="M384 273Q351 250 361 212Q387 174 420 201M606 180Q655 148 678 195Q702 238 669 274" fill="none" stroke="#ae5b36" stroke-width="24" stroke-linecap="round"/>
+<path d="M401 249Q389 207 431 195M475 182Q487 144 532 155M588 166Q611 134 644 164" fill="none" stroke="#d79055" stroke-width="20" stroke-linecap="round"/>
+<ellipse cx="400" cy="352" rx="28" ry="43" fill="#c67042"/><ellipse cx="658" cy="350" rx="24" ry="41" fill="#b95f3b"/>
+<path d="M610 219Q678 212 698 278Q712 328 667 370" fill="none" stroke="#c76e42" stroke-width="18"/>
+<path d="M474 341Q497 323 512 336M551 333Q573 320 597 339" stroke="#8d553c" stroke-width="7" fill="none" stroke-linecap="round"/>
+<ellipse cx="491" cy="359" rx="11" ry="13" fill="#42382b"/><ellipse cx="572" cy="359" rx="11" ry="13" fill="#42382b"/>
+<circle cx="488" cy="356" r="3" fill="#fff3d4"/><circle cx="570" cy="356" r="3" fill="#fff3d4"/>
+<path d="M520 383L510 405L532 411" fill="none" stroke="#bf896f" stroke-width="6"/>
+<path d="M488 444Q523 474 564 442" fill="none" stroke="#965c4b" stroke-width="7" stroke-linecap="round"/>
+<g fill="#b1775e"><circle cx="465" cy="408" r="4"/><circle cx="478" cy="418" r="4"/><circle cx="491" cy="412" r="4"/><circle cx="557" cy="414" r="4"/><circle cx="575" cy="410" r="4"/><circle cx="585" cy="418" r="4"/></g>
+<!-- small tied ribbon, not a magic item -->
+<path d="M635 225Q705 185 735 221Q713 258 664 255Q702 279 694 310Q641 287 627 254Z" fill="#e3b85f" stroke="#ac773b" stroke-width="9"/>
+</svg>
