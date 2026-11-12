@@ -1,0 +1,147 @@
+{
+  "schema": "WAYBELL/phase1/orin-front-manual-alpha-correction-v2",
+  "review": 33,
+  "purpose": "Original artist-selected negative/ground region for genuine Orin FRONT source matte. NOT game code, new painting, approved sprite or physical iPhone test.",
+  "source": {
+    "file": "19_NEW_ORIN_FRONT_INDEPENDENT.png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "6dc40ca712ff17b2758d809416e55267954a76b07e05b8ddbc77c49071867fa4"
+  },
+  "prior_alpha": {
+    "file": "31_ORIN_FRONT_RESEARCH_ALPHA.png",
+    "sha256": "2a579a2799b450c1c0224f5155e83819fa6a437cfc88baa5ba556aea96510481"
+  },
+  "revised_alpha_sha256": "68a9791ab67977f4da16321b9d5f5279b2c103e53c2275f60eabbb82f62fff6b",
+  "foreground_negative_polygon": [
+    [
+      451,
+      1148
+    ],
+    [
+      472,
+      1152
+    ],
+    [
+      492,
+      1154
+    ],
+    [
+      524,
+      1150
+    ],
+    [
+      538,
+      1164
+    ],
+    [
+      527,
+      1218
+    ],
+    [
+      527,
+      1266
+    ],
+    [
+      526,
+      1327
+    ],
+    [
+      535,
+      1378
+    ],
+    [
+      545,
+      1431
+    ],
+    [
+      549,
+      1496
+    ],
+    [
+      449,
+      1496
+    ],
+    [
+      445,
+      1440
+    ],
+    [
+      449,
+      1377
+    ],
+    [
+      447,
+      1315
+    ],
+    [
+      445,
+      1260
+    ],
+    [
+      449,
+      1190
+    ]
+  ],
+  "negative_blur_kernel": [
+    11,
+    11
+  ],
+  "negative_blur_sigma": 2,
+  "lower_floor_color_guard": {
+    "red_threshold": 214,
+    "red_divisor": 24,
+    "green_threshold": 133,
+    "green_divisor": 35,
+    "blue_threshold": 62,
+    "blue_divisor": 36,
+    "min_y": 1070,
+    "ramp_pixels": 70,
+    "max_background_reduction": 0.95
+  },
+  "shadow_remove": {
+    "start_y": 1490,
+    "finish_y": 1512,
+    "fade_pixels": 22
+  },
+  "boot_staff_shadow_exclusion": {
+    "start_y": 1405,
+    "fade_pixels": 28,
+    "allowed_horizontal_bands": [
+      [
+        217,
+        268
+      ],
+      [
+        284,
+        455
+      ],
+      [
+        540,
+        708
+      ]
+    ],
+    "band_blur_kernel": [
+      19,
+      1
+    ],
+    "band_blur_sigma": 5
+  },
+  "metrics": {
+    "prior_foreground_fraction_at_alpha_gt127": 0.4288,
+    "new_foreground_fraction_at_alpha_gt127": 0.3872,
+    "changed_alpha_pixels": 73164
+  },
+  "qa": {
+    "21_previous_real_paintings_byte_identical": true,
+    "figure_study_pixels": [
+      874,
+      492
+    ],
+    "original_rgb_unchanged": true,
+    "transparent_production_sprite": "FAIL",
+    "owner_G1": "PENDING",
+    "phase2_game_code": "LOCKED"
+  },
+  "note": "Manual ground gap removal improves transparency between legs but floor strip and fine hair edge contamination remain. The changed alpha is an unapproved technical derivative, not a new full-body painterly character master."
+}
