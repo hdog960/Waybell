@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536" role="img" aria-labelledby="title description">
+<title id="title">Seren Vale RIGHT — original individual Bellkeeper costume construction v1</title>
+<desc id="description">A separate original editable right-facing profile of the human last High Bellkeeper Seren Vale. Dark chestnut pinned bun, navy bellkeeper mantle with restrained gold roads and a small bell brooch, structured cream collar and layered dress, ordinary brass bell tokens and near physical-right leather utility bag. Premium art direction only; not a full-resolution painterly master, game asset, 3D rig, completion status or final G1 approval.</desc>
+<defs>
+<linearGradient id="paper" x2=".8" y2="1"><stop stop-color="#f9e8cb"/><stop offset="1" stop-color="#d6b896"/></linearGradient>
+<linearGradient id="navy" x2="1" y2="1"><stop stop-color="#3b5676"/><stop offset=".6" stop-color="#243c5f"/><stop offset="1" stop-color="#18283f"/></linearGradient>
+<linearGradient id="linen" x2="1" y2="1"><stop stop-color="#fff3db"/><stop offset=".5" stop-color="#ecdaba"/><stop offset="1" stop-color="#ceac83"/></linearGradient>
+<linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff0ba"/><stop offset=".5" stop-color="#d8a45e"/><stop offset="1" stop-color="#986c35"/></linearGradient>
+<linearGradient id="leather" x2="1" y2="1"><stop stop-color="#bc8750"/><stop offset="1" stop-color="#603f30"/></linearGradient>
+<linearGradient id="hair" x2="1" y2="1"><stop stop-color="#855037"/><stop offset=".55" stop-color="#51372b"/><stop offset="1" stop-color="#332722"/></linearGradient>
+<radialGradient id="ground"><stop stop-color="#7b634e" stop-opacity=".25"/><stop offset="1" stop-color="#7b634e" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1024" height="1536" fill="url(#paper)"/>
+<ellipse cx="531" cy="1426" rx="270" ry="47" fill="url(#ground)"/>
+<!-- shoes and fully grounded feet -->
+<path d="M475 1185L475 1365L538 1390L545 1212M557 1210L564 1384L647 1367L628 1184" fill="#78583d" stroke="#634630" stroke-width="12"/>
+<path d="M475 1340L543 1351L555 1414Q477 1437 405 1405L438 1364Z" fill="url(#leather)" stroke="#5a3c30" stroke-width="11"/>
+<path d="M566 1350L638 1341L700 1403Q626 1432 561 1415Z" fill="url(#leather)" stroke="#5a3c30" stroke-width="11"/>
+<path d="M435 1408Q489 1420 555 1410M566 1410Q629 1422 692 1404" stroke="#67482f" stroke-width="8"/>
+<rect x="486" y="1356" width="34" height="23" fill="url(#gold)" stroke="#845b31" stroke-width="4"/>
+<rect x="583" y="1353" width="34" height="23" fill="url(#gold)" stroke="#845b31" stroke-width="4"/>
+<!-- floor length cream formal robe -->
+<path d="M440 553Q526 501 635 551L698 1121L720 1319Q581 1374 384 1319L408 1151Z" fill="url(#linen)" stroke="#b79a79" stroke-width="12"/>
+<path d="M435 618Q417 926 398 1288M623 613Q676 939 701 1294" stroke="#ddbc8f" stroke-width="7" fill="none"/>
+<path d="M480 653L550 655L588 1304L462 1309Z" fill="url(#navy)" stroke="url(#gold)" stroke-width="9"/>
+<path d="M480 1268Q529 1285 574 1263M460 1312Q574 1352 701 1318" stroke="#e1bc79" stroke-width="6" fill="none"/>
+<!-- woven, real gold bell motif on center skirt -->
+<g transform="translate(533 1040)" stroke="#dfba74" fill="none">
+<path d="M0 -67L6 -85L12 -67M0 -64Q-41 -54 -37 -6Q-30 29 -44 40H45Q29 25 37 -9Q40 -54 0 -64Z" stroke-width="6"/>
+<circle cx="0" cy="48" r="10" fill="url(#gold)" stroke-width="4"/>
+<path d="M0 64V107M-43 82L-64 120M43 82L66 120" stroke-width="5"/>
+</g>
+<!-- layered navy cape with asymmetry, hem and gold Wayline route only at edges -->
+<path d="M433 518Q504 466 644 524L765 1122L713 1271L607 1264L574 917Q482 879 433 1008L366 1248L297 1199L351 786Z" fill="url(#navy)" stroke="url(#gold)" stroke-width="12"/>
+<path d="M363 794Q339 1018 314 1179M647 594Q718 810 739 1089M385 1204Q455 1095 483 959" stroke="#e0bb81" stroke-width="7" fill="none"/>
+<path d="M363 827Q406 861 432 796Q477 721 532 761M650 826Q611 913 685 975" stroke="#c99858" stroke-width="5" fill="none"/>
+<g transform="translate(390 1106)" stroke="#d7ab67" fill="none"><path d="M0 -56Q-31 -54 -29 -20Q-23 10 -33 19H32Q21 8 28 -18Q29 -53 0 -56Z" stroke-width="5"/><path d="M-37 28H36" stroke-width="5"/><circle cy="31" r="6" fill="url(#gold)"/></g>
+<!-- high cream collar and chest dress -->
+<path d="M460 540Q536 553 600 534L616 770L469 788Z" fill="url(#linen)" stroke="#c8a27d" stroke-width="8"/>
+<path d="M455 556L484 483L545 510L614 488L628 562L595 635L487 632Z" fill="url(#navy)" stroke="url(#gold)" stroke-width="8"/>
+<path d="M518 538L527 613M550 538L561 613" stroke="#d1ac6d" stroke-width="5"/>
+<!-- belt and one actual leather bag, near physical right hip -->
+<path d="M429 759Q535 777 653 747" fill="none" stroke="#6c4731" stroke-width="26"/>
+<rect x="540" y="740" width="56" height="37" rx="5" fill="url(#gold)" stroke="#8b6137" stroke-width="7"/>
+<path d="M457 597Q560 731 629 883" fill="none" stroke="#65432e" stroke-width="22"/>
+<path d="M458 597Q560 733 629 883" fill="none" stroke="#cea66e" stroke-width="5"/>
+<g transform="translate(654 892)">
+<path d="M-72 -44H66L78 112Q0 146 -77 107Z" fill="url(#leather)" stroke="#d8b27c" stroke-width="10"/>
+<path d="M-64 -12Q-3 14 69 -8L66 38Q2 53 -69 37Z" fill="#916543" stroke="#6b4b34" stroke-width="6"/>
+<path d="M-26 -13V96" stroke="#633f2e" stroke-width="13"/>
+<rect x="-40" y="29" width="27" height="29" rx="3" fill="url(#gold)" stroke="#6c482f" stroke-width="4"/>
+</g>
+<!-- sleeves, practical hands with no staff or spell props -->
+<path d="M444 578Q367 685 350 875L319 963" fill="none" stroke="#ebcca8" stroke-width="66" stroke-linecap="round"/>
+<path d="M622 564Q701 673 723 828L727 955" fill="none" stroke="#ecd1ad" stroke-width="65" stroke-linecap="round"/>
+<path d="M367 810L323 812L302 922L358 929M693 804L745 807L757 911L709 925" fill="url(#linen)" stroke="#c49c77" stroke-width="8"/>
+<path d="M319 946Q302 982 327 1000Q351 1012 366 981L350 934M712 931Q706 961 736 988Q765 990 760 943" fill="#eac09b" stroke="#ad8260" stroke-width="7"/>
+<!-- human neck and precise strictly RIGHT-facing head, elegant dark pinned bun -->
+<path d="M492 469L494 422L573 422L581 473" fill="#e9c09b" stroke="#ae8968" stroke-width="8"/>
+<ellipse cx="524" cy="316" rx="92" ry="110" fill="#edc5a0" stroke="#ac8263" stroke-width="7"/>
+<path d="M573 296L617 328L583 345Q575 398 545 415L480 398" fill="#ebc39e" stroke="#ad8869" stroke-width="7"/>
+<path d="M454 360Q399 339 403 272Q396 212 460 190Q494 142 549 173Q604 168 626 226L579 251L552 235L514 268Z" fill="url(#hair)" stroke="#453129" stroke-width="9"/>
+<ellipse cx="438" cy="257" rx="49" ry="62" fill="url(#hair)" stroke="#453129" stroke-width="9"/>
+<path d="M402 225Q403 180 441 180M473 192Q489 150 529 166M549 186Q585 156 614 201" fill="none" stroke="#aa6b46" stroke-width="15" stroke-linecap="round"/>
+<path d="M437 243Q405 248 422 304" stroke="#bf8b56" stroke-width="9" fill="none"/>
+<circle cx="570" cy="313" r="6" fill="#46362c"/>
+<path d="M574 367Q593 378 606 363" fill="none" stroke="#a97662" stroke-width="5"/>
+<!-- one real bell brooch and earring, no weapon -->
+<circle cx="603" cy="550" r="26" fill="url(#gold)" stroke="#936a3b" stroke-width="7"/>
+<path d="M603 558Q592 560 590 580L617 580Q614 563 603 558Z" fill="#b77843" stroke="#7b5434" stroke-width="4"/>
+<path d="M576 360L586 374L578 390" stroke="url(#gold)" stroke-width="7" fill="none"/>
+<circle cx="576" cy="395" r="5" fill="#d6a55d"/>
+</svg>
