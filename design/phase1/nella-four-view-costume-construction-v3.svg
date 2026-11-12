@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120" role="img" aria-labelledby="title description">
+<title id="title">WAYBELL Nella four cardinal directions - physical left pouch and fixed outfit construction v3</title>
+<desc id="description">Original source-controlled editable SVG art design. Shows separate stylized illustrative front, right, back, left views for costume placement and identity registration only. Reference source is four independent premium paintings. This is neither a replacement premium painting nor a complete production model, 3D rig, gameplay, or owner final G1 approval.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#112c39"/><stop offset="1" stop-color="#2d4949"/></linearGradient>
+<linearGradient id="coat" x2="1" y2="1"><stop stop-color="#80906d"/><stop offset=".55" stop-color="#556a4d"/><stop offset="1" stop-color="#394d3d"/></linearGradient>
+<linearGradient id="hair" x2="1" y2="1"><stop stop-color="#e49b54"/><stop offset=".5" stop-color="#bc5d35"/><stop offset="1" stop-color="#733c2c"/></linearGradient>
+<linearGradient id="scarf" x2="1" y2="1"><stop stop-color="#f4cc76"/><stop offset="1" stop-color="#b9853d"/></linearGradient>
+<linearGradient id="hide" x2="1" y2="1"><stop stop-color="#b47c4a"/><stop offset="1" stop-color="#55382b"/></linearGradient>
+</defs>
+<rect width="1800" height="1120" fill="url(#bg)"/>
+<rect x="18" y="18" width="1764" height="1084" rx="16" fill="none" stroke="#ddbb80" stroke-width="3"/>
+<text x="51" y="70" font-size="41" font-family="Georgia,serif" fill="#ffe4b2">NELLA — FOUR-DIRECTION COSTUME CONSTRUCTION • v3</text>
+<text x="52" y="110" font-size="19" font-family="sans-serif" fill="#c5d7cc">Original vector registration • painterly sources remain separate, unchanged native PNG paintings</text>
+<rect x="48" y="148" width="416" height="586" rx="14" fill="#efdfbd" stroke="#d8b37f" stroke-width="3"/><rect x="60" y="163" width="390" height="67" rx="8" fill="#244653"/><text x="80" y="207" font-family="Georgia,serif" font-size="27" fill="#ffe1ad">FRONT / SOURCE PRIOR</text><rect x="483" y="148" width="416" height="586" rx="14" fill="#efdfbd" stroke="#d8b37f" stroke-width="3"/><rect x="495" y="163" width="390" height="67" rx="8" fill="#244653"/><text x="515" y="207" font-family="Georgia,serif" font-size="27" fill="#ffe1ad">RIGHT / NEW</text><rect x="918" y="148" width="416" height="586" rx="14" fill="#efdfbd" stroke="#d8b37f" stroke-width="3"/><rect x="930" y="163" width="390" height="67" rx="8" fill="#244653"/><text x="950" y="207" font-family="Georgia,serif" font-size="27" fill="#ffe1ad">BACK / NEW</text><rect x="1353" y="148" width="416" height="586" rx="14" fill="#efdfbd" stroke="#d8b37f" stroke-width="3"/><rect x="1365" y="163" width="390" height="67" rx="8" fill="#244653"/><text x="1385" y="207" font-family="Georgia,serif" font-size="27" fill="#ffe1ad">LEFT / NEW</text>
+<!-- Four separate original lightweight technical character constructions, intentionally not reproduced pixel paintings -->
+<g transform="translate(257 585)">
+<ellipse cy="129" rx="102" ry="11" fill="#8a7b61" opacity=".2"/>
+<path d="M-35 46L-44 103L-8 107L-4 47M14 46L19 105L58 101L44 45" fill="#79624b" stroke="#5b4537" stroke-width="7"/>
+<path d="M-43 96L-53 124L-2 127L3 106M20 103L13 129L67 127L61 103" fill="url(#hide)" stroke="#6e4b31" stroke-width="6"/>
+<path d="M-75 -68Q-31 -98 64 -68L100 75L48 102L-8 72L-73 93L-89 52Z" fill="url(#coat)" stroke="#cfb477" stroke-width="7"/>
+<path d="M-69 -62L-86 51M67 -67L87 71M-76 55L-9 75L52 92" fill="none" stroke="#dbc488" stroke-width="4"/>
+<path d="M-53 -56Q-74 -12 -40 42M44 -58Q24 -18 58 38" fill="none" stroke="#c6a66d" stroke-width="4"/>
+<path d="M-53 -60Q-65 -4 -66 42M57 -60Q69 -1 71 42" fill="none" stroke="#e3c6a0" stroke-width="24" stroke-linecap="round"/>
+<ellipse cx="0" cy="-183" rx="43" ry="49" fill="#edc5a1" stroke="#a77757" stroke-width="5"/>
+<path d="M-46 -189Q-65 -228 -32 -248Q-12 -275 21 -260Q63 -251 53 -197L29 -214L-5 -205L-31 -215Z" fill="url(#hair)" stroke="#77452f" stroke-width="6"/>
+<circle cx="23" cy="-264" r="24" fill="url(#hair)" stroke="#8c4b32" stroke-width="5"/>
+<path d="M17 -264Q42 -286 52 -255" fill="none" stroke="#ecb16c" stroke-width="7"/>
+<circle cx="-17" cy="-182" r="4" fill="#51372a"/><circle cx="17" cy="-182" r="4" fill="#51372a"/><path d="M-15 -159q14 13 29 0" fill="none" stroke="#915d4a" stroke-width="4"/>
+<path d="M-50 -101Q0 -84 53 -99L39 -66L-8 -61L-52 -71Z" fill="url(#scarf)" stroke="#9f6d35" stroke-width="5"/>
+<path d="M22 -74L53 -61L42 10L12 -15Z" fill="url(#scarf)" stroke="#ab7538" stroke-width="3"/>
+<path d="M-34 -75L58 65" stroke="#8a5b3d" stroke-width="9" fill="none"/>
+<g transform="translate(60 75)"><path d="M-24 -18H24L31 40H-31Z" fill="url(#hide)" stroke="#b68d61" stroke-width="5"/><path d="M-19 -5V31M17 -5V31" stroke="#603e2e" stroke-width="6"/><rect x="-23" y="8" width="10" height="12" fill="#d3aa65"/><rect x="12" y="8" width="10" height="12" fill="#d3aa65"/></g>
+</g><g transform="translate(692 585)">
+<ellipse cy="129" rx="102" ry="11" fill="#8a7b61" opacity=".2"/>
+<path d="M-35 46L-44 103L-8 107L-4 47M14 46L19 105L58 101L44 45" fill="#79624b" stroke="#5b4537" stroke-width="7"/>
+<path d="M-43 96L-53 124L-2 127L3 106M20 103L13 129L67 127L61 103" fill="url(#hide)" stroke="#6e4b31" stroke-width="6"/>
+<path d="M-75 -68Q-31 -98 64 -68L100 75L48 102L-8 72L-73 93L-89 52Z" fill="url(#coat)" stroke="#cfb477" stroke-width="7"/>
+<path d="M-69 -62L-86 51M67 -67L87 71M-76 55L-9 75L52 92" fill="none" stroke="#dbc488" stroke-width="4"/>
+<path d="M-53 -56Q-74 -12 -40 42M44 -58Q24 -18 58 38" fill="none" stroke="#c6a66d" stroke-width="4"/>
+<path d="M-53 -60Q-65 -4 -66 42M57 -60Q69 -1 71 42" fill="none" stroke="#e3c6a0" stroke-width="24" stroke-linecap="round"/>
+<ellipse cx="0" cy="-183" rx="43" ry="49" fill="#edc5a1" stroke="#a77757" stroke-width="5"/>
+<path d="M-46 -189Q-65 -228 -32 -248Q-12 -275 21 -260Q63 -251 53 -197L29 -214L-5 -205L-31 -215Z" fill="url(#hair)" stroke="#77452f" stroke-width="6"/>
+<circle cx="23" cy="-264" r="24" fill="url(#hair)" stroke="#8c4b32" stroke-width="5"/>
+<path d="M17 -264Q42 -286 52 -255" fill="none" stroke="#ecb16c" stroke-width="7"/>
+<path d="M36 -186l17 12l-17 8" fill="#d7aa83" stroke="#9c7755" stroke-width="3"/><circle cx="27" cy="-185" r="4" fill="#51372a"/>
+<path d="M-50 -101Q0 -84 53 -99L39 -66L-8 -61L-52 -71Z" fill="url(#scarf)" stroke="#9f6d35" stroke-width="5"/>
+<path d="M22 -74L53 -61L42 10L12 -15Z" fill="url(#scarf)" stroke="#ab7538" stroke-width="3"/>
+<path d="M-34 -75L58 65" stroke="#8a5b3d" stroke-width="9" fill="none"/>
+<g transform="translate(-53 91)" opacity=".62"><path d="M-24 -18H24L31 40H-31Z" fill="url(#hide)" stroke="#b68d61" stroke-width="5"/><path d="M-19 -5V31M17 -5V31" stroke="#603e2e" stroke-width="6"/><rect x="-23" y="8" width="10" height="12" fill="#d3aa65"/><rect x="12" y="8" width="10" height="12" fill="#d3aa65"/></g>
+</g><g transform="translate(1127 585)">
+<ellipse cy="129" rx="102" ry="11" fill="#8a7b61" opacity=".2"/>
+<path d="M-35 46L-44 103L-8 107L-4 47M14 46L19 105L58 101L44 45" fill="#79624b" stroke="#5b4537" stroke-width="7"/>
+<path d="M-43 96L-53 124L-2 127L3 106M20 103L13 129L67 127L61 103" fill="url(#hide)" stroke="#6e4b31" stroke-width="6"/>
+<path d="M-75 -68Q-31 -98 64 -68L100 75L48 102L-8 72L-73 93L-89 52Z" fill="url(#coat)" stroke="#cfb477" stroke-width="7"/>
+<path d="M-69 -62L-86 51M67 -67L87 71M-76 55L-9 75L52 92" fill="none" stroke="#dbc488" stroke-width="4"/>
+<path d="M-53 -56Q-74 -12 -40 42M44 -58Q24 -18 58 38" fill="none" stroke="#c6a66d" stroke-width="4"/>
+<path d="M-53 -60Q-65 -4 -66 42M57 -60Q69 -1 71 42" fill="none" stroke="#e3c6a0" stroke-width="24" stroke-linecap="round"/>
+<ellipse cx="0" cy="-183" rx="43" ry="49" fill="#edc5a1" stroke="#a77757" stroke-width="5"/>
+<path d="M-46 -189Q-65 -228 -32 -248Q-12 -275 21 -260Q63 -251 53 -197L29 -214L-5 -205L-31 -215Z" fill="url(#hair)" stroke="#77452f" stroke-width="6"/>
+<circle cx="-23" cy="-264" r="24" fill="url(#hair)" stroke="#8c4b32" stroke-width="5"/>
+<path d="M-17 -264Q-42 -286 -52 -255" fill="none" stroke="#ecb16c" stroke-width="7"/>
+
+<path d="M-50 -101Q0 -84 53 -99L39 -66L-8 -61L-52 -71Z" fill="url(#scarf)" stroke="#9f6d35" stroke-width="5"/>
+<path d="M22 -74L53 -61L42 10L12 -15Z" fill="url(#scarf)" stroke="#ab7538" stroke-width="3"/>
+<path d="M42 -75L-37 65" stroke="#8a5b3d" stroke-width="9" fill="none"/>
+<g transform="translate(-61 91)"><path d="M-24 -18H24L31 40H-31Z" fill="url(#hide)" stroke="#b68d61" stroke-width="5"/><path d="M-19 -5V31M17 -5V31" stroke="#603e2e" stroke-width="6"/><rect x="-23" y="8" width="10" height="12" fill="#d3aa65"/><rect x="12" y="8" width="10" height="12" fill="#d3aa65"/></g>
+</g><g transform="translate(1562 585)">
+<ellipse cy="129" rx="102" ry="11" fill="#8a7b61" opacity=".2"/>
+<path d="M-35 46L-44 103L-8 107L-4 47M14 46L19 105L58 101L44 45" fill="#79624b" stroke="#5b4537" stroke-width="7"/>
+<path d="M-43 96L-53 124L-2 127L3 106M20 103L13 129L67 127L61 103" fill="url(#hide)" stroke="#6e4b31" stroke-width="6"/>
+<path d="M-75 -68Q-31 -98 64 -68L100 75L48 102L-8 72L-73 93L-89 52Z" fill="url(#coat)" stroke="#cfb477" stroke-width="7"/>
+<path d="M-69 -62L-86 51M67 -67L87 71M-76 55L-9 75L52 92" fill="none" stroke="#dbc488" stroke-width="4"/>
+<path d="M-53 -56Q-74 -12 -40 42M44 -58Q24 -18 58 38" fill="none" stroke="#c6a66d" stroke-width="4"/>
+<path d="M-53 -60Q-65 -4 -66 42M57 -60Q69 -1 71 42" fill="none" stroke="#e3c6a0" stroke-width="24" stroke-linecap="round"/>
+<ellipse cx="0" cy="-183" rx="43" ry="49" fill="#edc5a1" stroke="#a77757" stroke-width="5"/>
+<path d="M-46 -189Q-65 -228 -32 -248Q-12 -275 21 -260Q63 -251 53 -197L29 -214L-5 -205L-31 -215Z" fill="url(#hair)" stroke="#77452f" stroke-width="6"/>
+<circle cx="-23" cy="-264" r="24" fill="url(#hair)" stroke="#8c4b32" stroke-width="5"/>
+<path d="M-17 -264Q-42 -286 -52 -255" fill="none" stroke="#ecb16c" stroke-width="7"/>
+<path d="M-36 -186l-17 12l17 8" fill="#d7aa83" stroke="#9c7755" stroke-width="3"/><circle cx="-27" cy="-185" r="4" fill="#51372a"/>
+<path d="M-50 -101Q0 -84 53 -99L39 -66L-8 -61L-52 -71Z" fill="url(#scarf)" stroke="#9f6d35" stroke-width="5"/>
+<path d="M22 -74L53 -61L42 10L12 -15Z" fill="url(#scarf)" stroke="#ab7538" stroke-width="3"/>
+<path d="M-34 -75L58 65" stroke="#8a5b3d" stroke-width="9" fill="none"/>
+<g transform="translate(55 91)"><path d="M-24 -18H24L31 40H-31Z" fill="url(#hide)" stroke="#b68d61" stroke-width="5"/><path d="M-19 -5V31M17 -5V31" stroke="#603e2e" stroke-width="6"/><rect x="-23" y="8" width="10" height="12" fill="#d3aa65"/><rect x="12" y="8" width="10" height="12" fill="#d3aa65"/></g>
+</g>
+<text x="68" y="744" font-family="sans-serif" font-size="19" fill="#e1c68e">Design intent: one copper bun, one mustard scarf, one olive coat hem, one physical LEFT travel pouch, one pair of boots.</text>
+<rect x="80" y="799" width="68" height="51" rx="8" fill="#bc663b" stroke="#dfc898" stroke-width="3"/><text x="162" y="831" font-family="sans-serif" font-size="20" fill="#e5ebde">COPPER CURLS</text><rect x="440" y="799" width="68" height="51" rx="8" fill="#57694d" stroke="#dfc898" stroke-width="3"/><text x="522" y="831" font-family="sans-serif" font-size="20" fill="#e5ebde">OLIVE COAT</text><rect x="800" y="799" width="68" height="51" rx="8" fill="#d6a04f" stroke="#dfc898" stroke-width="3"/><text x="882" y="831" font-family="sans-serif" font-size="20" fill="#e5ebde">MUSTARD SCARF</text><rect x="80" y="894" width="68" height="51" rx="8" fill="#895938" stroke="#dfc898" stroke-width="3"/><text x="162" y="926" font-family="sans-serif" font-size="20" fill="#e5ebde">LEATHER POUCH</text><rect x="440" y="894" width="68" height="51" rx="8" fill="#795f4a" stroke="#dfc898" stroke-width="3"/><text x="522" y="926" font-family="sans-serif" font-size="20" fill="#e5ebde">PATCHED TROUSER</text><rect x="800" y="894" width="68" height="51" rx="8" fill="#694630" stroke="#dfc898" stroke-width="3"/><text x="882" y="926" font-family="sans-serif" font-size="20" fill="#e5ebde">WORN BOOT</text>
+<text x="80" y="1032" font-family="sans-serif" font-size="18" fill="#bcd1c9">Outstanding: verify sash/strap ownership and small embroidered hem patterns against actual 1024×1536 paintings, then normalize Tavi/cast proportions.</text>
+<text x="80" y="1064" font-family="sans-serif" font-size="16" fill="#d3bf9d">This SVG is an illustrated production CONTRACT, not a fifth painterly Nella painting, an animated rig, a playable game or G1 owner approval. Phase 2 locked.</text>
+</svg>
