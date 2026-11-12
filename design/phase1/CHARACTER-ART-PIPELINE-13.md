@@ -110,3 +110,15 @@ BACK-LEFT generations during this slice returned two multi-character/multi-angle
 - Both must be original full-resolution individual images, subject to close-up and 874×492 static legibility QA. At completion compare the **actual figure** height/groundline plus gold route-map topology across all eight; same canvas dimensions alone do not prove a rig.
 
 No game code, physical iPhone validation, 3D engine or owner G1 approval. Phase 2 remains locked.
+
+## Review 19 addendum — genuine BACK-LEFT achieved; the only remaining Tavi painted view is FRONT-LEFT
+
+A single full-size 1086×1448 original **BACK-LEFT three-quarter** Tavi studio painting has passed preliminary Phase 1 visual acceptance: one turned-away Tavi, dorsal compass, near physical LEFT map satchel, farther physical RIGHT-hand Echo Lantern. It is documented in [Review 19](../../docs/28-PHASE-1-VISUAL-REVIEW-19.md), [Ledger 19](CHARACTER-ANGLE-ACCEPTANCE-LEDGER-19.md), and [the new original back-left vs front-left vector construction artwork](tavi-back-left-front-left-physical-construction-v11.svg). Total **7/8** unique individual painterly Tavi directions, NOT a production rig or owner G1 approval.
+
+**The only eighth angle still OPEN is FRONT-LEFT 3/4.** Two actual attempted outputs became multi-character/multi-angle poster boards with invented cast roles and turnaround status graphics; both REJECTED. Do not crop a small FRONT-LEFT figure from either presentation board and call it an independent full-resolution painting. No genuine Nella, Orin or Seren original studio portrait was made this session.
+
+**Next painting request, one clean person only:** a freckled young human Tavi facing camera from FRONT-LEFT 45°, both face and chest in view and clearly rotated away from 90° LEFT profile, left-hip map satchel near viewer, glowing right-hand brass Echo Lantern on the far side; gold Wayline embroidered asymmetric teal cloak, exact boots and physical attachment continuity. Neutral parchment setting, no letters, labels, progress bars, panels, extra figures, decorative borders or lineups. Reject subject and angle drift, including a repeated BACK-LEFT or unchanged LEFT profile. Do not generate a combined eight-view board as a substitute.
+
+After the eighth single-view painting exists, normalize **actual character (hair-to-boot) height** and groundline before comparing costume/map motif. Use [QA contract 19](TAVI-CROSS-ANGLE-CONSTRUCTION-QA-19.md), which documents approximate foreground span differences, shared physical sides, fixed satchel/lantern and rear gold-compass topology. Mark the entire eight-view set visually coherent only when genuine differences are corrected. Then individually attempt **canonical Nella FRONT**, Orin elderly-human grandfather FRONT, Seren human High Bellkeeper FRONT; no invented class or role labels.
+
+**No executable game, real iPhone test, engine/model, G1 owner approval or Phase 2.**
