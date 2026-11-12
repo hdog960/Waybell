@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1560" viewBox="0 0 1080 1560" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Tavi straight-front fixed right-hand lantern and left-hip satchel construction v14</title>
+<desc id="desc">An original painterly-inspired vector front-view Tavi garment anatomy study, with one eight-point Wayline brass clasp, right-hand hanging Echo Lantern at picture-left, physical left-hip two-buckle satchel at picture-right, teal asymmetrical cloak, restrained map roads, uniform boot buckles. This is concept design source, not the new Review 22 premium painting, game rig, or user G1 approval.</desc>
+<defs>
+<linearGradient id="paper" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#f9e9cc"/><stop offset="1" stop-color="#dec6a1"/></linearGradient>
+<linearGradient id="cape" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2f8d94"/><stop offset=".55" stop-color="#176074"/><stop offset="1" stop-color="#104359"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffeab1"/><stop offset=".53" stop-color="#daa65d"/><stop offset="1" stop-color="#855b31"/></linearGradient>
+<linearGradient id="leather" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#b98555"/><stop offset=".6" stop-color="#85553d"/><stop offset="1" stop-color="#503628"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ffe7a0" stop-opacity=".85"/><stop offset=".6" stop-color="#fbb751" stop-opacity=".28"/><stop offset="1" stop-color="#e39a3c" stop-opacity="0"/></radialGradient>
+<linearGradient id="linen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7e6c6"/><stop offset="1" stop-color="#d7b18c"/></linearGradient>
+</defs>
+<rect width="1080" height="1560" fill="url(#paper)"/>
+<ellipse cx="555" cy="1427" rx="285" ry="36" fill="#b8a084" opacity=".3"/>
+<!-- boots and matching legs -->
+<path d="M457 935L427 1295L502 1310L526 936M567 933L583 1305L665 1294L653 932" fill="#68584b" stroke="#443b32" stroke-width="13"/>
+<path d="M425 1277L516 1287L519 1402Q475 1441 344 1405L387 1322Z" fill="url(#leather)" stroke="#6d462b" stroke-width="13"/>
+<path d="M581 1282L678 1273L720 1398Q632 1447 569 1414L566 1321Z" fill="url(#leather)" stroke="#6d462b" stroke-width="13"/>
+<path d="M403 1334L510 1342M394 1366L512 1375M579 1342H679M590 1372H695" stroke="#e0b074" stroke-width="9"/>
+<rect x="431" y="1315" width="42" height="29" fill="url(#brass)" stroke="#6d4f30" stroke-width="6"/>
+<rect x="603" y="1311" width="42" height="29" fill="url(#brass)" stroke="#6d4f30" stroke-width="6"/>
+<!-- long tunic, buckled vest -->
+<path d="M427 544Q548 511 664 546L677 994L413 991Z" fill="url(#linen)" stroke="#9c7956" stroke-width="12"/>
+<path d="M450 567L631 567L645 936L444 934Z" fill="url(#leather)" stroke="#624630" stroke-width="12"/>
+<path d="M454 634Q531 659 637 627M453 775Q543 801 641 783" stroke="#c7935e" stroke-width="8" fill="none"/>
+<path d="M435 777H649" stroke="#5f4030" stroke-width="32" stroke-linecap="round"/>
+<rect x="522" y="760" width="62" height="39" rx="6" fill="url(#brass)" stroke="#794d2e" stroke-width="7"/>
+<rect x="538" y="771" width="28" height="19" fill="#774c32"/>
+<!-- sleeves and forearms -->
+<path d="M432 572Q350 671 324 858L308 1042" stroke="url(#linen)" stroke-width="74" fill="none" stroke-linecap="round"/>
+<path d="M659 570Q730 682 770 858L780 1010" stroke="url(#linen)" stroke-width="71" fill="none" stroke-linecap="round"/>
+<path d="M313 864L376 877L361 1017L296 1008Z" fill="url(#leather)" stroke="#815438" stroke-width="9"/>
+<path d="M741 871L806 853L823 995L764 1008Z" fill="url(#leather)" stroke="#815438" stroke-width="9"/>
+<path d="M315 929H370M747 930L812 913" stroke="#d3a26b" stroke-width="7"/>
+<!-- cloak asymmetry, physical-left long panel on picture-right -->
+<path d="M442 525Q542 485 685 534L834 1181L730 1354L608 1169L593 938Q512 967 423 910L385 723Z" fill="url(#cape)" stroke="#edc581" stroke-width="13"/>
+<path d="M448 560Q489 667 445 809M677 560Q759 827 783 1119M615 1150Q688 1235 741 1253" fill="none" stroke="#e0b46d" stroke-width="8"/>
+<path d="M686 685Q645 748 700 810Q772 868 708 960M477 721Q516 778 463 866" stroke="#e7b870" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M734 1151Q778 1174 805 1208M753 1234L740 1295" stroke="#e0ae62" stroke-width="5" fill="none"/>
+<!-- layered hood -->
+<path d="M406 560Q454 475 546 473Q664 463 704 555L638 627Q548 596 466 630Z" fill="#155a6b" stroke="#e5b978" stroke-width="11"/>
+<path d="M431 548Q543 589 680 547" fill="none" stroke="#b7d0b7" stroke-width="3"/>
+<!-- head and curly hair: younger neutral front face -->
+<ellipse cx="552" cy="345" rx="124" ry="151" fill="#edc199" stroke="#a87557" stroke-width="10"/>
+<path d="M438 347Q398 303 421 246Q407 213 459 181Q482 139 525 155Q556 119 608 151Q668 148 696 201Q729 239 681 330L649 296L640 249L597 224L547 242L485 230L463 276Z" fill="#583a2d" stroke="#3b2c26" stroke-width="10"/>
+<path d="M437 240Q409 214 435 190M480 179Q475 135 520 143M576 152Q612 115 648 162M671 220Q710 210 697 249" stroke="#7c4e36" stroke-width="18" stroke-linecap="round" fill="none"/>
+<path d="M471 340Q492 321 519 340M576 340Q606 319 631 338" stroke="#835639" stroke-width="7" fill="none" stroke-linecap="round"/>
+<ellipse cx="498" cy="354" rx="10" ry="13" fill="#45332a"/><ellipse cx="601" cy="354" rx="10" ry="13" fill="#45332a"/>
+<circle cx="495" cy="349" r="3" fill="#fff0d2"/><circle cx="597" cy="349" r="3" fill="#fff0d2"/>
+<path d="M546 371L538 403L558 405" stroke="#b7846c" stroke-width="6" fill="none"/>
+<path d="M512 450Q557 475 598 444" stroke="#a76b56" stroke-width="6" fill="none" stroke-linecap="round"/>
+<g fill="#b67e67"><circle cx="468" cy="413" r="4"/><circle cx="481" cy="420" r="4"/><circle cx="492" cy="414" r="4"/><circle cx="603" cy="415" r="4"/><circle cx="617" cy="421" r="4"/></g>
+<!-- single collar eight-point star -->
+<circle cx="552" cy="570" r="36" fill="url(#brass)" stroke="#83582f" stroke-width="10"/>
+<circle cx="552" cy="570" r="24" fill="none" stroke="#ffe5aa" stroke-width="4"/>
+<path d="M552 538V602M520 570H584M529 547L575 593M529 593L575 547" stroke="#8a5b33" stroke-width="5"/>
+<!-- single continuous physical left satchel strap and two buckle satchel -->
+<path d="M480 609Q568 760 652 910" fill="none" stroke="#6e4933" stroke-width="25"/>
+<path d="M481 609Q568 760 652 910" fill="none" stroke="#c49662" stroke-width="5"/>
+<g transform="translate(732 928)">
+<path d="M-74 -44H72L88 129Q12 159-85 123Z" fill="url(#leather)" stroke="#dbaf75" stroke-width="11"/>
+<path d="M-68 -14Q-8 6 79 -13L74 48Q5 67 -73 46Z" fill="#ac7649" stroke="#70513a" stroke-width="5"/>
+<path d="M-49 -12V112M51 -12V112" fill="none" stroke="#5c4031" stroke-width="17"/>
+<rect x="-63" y="34" width="28" height="32" rx="3" fill="url(#brass)" stroke="#735037" stroke-width="5"/>
+<rect x="38" y="34" width="28" height="32" rx="3" fill="url(#brass)" stroke="#735037" stroke-width="5"/>
+<path d="M-32 -47V-99M29 -44V-105" fill="none" stroke="#d2af7a" stroke-width="15" stroke-linecap="round"/>
+</g>
+<!-- right hand appears picture left, single lantern -->
+<path d="M308 1000Q282 1057 300 1085Q332 1106 347 1062L354 1004" fill="#e5b690" stroke="#aa795a" stroke-width="8"/>
+<g transform="translate(304 1139)">
+<circle cy="51" r="135" fill="url(#glow)"/>
+<path d="M-36 -13Q-28 -65 0 -65Q34 -64 40 -12" fill="none" stroke="#aa804a" stroke-width="13"/>
+<path d="M-50 -2H50L41 133H-44Z" fill="url(#brass)" stroke="#8c653a" stroke-width="12"/>
+<rect x="-29" y="18" width="58" height="95" fill="#fff0b0" stroke="#d4a66b" stroke-width="6"/>
+<path d="M0 18V110M-29 62H29" stroke="#af7e47" stroke-width="6"/>
+</g>
+</svg>
