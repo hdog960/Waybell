@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1086" height="1448" viewBox="0 0 1086 1448" role="img" aria-labelledby="title description">
+<title id="title">Orin LEFT profile: individually drawn physical garment identity illustration v3</title>
+<desc id="description">One single elderly human Orin turning strictly picture left. Brown surveyor coat, broad teal moss shoulder shawl with a chart-road embroidery motif, physical-left front/near worn two-clasp satchel with rolled maps, far hand supporting an ordinary wooden survey staff, canvas and travel boots. Original editable vector art. NOT a premium painterly character image, production ready rig, or G1 approval. Spectacles remain explicitly unresolved between existing FRONT and RIGHT original paintings.</desc>
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#faebd0"/><stop offset="1" stop-color="#ddc3a1"/></linearGradient><linearGradient id="coat" x2="1" y2="1"><stop stop-color="#c69461"/><stop offset=".47" stop-color="#906645"/><stop offset="1" stop-color="#57402f"/></linearGradient><linearGradient id="shawl" x2="1" y2="1"><stop stop-color="#498177"/><stop offset=".5" stop-color="#33665f"/><stop offset="1" stop-color="#234b50"/></linearGradient><linearGradient id="linen" x2="1" y2="1"><stop stop-color="#faf0d4"/><stop offset="1" stop-color="#d2ad86"/></linearGradient><linearGradient id="brass" x2="1" y2="1"><stop stop-color="#f4d58b"/><stop offset=".65" stop-color="#c39957"/><stop offset="1" stop-color="#8a5f30"/></linearGradient><linearGradient id="silver" x2="1" y2="1"><stop stop-color="#fff8e8"/><stop offset=".5" stop-color="#d8d1c1"/><stop offset="1" stop-color="#8d8a80"/></linearGradient><radialGradient id="shadow"><stop stop-color="#6c5a48" stop-opacity=".28"/><stop offset="1" stop-color="#6c5a48" stop-opacity="0"/></radialGradient></defs>
+<rect width="1086" height="1448" fill="url(#paper)"/><ellipse cx="549" cy="1359" rx="290" ry="44" fill="url(#shadow)"/>
+<!-- body from rear to fore: worn trouser and reliable left-foot contour -->
+<path d="M453 868L425 1176L491 1232L532 887M557 888L583 1227L654 1179L643 878" fill="#786249" stroke="#564437" stroke-width="12"/>
+<path d="M428 1154L502 1159L501 1273L404 1267ZM563 1159L665 1153L666 1267L573 1272Z" fill="#a69b83" stroke="#7a715e" stroke-width="8"/>
+<path d="M402 1243L501 1248L520 1354Q458 1390 333 1352L360 1290ZM579 1251L661 1242L690 1350Q623 1389 556 1353L548 1290Z" fill="url(#coat)" stroke="#61442d" stroke-width="12"/>
+<path d="M365 1310L507 1315M352 1345L513 1348M566 1317L674 1305M569 1351L690 1341" stroke="#d2a46a" stroke-width="7"/>
+<path d="M355 1354Q428 1365 519 1352M553 1355Q617 1369 689 1352" stroke="#523e2b" stroke-width="8" fill="none"/>
+<!-- rear coat broken hems and practical inner cream vest -->
+<path d="M435 520Q520 491 656 525L719 1024L655 1168L565 1103L479 1149L375 1115L348 955Z" fill="url(#coat)" stroke="#6a4731" stroke-width="13"/>
+<path d="M408 580Q408 841 365 971M637 559Q701 802 708 1027M381 1081Q481 1148 553 1103M567 1107L654 1150" stroke="#e0b67d" stroke-width="6" fill="none"/>
+<path d="M401 903L474 914L471 1023L399 1015Z" fill="#a6835c" stroke="#d2ac75" stroke-width="7"/>
+<path d="M414 931L463 994M462 934L414 1002" stroke="#e5c48f" stroke-width="5"/>
+<path d="M436 552Q531 521 612 557L634 823L432 822Z" fill="url(#linen)" stroke="#ac8460" stroke-width="10"/>
+<path d="M457 604L617 597M446 741L634 737" stroke="#b28c6c" stroke-width="8"/>
+<!-- crossing waist belt, less metallic than hero -->
+<path d="M396 837L669 818" stroke="#543c2b" stroke-width="27"/><rect x="517" y="802" width="58" height="39" rx="4" fill="url(#brass)" stroke="#845830" stroke-width="6"/>
+<!-- far physical right staff partially behind left-facing silhouette -->
+<path d="M307 480L299 1374" fill="none" stroke="#6d4d32" stroke-width="21" stroke-linecap="round"/>
+<path d="M285 479H317M285 1331H315" stroke="#c29b64" stroke-width="11"/>
+<path d="M293 758H308M293 1022H307" stroke="#cfad72" stroke-width="7"/>
+<path d="M417 587Q344 739 326 955" stroke="url(#linen)" stroke-width="66" stroke-linecap="round" fill="none"/>
+<path d="M300 934Q299 971 331 973Q356 966 352 935" fill="#dfb18d" stroke="#a57d5d" stroke-width="7"/>
+<!-- FRONT-inspired broad moss shoulder shawl, original route style; one clasp -->
+<path d="M395 532Q437 452 550 448Q639 456 700 549L731 736L674 814L580 775L513 718L426 795L363 731Z" fill="url(#shawl)" stroke="#d5b47b" stroke-width="10"/>
+<path d="M390 633Q477 666 547 622M561 681Q638 754 711 697M391 712Q445 754 504 691" stroke="#ecce91" stroke-width="6" fill="none"/>
+<path d="M413 572Q471 608 519 576Q582 540 658 591M592 682Q651 634 686 665" stroke="#cbb57d" stroke-width="6" fill="none"/>
+<path d="M420 718L451 752M619 744L656 780" stroke="#f4d99d" stroke-width="4"/>
+<circle cx="407" cy="570" r="30" fill="url(#brass)" stroke="#835a32" stroke-width="6"/>
+<path d="M407 539V601M376 570H438M385 548L428 591M386 591L428 548" stroke="#785534" stroke-width="4"/>
+<!-- light one person rear hood, aged face looking strict left -->
+<path d="M473 449V401L555 403L558 454" fill="#e6bc96" stroke="#a77e61" stroke-width="8"/>
+<ellipse cx="499" cy="339" rx="96" ry="114" fill="#e8bd95" stroke="#ac8161" stroke-width="8"/>
+<path d="M424 345L378 356L402 371Q415 417 455 426L534 409" fill="#edc7a0" stroke="#ac8064" stroke-width="7"/>
+<path d="M409 292Q389 262 415 220Q410 179 457 164Q495 129 541 169Q584 171 606 226Q622 295 573 338L543 292L480 304L446 280Z" fill="url(#silver)" stroke="#908c82" stroke-width="10"/>
+<path d="M426 214Q403 160 461 157M475 167Q481 121 532 148M560 183Q603 153 608 204" fill="none" stroke="#f7eee0" stroke-width="18" stroke-linecap="round"/>
+<path d="M430 352Q403 389 451 422Q490 461 532 416" fill="url(#silver)" stroke="#aeaa9e" stroke-width="7"/>
+<circle cx="423" cy="340" r="5" fill="#46382c"/>
+<path d="M399 395Q408 391 419 396" stroke="#a2745c" stroke-width="5" fill="none"/>
+<!-- physical near LEFT sleeve, staff other hand far -->
+<path d="M432 568Q415 703 422 880L414 989" fill="none" stroke="url(#linen)" stroke-width="64" stroke-linecap="round"/>
+<path d="M401 829L455 830L451 937L400 930Z" fill="url(#coat)" stroke="#815938" stroke-width="9"/>
+<path d="M418 936Q396 968 413 993Q445 1007 458 966L452 927" fill="#e8bd94" stroke="#a47e5f" stroke-width="7"/>
+<!-- physical left satchel near camera, two buckles, rolled chart tubes -->
+<path d="M460 551Q540 708 645 874" fill="none" stroke="#704b32" stroke-width="25"/>
+<path d="M461 553Q541 710 645 875" fill="none" stroke="#e0b17a" stroke-width="6"/>
+<g transform="translate(665 865)">
+<path d="M-82 -43H73L90 150Q2 175 -92 149Z" fill="url(#coat)" stroke="#d7b07e" stroke-width="11"/>
+<path d="M-71 -15Q-6 20 77 -12L69 51Q-9 80 -78 48Z" fill="#a47449" stroke="#6e4d34" stroke-width="6"/>
+<path d="M-45 -17V142M46 -17V141" stroke="#694632" stroke-width="18"/>
+<rect x="-60" y="47" width="30" height="37" rx="4" fill="url(#brass)" stroke="#744f2d" stroke-width="5"/><rect x="32" y="46" width="30" height="37" rx="4" fill="url(#brass)" stroke="#744f2d" stroke-width="5"/>
+<path d="M-37 -44L-40 -124M26 -44L22 -139" stroke="#ddbd8d" stroke-width="19" stroke-linecap="round"/>
+<path d="M-43 -127Q-8 -142 18 -127" stroke="#937861" stroke-width="5" fill="none"/>
+</g>
+</svg>
