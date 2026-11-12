@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1780" height="1120" viewBox="0 0 1780 1120" role="img" aria-labelledby="title desc">
+<title id="title">WAYBELL Orin right-profile physical equipment and elderly-human costume identity v1</title>
+<desc id="desc">Original editable SVG construction showing a single elderly human Orin in strict right-facing full-body profile, silver curly hair, beard, brown layered surveyor coat, moss wrap, old walking survey staff, chart scrolls, far hip satchel, rugged boots, palette and remaining differences between actual FRONT and RIGHT original paintings. Art direction schematic only, not a premium painted master, game sprite, mesh, user approved G1 or gameplay.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#123442"/><stop offset="1" stop-color="#2d4349"/></linearGradient>
+<linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f7e9ce"/><stop offset="1" stop-color="#ddc3a1"/></linearGradient>
+<linearGradient id="coat" x2="1" y2="1"><stop stop-color="#bf8854"/><stop offset="1" stop-color="#604433"/></linearGradient>
+<linearGradient id="moss" x2="1" y2="1"><stop stop-color="#7e9269"/><stop offset="1" stop-color="#3e5847"/></linearGradient>
+<linearGradient id="brass" x2="1" y2="1"><stop stop-color="#f9e3aa"/><stop offset="1" stop-color="#9b6a3e"/></linearGradient>
+<linearGradient id="silver" x2="1" y2="1"><stop stop-color="#fff4dc"/><stop offset="1" stop-color="#aca99f"/></linearGradient>
+</defs>
+<rect width="1780" height="1120" fill="url(#bg)"/>
+<rect x="23" y="22" width="1734" height="1074" rx="22" fill="none" stroke="#d5ae77" stroke-width="4"/>
+<text x="45" y="80" font-family="Georgia,serif" font-size="40" fill="#ffe0ae">ORIN / RIGHT PROFILE • SURVEYOR IDENTITY v1</text>
+<text x="45" y="114" font-family="sans-serif" font-size="18" fill="#c2d5d0">One original character construction, not another premium painting; FRONT and RIGHT original PNGs remain separate</text>
+<rect x="41" y="145" width="995" height="875" rx="17" fill="url(#paper)" stroke="#dfbb86" stroke-width="4"/>
+<g transform="translate(509 833)">
+<ellipse cy="148" rx="202" ry="28" fill="#938269" opacity=".25"/>
+<!-- legs and worn survey boots -->
+<path d="M-68 -162L-85 75L-20 89L-7 -159M27 -158L46 81L105 75L77 -171" fill="#75634b" stroke="#554131" stroke-width="13"/>
+<path d="M-80 75L-92 145L11 159L14 90M44 83L36 157L137 153L108 83" fill="url(#coat)" stroke="#634330" stroke-width="10"/>
+<path d="M-83 111H7M-85 139H11M41 116H117M43 145H130" stroke="#d7a675" stroke-width="7"/>
+<!-- layered linen and brown coat with asymmetric hem -->
+<path d="M-111 -376Q-18 -441 107 -382L141 37L67 134L-19 76L-102 148L-159 71L-142 -172Z" fill="url(#coat)" stroke="#714e37" stroke-width="11"/>
+<path d="M-158 71L-103 136L-21 72M107 -382Q148 -206 141 38" stroke="#d0a271" stroke-width="7" fill="none"/>
+<path d="M-85 -366L67 -365L89 -158L-91 -153Z" fill="#e0c59e" stroke="#ab8660" stroke-width="7"/>
+<path d="M-82 -320L85 -281M-87 -226L91 -222" stroke="#ac8c63" stroke-width="6"/>
+<path d="M-102 -234H96" stroke="#694632" stroke-width="24"/>
+<rect x="-20" y="-251" width="44" height="38" rx="4" fill="url(#brass)" stroke="#875a34" stroke-width="7"/>
+<!-- chart satchel rear/physical left: conservative occlusion -->
+<path d="M52 -369Q-32 -220 -132 -129" stroke="#6b4a35" stroke-width="19" fill="none"/>
+<path d="M52 -369Q-32 -220 -132 -129" stroke="#d2a777" stroke-width="5" fill="none"/>
+<g transform="translate(-160 -156)">
+<path d="M-59 -42H52L67 105Q-7 123 -74 103Z" fill="url(#coat)" stroke="#d7ad73" stroke-width="9"/>
+<path d="M-45 -16V85M33 -15V87" stroke="#684634" stroke-width="13"/>
+<rect x="-56" y="35" width="22" height="26" rx="2" fill="url(#brass)" stroke="#7b5235" stroke-width="4"/>
+<rect x="20" y="35" width="22" height="26" rx="2" fill="url(#brass)" stroke="#7b5235" stroke-width="4"/>
+<path d="M-33 -42V-97M24 -43V-92" stroke="#d1b385" stroke-width="14" stroke-linecap="round"/>
+</g>
+<!-- moss shawl with geometric contour, not Tavi full cloak -->
+<path d="M-126 -385Q-25 -463 102 -387L121 -281Q57 -217 -29 -253L-153 -290Z" fill="url(#moss)" stroke="#d3ad74" stroke-width="10"/>
+<path d="M-145 -306Q-73 -279 -39 -269L111 -290" stroke="#d1bb91" stroke-width="5" fill="none"/>
+<path d="M-112 -350Q-44 -364 -5 -320Q44 -301 99 -335" stroke="#b7a37d" stroke-width="5" fill="none"/>
+<circle cx="110" cy="-380" r="22" fill="url(#brass)" stroke="#8d5a34" stroke-width="7"/>
+<g transform="translate(110 -380)"><path d="M0 0L36 0" stroke="#f0c886" stroke-width="4"/><path d="M0 0L25 25" stroke="#f0c886" stroke-width="4"/><path d="M0 0L0 36" stroke="#f0c886" stroke-width="4"/><path d="M0 0L-25 25" stroke="#f0c886" stroke-width="4"/><path d="M0 0L-36 0" stroke="#f0c886" stroke-width="4"/><path d="M0 0L-25 -25" stroke="#f0c886" stroke-width="4"/><path d="M0 0L0 -36" stroke="#f0c886" stroke-width="4"/><path d="M0 0L25 -25" stroke="#f0c886" stroke-width="4"/></g>
+<!-- neck, aged human face strictly picture RIGHT -->
+<path d="M-5 -455L-5 -506L73 -504L78 -438" fill="#e9c39f" stroke="#b18c68" stroke-width="8"/>
+<ellipse cx="3" cy="-546" rx="76" ry="93" fill="#edc7a5" stroke="#aa8567" stroke-width="7"/>
+<path d="M-74 -567Q-93 -626 -32 -659Q31 -684 83 -623L59 -589L12 -606L-37 -586Z" fill="url(#silver)" stroke="#928a81" stroke-width="9"/>
+<path d="M46 -545L106 -531L74 -510Q69 -480 27 -479L-32 -518Q2 -503 35 -514Z" fill="url(#silver)" stroke="#aaa59d" stroke-width="7"/>
+<path d="M60 -581L93 -570L66 -559" fill="#e9c4a3" stroke="#ab886c" stroke-width="5"/>
+<circle cx="50" cy="-569" r="5" fill="#493a2d"/>
+<path d="M15 -505Q47 -483 60 -515" fill="none" stroke="#9f7564" stroke-width="4"/>
+<!-- near RIGHT hand and ordinary wooden survey rod -->
+<path d="M96 -364Q169 -260 165 -116L176 -69" stroke="#e5be99" stroke-width="42" stroke-linecap="round" fill="none"/>
+<path d="M146 -214L192 -207L194 -109L154 -105Z" fill="url(#coat)" stroke="#765239" stroke-width="9"/>
+<path d="M175 -73Q156 -40 177 -20Q203 -8 224 -48L215 -75" fill="#e0b08e" stroke="#a5785a" stroke-width="7"/>
+<path d="M214 -167V156" stroke="#6d4b32" stroke-width="21" stroke-linecap="round"/>
+<path d="M210 -159H217M210 132H217" stroke="#e2b47a" stroke-width="18"/>
+</g>
+<rect x="1060" y="145" width="679" height="875" rx="17" fill="#1b3e4a" stroke="#8ca8a6" stroke-width="3"/>
+<text x="1086" y="199" fill="#ffe0ae" font-family="Georgia,serif" font-size="31">CANON &amp; COSTUME</text>
+<g font-family="sans-serif" font-size="20" fill="#d5e6df">
+<text x="1088" y="253">Elderly human grandfather • former surveyor</text>
+<text x="1088" y="301">Silver swept hair, full beard, aged hands</text>
+<text x="1088" y="349">Brown layered travel coat, moss wrap</text>
+<text x="1088" y="397">Map charts, practical side satchel, rod</text>
+<text x="1088" y="445">Well-worn laced boots, brass instruments</text>
+</g>
+<path d="M1085 484H1705" stroke="#8ca3a3" stroke-width="2" stroke-dasharray="9 8"/>
+<text x="1086" y="533" fill="#f4d6a2" font-family="Georgia,serif" font-size="28">KNOWN PAINTING DRIFT</text>
+<g font-family="sans-serif" font-size="19" fill="#f1d3ac">
+<text x="1089" y="586">New RIGHT has spectacles; FRONT does not</text>
+<text x="1089" y="629">Scarf, compass, scrolls and bag straps vary</text>
+<text x="1089" y="672">Rod grip / coat folds not a proven 3D model</text>
+<text x="1089" y="715">RIGHT is a candidate, NOT finished turnaround</text>
+</g>
+<path d="M1084 765H1704" stroke="#8ca3a3" stroke-width="2" stroke-dasharray="9 8"/>
+<text x="1088" y="822" fill="#d1e1d7" font-size="19" font-family="sans-serif">This SVG is ORIGINAL VECTOR construction art.</text>
+<text x="1088" y="857" fill="#d1e1d7" font-size="19" font-family="sans-serif">Do not count as an additional painted view.</text>
+<text x="1088" y="913" fill="#f4cd92" font-size="20" font-family="sans-serif">Owner G1 pending • Phase 2 and code locked</text>
+<text x="45" y="1067" fill="#bcd6cf" font-family="sans-serif" font-size="18">Original editable 2D art study. No physical iPhone test, genuine model rig, production-quality runtime or gameplay has been created.</text>
+</svg>
