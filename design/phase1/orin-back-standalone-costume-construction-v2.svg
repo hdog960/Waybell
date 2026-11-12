@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536" role="img" aria-labelledby="title description">
+<title id="title">Orin BACK — original individual costume-construction illustration v2</title>
+<desc id="description">Standalone rear view of elderly human surveyor grandfather Orin, silver wavy hair, weathered moss wrap, brown asymmetrical travel coat, parchment tubes, physical-left leather chart bag, practical boot soles and a wooden measuring rod. Preliminary editable vector design illustration, NOT a new premium painted image, game sprite, physical 3D model, owner G1 approval or game code.</desc>
+<defs>
+<linearGradient id="paper" x2=".6" y2="1"><stop stop-color="#f8e9cc"/><stop offset="1" stop-color="#dec5a3"/></linearGradient>
+<linearGradient id="coat" x2="1" y2="1"><stop stop-color="#b58151"/><stop offset=".56" stop-color="#7d5538"/><stop offset="1" stop-color="#493c2e"/></linearGradient>
+<linearGradient id="moss" x2="1" y2="1"><stop stop-color="#788a65"/><stop offset=".5" stop-color="#4f6448"/><stop offset="1" stop-color="#314c43"/></linearGradient>
+<linearGradient id="leather" x2="1" y2="1"><stop stop-color="#b78354"/><stop offset="1" stop-color="#694731"/></linearGradient>
+<linearGradient id="brass" x2="1" y2="1"><stop stop-color="#ffe7b0"/><stop offset="1" stop-color="#956332"/></linearGradient>
+<linearGradient id="hair" x2="1" y2="1"><stop stop-color="#f9f3de"/><stop offset=".52" stop-color="#c9c2af"/><stop offset="1" stop-color="#857e72"/></linearGradient>
+<radialGradient id="ground"><stop stop-color="#74614d" stop-opacity=".26"/><stop offset="1" stop-color="#74614d" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1024" height="1536" fill="url(#paper)"/>
+<ellipse cx="501" cy="1425" rx="300" ry="55" fill="url(#ground)"/>
+<!-- Legs, one worn trouser material and two distinct boots -->
+<path d="M411 893L378 1222L455 1279L511 937M532 942L568 1279L657 1227L615 893" fill="#78614b" stroke="#574433" stroke-width="13"/>
+<path d="M380 1133L454 1140L449 1196L367 1193M557 1145L653 1135L663 1192L567 1197" fill="none" stroke="#a99779" stroke-width="22"/>
+<path d="M373 1218L458 1212L473 1392Q405 1437 308 1382L338 1280Z" fill="url(#leather)" stroke="#67472f" stroke-width="11"/>
+<path d="M572 1212L659 1213L694 1382Q625 1440 552 1394L551 1280Z" fill="url(#leather)" stroke="#67472f" stroke-width="11"/>
+<path d="M340 1302L456 1309M342 1345L466 1351M556 1313H673M559 1353H681" stroke="#c99b67" stroke-width="8"/>
+<path d="M337 1391Q401 1406 465 1389M558 1391Q626 1403 689 1388" fill="none" stroke="#513f30" stroke-width="9"/>
+<!-- Long brown coat back, asymmetric patched hem -->
+<path d="M378 492Q475 458 620 492L712 999L662 1165L574 1087L491 1142L398 1118L326 1177L284 1032Z" fill="url(#coat)" stroke="#64462f" stroke-width="14"/>
+<path d="M384 571Q353 726 298 1028M633 577Q692 814 700 998M310 1050Q409 1123 489 1119Q552 1084 657 1143" stroke="#d2a470" stroke-width="7" fill="none"/>
+<path d="M410 646L390 998M585 650L611 1040" stroke="#ad855f" stroke-width="6" fill="none"/>
+<path d="M372 954L475 966L461 1062L360 1045Z" fill="#98724e" stroke="#d0ad7a" stroke-width="6"/>
+<path d="M375 1008L454 1029M408 964L402 1042M429 968L422 1045" stroke="#e0bc85" stroke-width="5"/>
+<!-- rolled cuffs and hands -->
+<path d="M382 509Q319 639 272 891L244 1010" stroke="#e6c49e" stroke-width="62" stroke-linecap="round" fill="none"/>
+<path d="M625 510Q690 639 748 882L765 1022" stroke="#e8c19a" stroke-width="62" stroke-linecap="round" fill="none"/>
+<path d="M304 821L258 827L244 940L287 946M725 819L774 825L790 938L744 949" fill="#735037" stroke="#c69b6c" stroke-width="10"/>
+<path d="M246 944Q213 976 233 1009Q254 1038 279 1014L285 946M746 949Q733 983 747 1015Q785 1044 800 996L787 943" fill="#e7bd99" stroke="#a37756" stroke-width="7"/>
+<!-- staff at character right, old wooden measuring rod -->
+<path d="M816 461L811 1406" stroke="#65452c" stroke-width="24" stroke-linecap="round"/>
+<path d="M801 467H828M800 1365H825" stroke="url(#brass)" stroke-width="16"/>
+<path d="M806 650H823M807 903H823M807 1150H823" stroke="#ba884e" stroke-width="8"/>
+<!-- shoulder garment under moss: one utilitarian rear harness -->
+<path d="M408 550Q485 697 614 852" fill="none" stroke="#513e31" stroke-width="29"/>
+<path d="M411 550Q483 695 611 849" fill="none" stroke="#d4a06a" stroke-width="7"/>
+<path d="M604 556Q546 722 410 889" fill="none" stroke="#6a4b36" stroke-width="21"/>
+<path d="M602 555Q546 726 410 889" fill="none" stroke="#c29a65" stroke-width="5"/>
+<path d="M330 851L683 850" stroke="#60432e" stroke-width="32"/>
+<rect x="494" y="833" width="54" height="39" rx="5" fill="url(#brass)" stroke="#784f30" stroke-width="7"/>
+<!-- survey satchel physically LEFT on image-right rear; two buckles -->
+<g transform="translate(654 822)">
+<path d="M-80 -38H70L88 147Q0 185 -92 153Z" fill="url(#leather)" stroke="#c9a176" stroke-width="12"/>
+<path d="M-74 -10Q4 26 75 -13L70 56Q0 78 -76 55Z" fill="#96653e" stroke="#725039" stroke-width="7"/>
+<path d="M-39 -8V140M37 -10V141" stroke="#67442f" stroke-width="17"/>
+<rect x="-55" y="43" width="30" height="37" rx="3" fill="url(#brass)" stroke="#82552f" stroke-width="5"/>
+<rect x="22" y="43" width="30" height="37" rx="3" fill="url(#brass)" stroke="#82552f" stroke-width="5"/>
+<path d="M-46 -40L-49 -110M24 -38L23 -126" stroke="#d6b58a" stroke-width="21" stroke-linecap="round"/>
+<path d="M-57 -132Q-19 -146 15 -130M-57 -118Q-16 -134 17 -118" stroke="#927b61" stroke-width="6" fill="none"/>
+</g>
+<!-- moss surveyor wrap shoulder shawl, not Tavi teal cape -->
+<path d="M351 522Q409 420 504 433Q609 420 670 522L682 697Q603 759 533 711L461 674L367 752L313 676Z" fill="url(#moss)" stroke="#bb9c6a" stroke-width="12"/>
+<path d="M338 652Q405 706 456 653M553 703Q618 735 671 670" fill="none" stroke="#dcc18e" stroke-width="7"/>
+<path d="M368 569Q442 596 498 587Q585 565 647 601" stroke="#a3a886" stroke-width="6" fill="none"/>
+<path d="M398 632Q443 653 465 615M584 632Q610 671 649 641" stroke="#c8ab75" stroke-width="5" fill="none"/>
+<!-- brass compass sewn small to shawl back -->
+<g transform="translate(504 622)" stroke="#ecd096" fill="none">
+<circle r="44" stroke-width="5"/><circle r="29" stroke-width="3"/>
+<path d="M0 -52V52M-52 0H52M-36 -36L36 36M-36 36L36 -36" stroke-width="5"/>
+<circle r="9" fill="url(#brass)"/>
+</g>
+<!-- rear human head and naturally aged silvery waves -->
+<path d="M461 457L461 406L549 407L557 460" fill="#dfb38c" stroke="#a0785b" stroke-width="8"/>
+<ellipse cx="509" cy="313" rx="118" ry="130" fill="#c8b7a5" stroke="#897b6d" stroke-width="8"/>
+<path d="M397 365Q362 318 387 272Q356 220 400 180Q410 131 454 138Q483 95 525 127Q571 91 610 145Q651 140 667 190Q700 233 656 281Q667 343 625 386L592 401Q543 384 503 409Q447 392 397 365Z" fill="url(#hair)" stroke="#877e73" stroke-width="11"/>
+<path d="M399 229Q395 190 427 174M447 149Q460 108 495 131M525 128Q558 97 584 143M602 156Q644 124 660 179M654 254Q688 293 637 339" fill="none" stroke="#f7efdf" stroke-width="19" stroke-linecap="round"/>
+<path d="M408 312Q440 345 457 331M482 365Q523 341 562 371M592 341Q617 353 640 318" fill="none" stroke="#bcb6aa" stroke-width="13" stroke-linecap="round"/>
+</svg>
