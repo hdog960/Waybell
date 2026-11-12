@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1840" height="1170" viewBox="0 0 1840 1170" role="img" aria-labelledby="title description">
+<title id="title">WAYBELL — Tavi left and right physical equipment ownership construction v17</title>
+<desc id="description">Original artist-authored Phase 1 comparative costume registration for original two-profile Tavi designs. Physical-left map satchel is near camera in LEFT view and far/occluded in RIGHT view; right-hand lantern does the opposite. The visual diagrams do not replace the separately painted original concepts or imply G1 approval, a 3D rig, model or game.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12313f"/><stop offset="1" stop-color="#283e45"/></linearGradient>
+<linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f9eacf"/><stop offset="1" stop-color="#ddc6a1"/></linearGradient>
+<linearGradient id="cloak" x2="1" y2="1"><stop stop-color="#329299"/><stop offset=".56" stop-color="#17677a"/><stop offset="1" stop-color="#104456"/></linearGradient>
+<linearGradient id="brass" x2="1" y2="1"><stop stop-color="#ffe9ad"/><stop offset=".5" stop-color="#d7a15b"/><stop offset="1" stop-color="#865a33"/></linearGradient>
+<linearGradient id="leather" x2="1" y2="1"><stop stop-color="#b28259"/><stop offset="1" stop-color="#5c3d2d"/></linearGradient>
+<linearGradient id="boot" x2="1" y2="1"><stop stop-color="#b8834c"/><stop offset="1" stop-color="#513b2a"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ffe7a6" stop-opacity=".7"/><stop offset=".7" stop-color="#fbb454" stop-opacity=".2"/><stop offset="1" stop-color="#ffb851" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1840" height="1170" fill="url(#bg)"/><rect x="19" y="19" width="1802" height="1132" rx="20" fill="none" stroke="#d0a875" stroke-width="3"/>
+<text x="46" y="72" fill="#ffe2b1" font-size="40" font-family="Georgia,serif">TAVI • PHYSICAL-SIDE REGISTER v17</text>
+<text x="49" y="110" fill="#b9d5d0" font-size="18" font-family="sans-serif">Two independently drawn profile constructions — camera changes, equipment ownership does not</text>
+<rect x="40" y="145" width="874" height="884" rx="16" fill="url(#paper)" stroke="#d4b17c" stroke-width="3"/>
+<rect x="931" y="145" width="867" height="884" rx="16" fill="url(#paper)" stroke="#d4b17c" stroke-width="3"/>
+<rect x="54" y="162" width="845" height="90" rx="10" fill="#204653"/>
+<rect x="945" y="162" width="838" height="90" rx="10" fill="#204653"/>
+<text x="74" y="201" fill="#ffe0ac" font-family="Georgia,serif" font-size="29">LEFT PROFILE</text>
+<text x="74" y="231" fill="#c8e1d7" font-family="sans-serif" font-size="17">Physical LEFT bag near • RIGHT lantern far</text>
+<text x="966" y="201" fill="#ffe0ac" font-family="Georgia,serif" font-size="29">RIGHT PROFILE</text>
+<text x="966" y="231" fill="#c8e1d7" font-family="sans-serif" font-size="17">Physical RIGHT lantern near • LEFT bag far</text>
+<g transform="translate(465 780) scale(-1 1)">
+  <ellipse cy="118" rx="210" ry="31" fill="#9f8e72" opacity=".24"/>
+  <path d="M-73 -158L-78 66L-22 65L-15 -163M15 -166L41 62L102 62L72 -176" fill="#625143" stroke="#514033" stroke-width="10"/>
+  <path d="M-80 56L-93 145L4 153L9 73M39 64L37 146L130 151L111 73" fill="url(#boot)" stroke="#624029" stroke-width="10"/>
+  <path d="M-93 95L6 110M-86 130L7 138M40 97H115M40 128H127" stroke="#d2a369" stroke-width="7"/>
+  <!-- travel-body -->
+  <path d="M-113 -395Q-8 -436 98 -385L94 -155L-104 -156Z" fill="#e5c39e" stroke="#947356" stroke-width="9"/>
+  <path d="M-79 -374L75 -372L97 -169L-76 -178Z" fill="url(#leather)" stroke="#785239" stroke-width="9"/>
+  <path d="M-76 -307L95 -273M-78 -245L96 -239" stroke="#d4a76d" stroke-width="5"/>
+  <!-- asymmetric gold-lined cape -->
+  <path d="M-112 -389Q-30 -455 99 -392L167 47L68 149L-25 108L-133 174L-175 74L-134 -154Z" fill="url(#cloak)" stroke="#f5ce87" stroke-width="12"/>
+  <path d="M-139 35L-169 73L-133 168Q-20 104 66 141M114 -388Q155 -201 159 28" stroke="#f1c984" stroke-width="6" fill="none"/>
+  <path d="M-107 -302Q-42 -227 -104 -165Q-162 -112 -37 -46Q-12 13 -86 72M90 -301Q43 -241 115 -162Q166 -115 109 -40" stroke="#e9b875" stroke-width="6" fill="none"/>
+  <!-- one compass disk and route spokes on back-biased visible cape -->
+  <g transform="translate(67 -25)" stroke="#eac17c" fill="none"><circle r="78" stroke-width="6"/><circle r="59" stroke-width="3"/><path d="M0 -94V94M-94 0H94M-65 -65L65 65M-65 65L65 -65" stroke-width="5"/><circle r="11" fill="#e6b779"/></g>
+  <!-- far-side inventory first, RIGHT near / LEFT far in right-facing view -->
+  
+  <!-- head faces image local LEFT; when transformed right it becomes RIGHT -->
+  <ellipse cx="-32" cy="-531" rx="74" ry="94" fill="#e9bc93" stroke="#a67b58" stroke-width="7"/>
+  <path d="M-107 -543Q-133 -605 -64 -631Q-23 -674 31 -636Q82 -626 80 -568L39 -587L-4 -572L-62 -585L-94 -539Z" fill="#5b3b2d" stroke="#443025" stroke-width="9"/>
+  <path d="M-83 -545L-109 -519L-88 -501" fill="#e9bc93" stroke="#ac8263" stroke-width="4"/>
+  <circle cx="-71" cy="-530" r="5" fill="#493327"/>
+  <path d="M-101 -480Q-93 -470 -81 -482" stroke="#a3765c" stroke-width="4" fill="none"/>
+  <path d="M-109 -392Q-64 -460 36 -464L91 -383L25 -350L-73 -353Z" fill="#1b6075" stroke="#e2b478" stroke-width="9"/>
+  <circle cx="-91" cy="-387" r="20" fill="url(#brass)" stroke="#8f6034" stroke-width="5"/>
+  <!-- physical near arm -->
+  <path d="M-100 -377Q-109 -263 -115 -144L-123 -92" fill="none" stroke="#dfb18b" stroke-width="40" stroke-linecap="round"/>
+  <path d="M-139 -185L-84 -181L-82 -107L-141 -100Z" fill="url(#leather)" stroke="#7d5235" stroke-width="9"/>
+  <path d="M-132 -154H-86M-135 -131H-86" stroke="#dbac6b" stroke-width="6"/>
+  <!-- near left hip bag, far right lantern behind contour --> <path d="M-98 -371Q-21 -272 -10 -183" stroke="#65452e" stroke-width="17" fill="none"/><g transform="translate(-31 -149)"><path d="M-62 -41H63L74 111H-73Z" fill="url(#leather)" stroke="#ddb276" stroke-width="9"/><path d="M-54 -8V93M43 -8V93" stroke="#6c4932" stroke-width="13"/><rect x="-65" y="27" width="22" height="28" fill="#e0b67a"/><rect x="34" y="27" width="22" height="28" fill="#e0b67a"/></g><g transform="translate(-203 -37)" opacity=".73"><circle r="85" cy="51" fill="url(#glow)"/><path d="M-28 -9Q-26 -47 0 -47Q24 -47 27 -9" stroke="#997044" stroke-width="8" fill="none"/><path d="M-39 -3H39L31 91H-32Z" fill="url(#brass)" stroke="#8a5e36" stroke-width="8"/><rect x="-22" y="18" width="45" height="60" fill="#ffe4a2"/></g>
+  </g> <g transform="translate(1321 780) scale(1 1)">
+  <ellipse cy="118" rx="210" ry="31" fill="#9f8e72" opacity=".24"/>
+  <path d="M-73 -158L-78 66L-22 65L-15 -163M15 -166L41 62L102 62L72 -176" fill="#625143" stroke="#514033" stroke-width="10"/>
+  <path d="M-80 56L-93 145L4 153L9 73M39 64L37 146L130 151L111 73" fill="url(#boot)" stroke="#624029" stroke-width="10"/>
+  <path d="M-93 95L6 110M-86 130L7 138M40 97H115M40 128H127" stroke="#d2a369" stroke-width="7"/>
+  <!-- travel-body -->
+  <path d="M-113 -395Q-8 -436 98 -385L94 -155L-104 -156Z" fill="#e5c39e" stroke="#947356" stroke-width="9"/>
+  <path d="M-79 -374L75 -372L97 -169L-76 -178Z" fill="url(#leather)" stroke="#785239" stroke-width="9"/>
+  <path d="M-76 -307L95 -273M-78 -245L96 -239" stroke="#d4a76d" stroke-width="5"/>
+  <!-- asymmetric gold-lined cape -->
+  <path d="M-112 -389Q-30 -455 99 -392L167 47L68 149L-25 108L-133 174L-175 74L-134 -154Z" fill="url(#cloak)" stroke="#f5ce87" stroke-width="12"/>
+  <path d="M-139 35L-169 73L-133 168Q-20 104 66 141M114 -388Q155 -201 159 28" stroke="#f1c984" stroke-width="6" fill="none"/>
+  <path d="M-107 -302Q-42 -227 -104 -165Q-162 -112 -37 -46Q-12 13 -86 72M90 -301Q43 -241 115 -162Q166 -115 109 -40" stroke="#e9b875" stroke-width="6" fill="none"/>
+  <!-- one compass disk and route spokes on back-biased visible cape -->
+  <g transform="translate(67 -25)" stroke="#eac17c" fill="none"><circle r="78" stroke-width="6"/><circle r="59" stroke-width="3"/><path d="M0 -94V94M-94 0H94M-65 -65L65 65M-65 65L65 -65" stroke-width="5"/><circle r="11" fill="#e6b779"/></g>
+  <!-- far-side inventory first, RIGHT near / LEFT far in right-facing view -->
+  <g transform="translate(-152 -158)" opacity=".82"><path d="M-40 -31H43L57 98H-51Z" fill="url(#leather)" stroke="#ddb276" stroke-width="7"/><path d="M-29 -13V82M31 -13V82" stroke="#714c31" stroke-width="12"/><rect x="-37" y="29" width="20" height="26" fill="#dab378"/><rect x="19" y="29" width="20" height="26" fill="#dab378"/></g>
+  <!-- head faces image local LEFT; when transformed right it becomes RIGHT -->
+  <ellipse cx="-32" cy="-531" rx="74" ry="94" fill="#e9bc93" stroke="#a67b58" stroke-width="7"/>
+  <path d="M-107 -543Q-133 -605 -64 -631Q-23 -674 31 -636Q82 -626 80 -568L39 -587L-4 -572L-62 -585L-94 -539Z" fill="#5b3b2d" stroke="#443025" stroke-width="9"/>
+  <path d="M-83 -545L-109 -519L-88 -501" fill="#e9bc93" stroke="#ac8263" stroke-width="4"/>
+  <circle cx="-71" cy="-530" r="5" fill="#493327"/>
+  <path d="M-101 -480Q-93 -470 -81 -482" stroke="#a3765c" stroke-width="4" fill="none"/>
+  <path d="M-109 -392Q-64 -460 36 -464L91 -383L25 -350L-73 -353Z" fill="#1b6075" stroke="#e2b478" stroke-width="9"/>
+  <circle cx="-91" cy="-387" r="20" fill="url(#brass)" stroke="#8f6034" stroke-width="5"/>
+  <!-- physical near arm -->
+  <path d="M-100 -377Q-109 -263 -115 -144L-123 -92" fill="none" stroke="#dfb18b" stroke-width="40" stroke-linecap="round"/>
+  <path d="M-139 -185L-84 -181L-82 -107L-141 -100Z" fill="url(#leather)" stroke="#7d5235" stroke-width="9"/>
+  <path d="M-132 -154H-86M-135 -131H-86" stroke="#dbac6b" stroke-width="6"/>
+  <!-- near right hand holds lantern --><g transform="translate(-138 -45)"><circle r="99" cy="54" fill="url(#glow)"/><path d="M-27 -10Q-24 -49 0 -49Q27 -48 30 -10" stroke="#966a3e" stroke-width="10" fill="none"/><path d="M-41 -3H41L33 104H-35Z" fill="url(#brass)" stroke="#895d34" stroke-width="10"/><rect x="-26" y="20" width="53" height="69" fill="#ffebaa"/><path d="M0 20V89" stroke="#ad7e43" stroke-width="5"/></g>
+  </g>
+<text x="66" y="999" fill="#70553f" font-family="sans-serif" font-size="18">Review 24 LEFT reference: two buckle closures clearly near</text>
+<text x="948" y="999" fill="#70553f" font-family="sans-serif" font-size="18">Review 25 RIGHT: far bag partly hidden, exact attachment unproven</text>
+<rect x="40" y="1043" width="1758" height="77" rx="11" fill="#102e38" stroke="#799998" stroke-width="2"/>
+<text x="62" y="1075" font-family="sans-serif" font-size="20" fill="#f4d8a7">Shared invariants: young curly face, one 8-point rear compass, same gold road network, asymmetrical hem, two-buckle bag and one lantern.</text>
+<text x="62" y="1102" font-family="sans-serif" font-size="16" fill="#c4d7d0">Source illustration only • NOT a painted correction to earlier raster sources, single 3D rig, actual iPhone test, G1 approval or Phase 2/game code.</text>
+</svg>
