@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1060" viewBox="0 0 1700 1060" role="img" aria-labelledby="title desc"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142f3d"/><stop offset="1" stop-color="#30444a"/></linearGradient><linearGradient id="teal" x2="1" y2="1"><stop stop-color="#2b8995"/><stop offset=".5" stop-color="#155f74"/><stop offset="1" stop-color="#103c56"/></linearGradient><linearGradient id="leather" x2="1" y2="1"><stop stop-color="#b78350"/><stop offset="1" stop-color="#62422d"/></linearGradient><linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff1ba"/><stop offset=".55" stop-color="#dfa85e"/><stop offset="1" stop-color="#8c6032"/></linearGradient></defs>
+<title id="title">Waybell Tavi back-left verified direction and front-left missing-angle construction v11</title>
+<desc id="desc">Original artist-authored Phase 1 vector study. Left panel documents the NEW standalone BACK-LEFT painted candidate physical inventory and compass motif. Right panel is ONLY a proposed FRONT-LEFT three-quarter construction, not a full-resolution painted candidate. No runtime code, controls, rigging, animation or G1 approval.</desc>
+<rect width="1700" height="1060" fill="url(#bg)"/><rect x="18" y="18" width="1664" height="1024" rx="19" fill="none" stroke="#cfaf76" stroke-width="3"/>
+<text x="47" y="71" fill="#ffe0b1" font-size="41" font-family="Georgia,serif">TAVI — BACK-LEFT VERIFIED / FRONT-LEFT OPEN • VISUAL CONTRACT v11</text>
+<text x="48" y="115" fill="#b7d1cd" font-size="19" font-family="sans-serif">One original vector construction per angle; actual premium painted sources are separate PNGs in the Review 19 ZIP.</text>
+<g transform="translate(38 170)">
+<rect width="790" height="798" rx="15" fill="#ecd8b8" stroke="#e2bc7f" stroke-width="4"/>
+<g transform="translate(340 620) scale(.78)"><g transform="translate(0 0)">
+<ellipse cx="0" cy="189" rx="205" ry="23" fill="#9e917b" opacity=".23"/>
+<path d="M-78 -163L-85 84L-35 89L-11 -157M26 -166L47 86L108 79L92 -174" fill="#594b42" stroke="#3d352e" stroke-width="11"/>
+<path d="M-90 79L-106 168L-20 176L-27 84M45 78L36 167L131 171L108 81" fill="url(#leather)" stroke="#6c4831" stroke-width="11"/>
+<path d="M-104 117H-25M-100 143H-23M42 118H111M38 143H118" stroke="#dfad6b" stroke-width="8"/>
+
+<path d="M-110 -388L-175 -165M112 -384L165 -150" fill="none" stroke="#e6bf98" stroke-width="39" stroke-linecap="round"/>
+<path d="M-116 -386Q-10 -444 134 -383L196 54L57 99L-153 152L-197 60L-155 -177Z" fill="url(#teal)" stroke="#ecc387" stroke-width="11"/>
+<path d="M-143 -357Q-173 -189 -191 41M135 -374L184 53M-184 68Q-66 129 63 85" stroke="#eac27c" stroke-width="6" fill="none"/>
+<path d="M-82 -296Q-29 -255 -71 -190Q-126 -123 1 -79T83 35M115 -279Q71 -214 106 -157Q143 -95 66 -55" fill="none" stroke="#e5ba73" stroke-width="7"/>
+<g transform="translate(13 -118)" fill="none" stroke="#e7ba70"><circle r="92" stroke-width="8"/><circle r="69" stroke-width="4"/><path d="M0 -108V108M-108 0H108M-76 -76L76 76M-76 76L76 -76" stroke-width="5"/><path d="M0 -75L18 -15L0 0L-18 -15ZM0 75L18 15L0 0L-18 15Z" fill="url(#gold)" stroke="#926334" stroke-width="4"/></g>
+<path d="M-113 -392Q-70 -468 31 -471L127 -397L64 -347L-83 -360Z" fill="#21586d" stroke="#e5b87d" stroke-width="10"/>
+<ellipse cx="-60" cy="-530" rx="68" ry="82" fill="#563b2e" stroke="#8e684c" stroke-width="7"/>
+<path d="M-129 -528Q-146 -621 -69 -628Q-19 -661 18 -597L0 -546L-23 -567L-61 -562L-106 -559Z" fill="#55392a" stroke="#332a23" stroke-width="6"/>
+<path d="M-119 -525Q-133 -511 -121 -490" fill="#e6b78b"/>
+<path d="M-54 -397Q-106 -302 -170 -143" stroke="#755138" stroke-width="21" fill="none"/>
+<g transform="translate(-170 -165)"><rect x="-52" y="-30" width="100" height="130" rx="13" fill="url(#leather)" stroke="#e4b77c" stroke-width="8"/><path d="M-46 8H42M-25 35H23" stroke="#e8b77c" stroke-width="7"/><rect x="-12" y="37" width="26" height="33" rx="4" fill="url(#gold)"/><path d="M-24 -26V-69M17 -23V-75" stroke="#9b734b" stroke-width="15"/></g>
+<path d="M108 -389Q151 -272 174 -144L174 -89" fill="none" stroke="#d9ad8e" stroke-width="39" stroke-linecap="round"/>
+<g transform="translate(174 -71)"><path d="M-26 -5Q-19 -40 0 -40Q22 -39 28 -6" fill="none" stroke="#a57c43" stroke-width="10"/><path d="M-44 4H46L36 125H-35Z" fill="url(#gold)" stroke="#875d37" stroke-width="9"/><rect x="-23" y="17" width="48" height="76" fill="#ffe5a3"/><path d="M0 17V94M-23 53H25" stroke="#bd874a" stroke-width="5"/></g>
+</g></g>
+<rect x="15" y="17" width="761" height="95" rx="11" fill="#193a44"/>
+<text x="32" y="54" fill="#ffe1a8" font-size="28" font-family="Georgia,serif">BACK-LEFT ¾ / NW</text>
+<text x="32" y="88" fill="#b7e1cb" font-size="18" font-family="sans-serif">NEW standalone painterly candidate exists (Review 19)</text>
+<rect x="30" y="641" width="720" height="137" rx="9" fill="#183744" fill-opacity=".96"/>
+<text x="49" y="665" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Near side: LEFT map satchel</text><text x="49" y="688" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Far side: RIGHT-hand lantern</text><text x="49" y="711" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Rear compass centered on same cloak panel</text><text x="49" y="734" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Face turns AWAY and to picture-left</text><text x="49" y="757" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Rear hem and boot straps must match</text>
+</g>
+<g transform="translate(870 170)">
+<rect width="790" height="798" rx="15" fill="#ecd8b8" stroke="#e2bc7f" stroke-width="4"/>
+<g transform="translate(340 620) scale(.78)"><g transform="translate(0 0)">
+<ellipse cx="0" cy="189" rx="205" ry="23" fill="#9e917b" opacity=".23"/>
+<path d="M-78 -163L-85 84L-35 89L-11 -157M26 -166L47 86L108 79L92 -174" fill="#594b42" stroke="#3d352e" stroke-width="11"/>
+<path d="M-90 79L-106 168L-20 176L-27 84M45 78L36 167L131 171L108 81" fill="url(#leather)" stroke="#6c4831" stroke-width="11"/>
+<path d="M-104 117H-25M-100 143H-23M42 118H111M38 143H118" stroke="#dfad6b" stroke-width="8"/>
+<path d="M-100 -375Q-2 -404 110 -379L100 -152H-108Z" fill="#d9bb92" stroke="#96765a" stroke-width="7"/>
+<path d="M-45 -360L-43 -155L60 -159L56 -360" fill="#74513a" stroke="#593c2d" stroke-width="6"/>
+<path d="M-43 -348L62 -270M-43 -290L64 -229M-34 -206L58 -206" stroke="#d5a36a" stroke-width="6"/>
+<path d="M-68 -369L73 -263" fill="none" stroke="#805437" stroke-width="18"/>
+<circle cx="-64" cy="-366" r="22" fill="url(#gold)" stroke="#865d36" stroke-width="6"/>
+<path d="M-110 -388L-175 -165M112 -384L165 -150" fill="none" stroke="#e6bf98" stroke-width="39" stroke-linecap="round"/>
+<path d="M-117 -388Q5 -420 126 -377L149 76L29 139L-125 81L-174 16Z" fill="url(#teal)" stroke="#e8bd77" stroke-width="11"/>
+<path d="M-117 -390Q-155 -231 -164 5M132 -372L143 65M-161 24L24 126L140 73" stroke="#ebc488" stroke-width="6" fill="none"/>
+<path d="M-101 -281Q-61 -215 -112 -141Q-107 -66 13 -8M76 -283Q99 -166 60 -106" fill="none" stroke="#e9c27b" stroke-width="7"/>
+<path d="M-113 -392Q-70 -468 31 -471L127 -397L64 -347L-83 -360Z" fill="#21586d" stroke="#e5b87d" stroke-width="10"/>
+<ellipse cx="-25" cy="-530" rx="68" ry="82" fill="#e8bf96" stroke="#8e684c" stroke-width="7"/>
+<path d="M-129 -528Q-146 -621 -69 -628Q-19 -661 18 -597L0 -546L-23 -567L-61 -562L-106 -559Z" fill="#55392a" stroke="#332a23" stroke-width="6"/>
+<circle cx="-68" cy="-525" r="4.5" fill="#473226"/><path d="M-92 -496q14 12 26 0" stroke="#a4715a" stroke-width="3" fill="none"/>
+<path d="M-54 -397Q-106 -302 126 -143" stroke="#755138" stroke-width="21" fill="none"/>
+<g transform="translate(126 -165)"><rect x="-52" y="-30" width="100" height="130" rx="13" fill="url(#leather)" stroke="#e4b77c" stroke-width="8"/><path d="M-46 8H42M-25 35H23" stroke="#e8b77c" stroke-width="7"/><rect x="-12" y="37" width="26" height="33" rx="4" fill="url(#gold)"/><path d="M-24 -26V-69M17 -23V-75" stroke="#9b734b" stroke-width="15"/></g>
+<path d="M-112 -389Q-141 -272 -148 -144L-148 -89" fill="none" stroke="#d9ad8e" stroke-width="39" stroke-linecap="round"/>
+<g transform="translate(-148 -71)"><path d="M-26 -5Q-19 -40 0 -40Q22 -39 28 -6" fill="none" stroke="#a57c43" stroke-width="10"/><path d="M-44 4H46L36 125H-35Z" fill="url(#gold)" stroke="#875d37" stroke-width="9"/><rect x="-23" y="17" width="48" height="76" fill="#ffe5a3"/><path d="M0 17V94M-23 53H25" stroke="#bd874a" stroke-width="5"/></g>
+</g></g>
+<rect x="15" y="17" width="761" height="95" rx="11" fill="#193a44"/>
+<text x="32" y="54" fill="#ffe1a8" font-size="28" font-family="Georgia,serif">FRONT-LEFT ¾ / SW</text>
+<text x="32" y="88" fill="#eec6a2" font-size="18" font-family="sans-serif">OPEN: only a vector art-construction target</text>
+<rect x="30" y="641" width="720" height="137" rx="9" fill="#183744" fill-opacity=".96"/>
+<text x="49" y="665" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Near side: LEFT map satchel</text><text x="49" y="688" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Far side: RIGHT-hand lantern</text><text x="49" y="711" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Angled face and chest both visible</text><text x="49" y="734" fill="#e1e6d8" font-size="16" font-family="sans-serif">• No mirrored right-facing costume</text><text x="49" y="757" fill="#e1e6d8" font-size="16" font-family="sans-serif">• Actual premium painting STILL MISSING</text>
+</g>
+<text x="49" y="1005" fill="#e8d0a5" font-size="19" font-family="sans-serif">Both sides: physical LEFT carries map satchel; physical RIGHT carries Echo Lantern. Never mirror the whole outfit to cheat a new view.</text>
+<text x="49" y="1031" fill="#afc9c9" font-size="15" font-family="sans-serif">SVG artwork is a readable artist specification—not a substitute for a genuine individual premium painting, production rig, game code or physical iPhone test.</text>
+</svg>
