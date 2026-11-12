@@ -1,0 +1,280 @@
+{
+  "$schema": "WAYBELL/manual-seeded-art-silhouette-v1",
+  "review": 32,
+  "canvas": [
+    1024,
+    1536
+  ],
+  "reference_only": true,
+  "scope": "Original source-portrait contour registration for Phase 1 alpha research, not game code, premium new paintings, approved transparent sprites, or G1",
+  "process": {
+    "reduction": 0.5,
+    "engine": "OpenCV GrabCut mask initialized with hand-authored probable foreground polygon and conservative foreground interior boxes",
+    "iterations": 5,
+    "morphology": "3x3 close and fill-holes; resize; 3x3 Gaussian 0.6",
+    "failure": "Parchement orange leakage near hair, staff, boots, blurred edge fidelity. NOT APPROVED for production alpha",
+    "labelling": "RESEARCH ONLY"
+  },
+  "source_file_note": "True original PNGs available in conversation archive, not GitHub; SHA256 references identify exact source art",
+  "subjects": {
+    "orin_front": {
+      "file": "19_NEW_ORIN_FRONT_INDEPENDENT.png",
+      "source_sha256": "6dc40ca712ff17b2758d809416e55267954a76b07e05b8ddbc77c49071867fa4",
+      "probable_foreground_polygon": [
+        [
+          140,
+          0
+        ],
+        [
+          650,
+          0
+        ],
+        [
+          775,
+          110
+        ],
+        [
+          835,
+          300
+        ],
+        [
+          876,
+          630
+        ],
+        [
+          862,
+          1050
+        ],
+        [
+          763,
+          1210
+        ],
+        [
+          743,
+          1535
+        ],
+        [
+          165,
+          1535
+        ],
+        [
+          145,
+          1150
+        ],
+        [
+          154,
+          860
+        ],
+        [
+          153,
+          570
+        ],
+        [
+          213,
+          285
+        ],
+        [
+          327,
+          145
+        ]
+      ],
+      "certain_foreground_boxes": [
+        [
+          410,
+          250,
+          620,
+          500
+        ],
+        [
+          348,
+          515,
+          666,
+          915
+        ],
+        [
+          400,
+          870,
+          634,
+          1200
+        ],
+        [
+          430,
+          1250,
+          640,
+          1455
+        ],
+        [
+          224,
+          630,
+          259,
+          1452
+        ]
+      ],
+      "observed_fraction": 0.4288,
+      "observed_risk": "ground and pale skin need further manual refinement"
+    },
+    "orin_right": {
+      "file": "21_NEW_ORIN_RIGHT_PRELIMINARY.png",
+      "source_sha256": "4667e38208de608b6fb21e62c0b204111be0e03ffc57baa6a0602d8b8041eb38",
+      "probable_foreground_polygon": [
+        [
+          250,
+          0
+        ],
+        [
+          640,
+          0
+        ],
+        [
+          705,
+          230
+        ],
+        [
+          788,
+          350
+        ],
+        [
+          805,
+          1535
+        ],
+        [
+          300,
+          1535
+        ],
+        [
+          175,
+          1190
+        ],
+        [
+          168,
+          620
+        ],
+        [
+          213,
+          340
+        ]
+      ],
+      "certain_foreground_boxes": [
+        [
+          365,
+          45,
+          559,
+          211
+        ],
+        [
+          295,
+          310,
+          604,
+          600
+        ],
+        [
+          295,
+          615,
+          620,
+          1033
+        ],
+        [
+          340,
+          1060,
+          569,
+          1430
+        ],
+        [
+          661,
+          515,
+          715,
+          1410
+        ]
+      ],
+      "observed_fraction": 0.4102,
+      "observed_risk": "obvious rectangular warm background around head/staff; original RIGHT spectators remain; not sprite-ready"
+    },
+    "seren_front": {
+      "file": "20_NEW_SEREN_FRONT_INDEPENDENT.png",
+      "source_sha256": "660cffb56a51c1bb6845f70843508146c712aaf10bc97f7c8b9469534dd22967",
+      "probable_foreground_polygon": [
+        [
+          325,
+          0
+        ],
+        [
+          620,
+          0
+        ],
+        [
+          730,
+          276
+        ],
+        [
+          776,
+          613
+        ],
+        [
+          820,
+          1200
+        ],
+        [
+          743,
+          1510
+        ],
+        [
+          265,
+          1510
+        ],
+        [
+          200,
+          1080
+        ],
+        [
+          235,
+          528
+        ],
+        [
+          305,
+          253
+        ]
+      ],
+      "certain_foreground_boxes": [
+        [
+          435,
+          35,
+          575,
+          200
+        ],
+        [
+          360,
+          330,
+          656,
+          610
+        ],
+        [
+          325,
+          700,
+          670,
+          1080
+        ],
+        [
+          395,
+          1070,
+          680,
+          1370
+        ],
+        [
+          422,
+          1380,
+          592,
+          1469
+        ]
+      ],
+      "observed_fraction": 0.3374,
+      "observed_risk": "cream robes and skin merge with warm parchment; foot shadow contamination"
+    }
+  },
+  "acceptance_gate": {
+    "transparent_game_sprite": "FAIL",
+    "figure_readability_proxy": "STATIC RESEARCH ONLY",
+    "physical_iPhone": "NOT TESTED",
+    "owner_G1": "PENDING",
+    "phase2_game_code": "LOCKED"
+  }
+}
