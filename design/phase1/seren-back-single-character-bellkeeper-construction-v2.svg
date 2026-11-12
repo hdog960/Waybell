@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1086" height="1448" viewBox="0 0 1086 1448" role="img" aria-labelledby="title description">
+<title id="title">Seren Vale BACK — original independent human Bellkeeper costume construction v2</title>
+<desc id="description">An original editable single full-figure BACK view design illustration of the adult HUMAN last High Bellkeeper Seren Vale, dark chestnut pinned bun and ribbon, layered ivory cream robe, navy mantle with one bell/branch insignia, two small brass bells, ordinary leather waist pouch, and worn boots. It is not a premium independently painted portrait, gameplay sprite, 3D rig, plot approval or Gate G1 acceptance.</desc>
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f9edcf"/><stop offset="1" stop-color="#d7bc99"/></linearGradient><linearGradient id="navy" x2="1" y2="1"><stop stop-color="#466583"/><stop offset=".55" stop-color="#2c4465"/><stop offset="1" stop-color="#172b46"/></linearGradient><linearGradient id="cream" x2="1" y2="1"><stop stop-color="#fff4d7"/><stop offset=".5" stop-color="#edd8b3"/><stop offset="1" stop-color="#bda281"/></linearGradient><linearGradient id="brass" x2="1" y2="1"><stop stop-color="#fce8ae"/><stop offset=".5" stop-color="#d7a458"/><stop offset="1" stop-color="#8a5b34"/></linearGradient><linearGradient id="hair" x2="1" y2="1"><stop stop-color="#865138"/><stop offset=".6" stop-color="#5b3b30"/><stop offset="1" stop-color="#34251f"/></linearGradient><linearGradient id="hide" x2="1" y2="1"><stop stop-color="#bc8b59"/><stop offset="1" stop-color="#5f4537"/></linearGradient><radialGradient id="shadow"><stop stop-color="#82705c" stop-opacity=".28"/><stop offset="1" stop-color="#82705c" stop-opacity="0"/></radialGradient></defs>
+<rect width="1086" height="1448" fill="url(#paper)"/><ellipse cx="548" cy="1368" rx="276" ry="42" fill="url(#shadow)"/>
+<!-- rear boots and symmetrical trouser cut -->
+<path d="M469 1101L474 1284L539 1310L535 1085M561 1093L571 1311L645 1287L645 1094" fill="#6f5947" stroke="#583e32" stroke-width="10"/>
+<path d="M470 1271L544 1281L554 1362Q484 1390 390 1367L423 1304Z" fill="url(#hide)" stroke="#694a31" stroke-width="11"/>
+<path d="M580 1278L648 1272L695 1356Q634 1390 563 1364Z" fill="url(#hide)" stroke="#694a31" stroke-width="11"/>
+<path d="M422 1330L548 1347M582 1342L690 1333" stroke="#c89d6c" stroke-width="7"/>
+<!-- long cream bellkeeper inner robe -->
+<path d="M423 516Q506 476 657 508L731 1129L713 1272Q566 1335 362 1277L354 1142Z" fill="url(#cream)" stroke="#ab8d6c" stroke-width="12"/>
+<path d="M399 571Q368 887 376 1239M652 548Q702 870 711 1244M462 626L462 1282M583 633L601 1292" stroke="#d7b98b" stroke-width="7" fill="none"/>
+<path d="M372 1262Q525 1311 701 1254M374 1233Q514 1271 702 1229" stroke="#dbad72" stroke-width="6" fill="none"/>
+<!-- practical waist belt and pouch visible at rear wearer LEFT (viewer right), behind mantle -->
+<path d="M383 773H706" stroke="#624630" stroke-width="25"/>
+<rect x="512" y="758" width="62" height="42" rx="4" fill="url(#brass)" stroke="#7b5332" stroke-width="8"/>
+<path d="M434 537Q529 676 665 834" fill="none" stroke="#654732" stroke-width="23"/>
+<path d="M434 537Q529 676 665 834" fill="none" stroke="#d1a475" stroke-width="6"/>
+<g transform="translate(681 840)">
+<path d="M-70 -45H72L82 128Q1 158 -81 123Z" fill="url(#hide)" stroke="#d6b080" stroke-width="10"/>
+<path d="M-64 -7Q-9 24 70 -10L64 41Q-8 55 -69 39Z" fill="#a7754d" stroke="#674732" stroke-width="7"/>
+<path d="M-25 -5V106M45 -4V107" stroke="#65432f" stroke-width="12"/>
+<rect x="-40" y="35" width="25" height="31" fill="url(#brass)" stroke="#754e32" stroke-width="4"/>
+<rect x="32" y="33" width="25" height="32" fill="url(#brass)" stroke="#754e32" stroke-width="4"/>
+</g>
+<!-- sleeves and backs of human hands -->
+<path d="M433 552Q345 698 326 878L309 991" stroke="url(#cream)" stroke-width="68" stroke-linecap="round" fill="none"/>
+<path d="M650 538Q736 702 751 881L758 985" stroke="url(#cream)" stroke-width="68" stroke-linecap="round" fill="none"/>
+<path d="M297 856L351 855L356 974L302 983ZM718 857L782 852L793 977L737 980Z" fill="url(#cream)" stroke="#cfa876" stroke-width="9"/>
+<path d="M307 982Q287 1010 303 1037Q335 1049 357 1013L357 968M736 980Q721 1018 749 1039Q785 1041 792 999L787 974" fill="#e8bd96" stroke="#a87b5c" stroke-width="8"/>
+<!-- large blue cape layered over shoulders and rear -->
+<path d="M395 517Q494 443 652 505L800 1132L726 1253L674 1216L617 1281L516 1196L433 1278L355 1203L300 1254L270 1135Z" fill="url(#navy)" stroke="url(#brass)" stroke-width="12"/>
+<path d="M317 640Q280 916 283 1137M646 571Q753 868 777 1131M371 1191Q474 1257 516 1187Q600 1264 671 1208" stroke="#edc389" stroke-width="7" fill="none"/>
+<path d="M392 574Q463 612 512 577Q597 544 649 595" stroke="#c7a56d" stroke-width="6" fill="none"/>
+<path d="M358 720Q414 757 452 713M610 722Q674 757 717 723M415 923Q451 875 496 893Q557 942 618 888" stroke="#cca66b" stroke-width="6" fill="none"/>
+<!-- large single central human Bellkeeper insignia with symmetrical road branches -->
+<g transform="translate(539 883)">
+<path d="M-104 -75Q-147 -34 -131 22M104 -75Q145 -31 130 24" stroke="#e8c184" stroke-width="7" fill="none"/>
+<path d="M-143 4L-176 -8M-129 -18L-146 -48M145 3L175 -9M130 -21L149 -50" stroke="#e8c184" stroke-width="6" fill="none"/>
+<g transform="translate(0 0) scale(1.25)" fill="none" stroke="#e5b774" stroke-width="6"><path d="M0 -52Q-34 -46 -30 -9Q-29 18 -42 29H42Q30 18 30 -9Q34 -46 0 -52Z"/><path d="M-45 31H45"/><circle cx="0" cy="37" r="10" fill="#dba658" stroke-width="4"/><path d="M0 -55V-73"/></g>
+<path d="M-67 76Q0 117 65 76M0 103V147" stroke="#e8c184" stroke-width="7" fill="none"/>
+</g>
+<path d="M420 1022Q453 1065 424 1096M640 1042Q670 1072 641 1107" stroke="#d5af74" stroke-width="5" fill="none"/>
+<!-- two small brass bells at waist, one per side -->
+<g transform="translate(357 1037) scale(0.36)" fill="none" stroke="#e5b774" stroke-width="6"><path d="M0 -52Q-34 -46 -30 -9Q-29 18 -42 29H42Q30 18 30 -9Q34 -46 0 -52Z"/><path d="M-45 31H45"/><circle cx="0" cy="37" r="10" fill="#dba658" stroke-width="4"/><path d="M0 -55V-73"/></g><g transform="translate(716 1032) scale(0.36)" fill="none" stroke="#e5b774" stroke-width="6"><path d="M0 -52Q-34 -46 -30 -9Q-29 18 -42 29H42Q30 18 30 -9Q34 -46 0 -52Z"/><path d="M-45 31H45"/><circle cx="0" cy="37" r="10" fill="#dba658" stroke-width="4"/><path d="M0 -55V-73"/></g>
+<!-- ornate navy shoulder hood with gold seam, rear hair at head -->
+<path d="M404 531Q438 455 510 453Q624 440 667 535L627 602Q532 574 454 600Z" fill="#243e62" stroke="#e6c58d" stroke-width="11"/>
+<path d="M419 554Q530 584 650 551" stroke="#e1b476" stroke-width="5" fill="none"/>
+<path d="M484 469V411L575 411L583 468" fill="#e7bd97" stroke="#ad8064" stroke-width="7"/>
+<ellipse cx="532" cy="320" rx="119" ry="128" fill="#5b392b" stroke="#3d2d25" stroke-width="9"/>
+<!-- Adult pinned hair, original bun/tie -->
+<path d="M428 339Q406 287 429 238Q434 180 490 183Q520 140 575 174Q642 169 659 226Q679 288 639 347L596 401L463 390Z" fill="url(#hair)" stroke="#382820" stroke-width="10"/>
+<path d="M440 230Q447 174 497 184M515 178Q543 135 588 173M615 194Q661 194 661 238" stroke="#a07348" stroke-width="18" stroke-linecap="round" fill="none"/>
+<ellipse cx="537" cy="286" rx="83" ry="73" fill="url(#hair)" stroke="#b08254" stroke-width="8"/>
+<path d="M482 278Q532 224 593 284M468 295Q541 350 598 289" stroke="#b48353" stroke-width="12" fill="none"/>
+<circle cx="540" cy="280" r="18" fill="url(#brass)" stroke="#806039" stroke-width="6"/>
+<path d="M522 275L558 285M537 262L544 300" stroke="#866239" stroke-width="4"/>
+<path d="M610 296Q648 363 618 422" stroke="#a67442" stroke-width="9" fill="none"/>
+<circle cx="620" cy="423" r="9" fill="url(#brass)" stroke="#805f35" stroke-width="4"/>
+</svg>
